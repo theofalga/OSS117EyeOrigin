@@ -1,0 +1,281 @@
+Leftpupil.x Leftpupil.y Rightpupil.x Rightpupil.y
+1 1 1 
+1
+afc1ed2498c5d808f04e4a04cb06e6b1cb7ac724  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1111.png
+0 0 0 0 
+2
+0ac60f3e6997bed062363c39796a263b42639424  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1112.png
+0 0 0 0 
+3
+f1ed9e11578681da55833709fbaf2024a4e19ad1  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1113.png
+0 0 0 0 
+4
+04e6cc3c051243f7aeb5e90b547a3fc31fcee62a  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1114.png
+0 0 0 0 
+5
+524463b75091ca027da76173e25da12700dfc47f  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1115.png
+0 0 0 0 
+6
+eac1d216253ab6650847c15e09ef46a3afb35452  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1116.png
+0 0 0 0 
+7
+ae157cd279c059431d481a72427ff01b9b800521  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1117.png
+0 0 0 0 
+8
+e7065ae3c85a8fc157a77e09cd6d5f7820783dba  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1118.png
+0 0 0 0 
+9
+a312261cb63434c975a08533794fd8a8f5cb69c2  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1119.png
+0 0 0 0 
+1 1 2 
+1
+7479c5817953953f2914948a44f687ff10ae334b  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1121.png
+0 0 0 0 
+2
+626e146b0ab9c8ef48f1e54e82b00d57960e5187  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1122.png
+0 0 0 0 
+3
+9e08492f53d034bc495e70a2884b2e57fd890e7c  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1123.png
+0 0 0 0 
+4
+723fb9279ae02c4d6fce48857616845ec3872d00  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1124.png
+0 0 0 0 
+5
+970283240342237071ecf0e19bc07617490dd33b  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1125.png
+0 0 0 0 
+6
+8bacf6decf71390c1957dcced42562c17a0d88e0  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1126.png
+0 0 0 0 
+7
+fbbe44baa119863aa675aa16aef89ad12acc62b4  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1127.png
+0 0 0 0 
+8
+43f2c50f263fb4cfbee56f152ed7fca9c1f35a8d  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1128.png
+210 160 311 171 
+9
+b1508d7709b49539d0143cd99d196a7fd1d811cf  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1129.png
+0 0 0 0 
+1 1 3 
+1
+cef812784d3101a94d2415d340c8b94f260c7269  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1131.png
+0 0 0 0 
+2
+ece11c273dc41a4be8853c47d143efe2c253144d  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1132.png
+0 0 0 0 
+3
+9ac09ca5f655c1299d8239753ac7f27edd059b1a  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1133.png
+0 0 0 0 
+4
+65e8d327b2241e76cccc23a6fd4494d8d1fda132  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1134.png
+0 0 0 0 
+5
+669ba5b4a15e6452055e0c312bebfb0a132a2471  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1135.png
+0 0 0 0 
+6
+992218dd4c224eba961bb22fa0cdbfb7c8a7140e  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1136.png
+0 0 0 0 
+7
+d27c1b075b5d729cbbb9541ff320faa45ecfcba0  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1137.png
+0 0 0 0 
+8
+d73284c624b9609498446515552b8d65cd3bf930  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1138.png
+0 0 0 0 
+9
+a6fa4edc9b118e498228f7391af5b4ab58e32a5d  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1139.png
+0 0 0 0 
+1 2 1 
+1
+f6cc7abd51c3b9449c8a2be5e95ba146b5576dd9  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1211.png
+0 0 0 0 
+2
+5d51eb104aae87a721811f51aa229cd6be2ea2e0  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1212.png
+0 0 0 0 
+3
+0c4cf743bb7166ba057d51b7e3dbf72192c8a9e5  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1213.png
+0 0 0 0 
+4
+82520a89cd694f4d6a4fc25e6f87e8423d7ff6ed  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1214.png
+0 0 0 0 
+5
+a71344b9c44c46a38cca0573482c0ff83df784dd  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1215.png
+0 0 0 0 
+6
+83e4246e36178912aa7252745bd0ab6e9119d45e  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1216.png
+0 0 0 0 
+7
+0af4a401ff165bc804d79be2b584518b78f9b6f9  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1217.png
+202 162 306 170 
+8
+4a7aec392dba33b19a7ebb0aaff44dfc457d46ed  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1218.png
+0 0 0 0 
+9
+8f0b523365b5fee91a6fad7156bc8102270d6cdf  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1219.png
+214 162 318 173 
+1 2 2 
+1
+f5d3c0b4badb179a188710fc17f74c1473b8d1f6  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1221.png
+197 159 303 166 
+2
+56113bc6a763146f2d6b19b2de1ec77dbcbbac66  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1222.png
+205 160 311 167 
+3
+516c6bd344308e351549dc8eeb57e061ca927efd  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1223.png
+0 0 0 0 
+4
+a41590977b506bf8ac9d293d3cdbd5f2666e1e96  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1224.png
+200 162 303 168 
+5
+f9d15d9cb938b14e260da61dd4fe292d001f5d58  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1225.png
+205 160 310 168 
+6
+c610fba6b54465fc81d8552c9fddb9d273a43dde  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1226.png
+0 0 0 0 
+7
+639ba0366e1b42dff1ee945eadd03e2f20c74fef  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1227.png
+202 161 302 168 
+8
+dbe8f0bd28e56db99c1ec7fa6aaa15720ce8cbbd  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1228.png
+203 164 307 172 
+9
+a9f9d1318e8ee0da6dd4a4104c76084a1b529662  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1229.png
+206 161 310 171 
+1 2 3 
+1
+07ec0d089c4cc553cfe1836eac8f5253b00251f6  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1231.png
+198 158 305 165 
+2
+bfb07db473f7c0228268b94e238b94ed6d608bfd  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1232.png
+0 0 0 0 
+3
+342f210ec0a7b740638703b73d1527773733dbb7  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1233.png
+200 161 312 165 
+4
+06b1062f93beba1d87b391d12b7f4cfb347e697f  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1234.png
+199 161 303 167 
+5
+a919499e9e29050766ab4474e44acc8d20bfcf6e  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1235.png
+0 0 0 0 
+6
+933fe39db6fd496ddb6ab781c30e295e282972d6  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1236.png
+0 0 0 0 
+7
+bd3273cee33c9e88e2ec72c1d4ae825064676a90  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1237.png
+199 162 303 170 
+8
+53b256d44f233e12437fa8c8b38fe835e25481ac  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1238.png
+203 161 307 169 
+9
+051f4dfbd10368b4de95da9dfc5222865c34f30c  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1239.png
+0 0 0 0 
+1 3 1 
+1
+e1d86556757558aebe809fef87926b7c102c18ef  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1311.png
+206 158 312 164 
+2
+ae5cc2afeca1d6c8c1f7c819c85aa8ef1b0a57de  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1312.png
+221 152 327 163 
+3
+0ba2efdff2150982c05e5fa59fe4016eb503edef  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1313.png
+0 0 0 0 
+4
+61222c32d0437bc36c3de4694547dcb02c26cb2b  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1314.png
+209 156 315 163 
+5
+e73ef71602969a18c81754e41e5700251acc934b  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1315.png
+195 160 324 164 
+6
+4376a2d76a459fd13e0bdd50c3d21c341ffdc309  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1316.png
+0 0 0 0 
+7
+63e0d05e2e0ce44d1b7d0d2b4829e6688be874f1  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1317.png
+208 157 315 166 
+8
+c4522e831b2d4b835d12075d25d563e9124095a3  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1318.png
+212 157 317 169 
+9
+dc0083623a8ea7a211d0a99a9edaba54a1c93656  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1319.png
+214 157 321 166 
+1 3 2 
+1
+26db5fd7b3e2e92c90dc333e252b6804233a5ab1  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1321.png
+204 154 312 161 
+2
+e0042f0a39e6dd4e66b967c50f4824f01285b367  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1322.png
+211 154 320 160 
+3
+badfe9d418dbcbad9d2af15f984d07d85aefe8e9  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1323.png
+214 153 323 161 
+4
+4750b4c542408168ea5a51d5f7cd3a9eb2715007  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1324.png
+204 155 312 162 
+5
+2fc875904a9c4a295ae79a2298b13802a4aa8451  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1325.png
+212 156 318 165 
+6
+aab098aef2a996d4f55116abc3fc5bd42c8f93a2  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1326.png
+0 0 0 0 
+7
+43a7132d8fffae4b568372ad9bc720ecca2441f7  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1327.png
+205 157 314 167 
+8
+352c333ba9853fdcde9145fe62c7ab878964cc77  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1328.png
+211 156 318 167 
+9
+d1730ad3aa47108328280fe27b732f5f3ab2196e  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1329.png
+0 0 0 0 
+1 3 3 
+1
+c7487dea4fa870ad964e8540cd06061dce2a2c40  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1331.png
+199 154 308 159 
+2
+c22aebff8b7cbc6dcef3491ab47ce754068f4b60  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1332.png
+0 0 0 0 
+3
+1f81d512868115290bb73bf0fe35ddf0bb702519  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1333.png
+0 0 0 0 
+4
+75294a4e01ebcbfeed5eeb84b342eb89e43f464e  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1334.png
+204 153 311 161 
+5
+c45235c313f405fa20d3c09523df2c95927aa496  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1335.png
+222 153 327 166 
+6
+65872c07a97223af76b88c68bb3a18affee3b67d  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1336.png
+222 149 331 163 
+7
+9e9aa476da5acf54538433cbf3cbf8b7f42029be  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1337.png
+207 155 313 163 
+8
+03f33fdfcd136c0b7f6788fdb995c7096cc6f9c0  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1338.png
+209 155 315 166 
+9
+3a30a9ae2654f46f7954bf3e52203f9dfb572460  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1339.png
+0 0 0 0 
+1 4 1 
+1
+e5024da7216b3cb10d9d6a44e6805b8143412035  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1411.png
+0 0 0 0 
+2
+1ae5b60a650409d741d0fd59c20ef3a04fc1ae0b  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1412.png
+0 0 0 0 
+3
+0faf1cd0d69e5587fab1c9291fdea9f32aeacc2b  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1413.png
+0 0 0 0 
+4
+2621c5cfd612fd57800c24a8d10449e68553016c  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1414.png
+207 161 313 169 
+5
+d6fd8b469298e6c35fd104650cb1ebdba3964ab9  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1415.png
+217 158 323 170 
+6
+3865bf0157caf21fbeeecc8be916d3a4d77373b5  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1416.png
+0 0 0 0 
+7
+dcddcc96faa1637cc11f1e7c0dfd35f3ba70874f  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1417.png
+206 161 315 170 
+8
+2a022904ca5327186b59a41fe055020f2ecc9515  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1418.png
+220 158 325 171 
+9
+21909bef8212d2ebd83cb66fefa7b5b4ce57dab9  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/theo/1419.png
+213 155 331 170 
