@@ -52,7 +52,7 @@ public class Oss117plugin implements PlugInFilter, MouseListener
     String sha = "sha1sum ";
     String extension = ".png";
     String filename = "positionReference.txt" ;
-    String entete = "Left_X  Left_Y  Right_X  Right_Y"+"\n" ;
+    String entete = "Left_X  Left_Y  Right_X  Right_Y \n" ;
    
     public int setup(String arg, ImagePlus img)
     {
@@ -99,7 +99,8 @@ public class Oss117plugin implements PlugInFilter, MouseListener
 	int Y = e.getY();
 	int button = e.getButton();
 	File f = new File (fichier);
-
+	
+	// if (frame == stack.getsize()+2){close();}
 	//left click
 	if (button == MouseEvent.BUTTON1) {
 	    //first on the slide (left iris)
