@@ -1,5 +1,5 @@
 // Projet OSS117 : Eye origin 
-// Version 0.0 
+// Version 1.0 
 // Théo Falgarone, Alexis Hubert, Tristan Maunier, Christian Te
 
 
@@ -129,7 +129,7 @@ int main( int argc, const char** argv ) {
           std::cout << name << std::endl ;
           std::string a ;
           std::cin >> a ;
-          cv::VideoCapture capture(-1);
+          cv::VideoCapture capture(-1); //-1 équivaut à la webcam de l'ordinateur ; 1 correspond à la caméra connectée par le port USB
           capture.read(frame);
 
           // mirror it
@@ -140,7 +140,7 @@ int main( int argc, const char** argv ) {
             imwrite(name,frame) ;
           }
           else {
-            printf(" --(!) No captured frame -- ERROR \n Try Again or EXIT!");
+            std::cout << " --(!) No captured frame -- ERROR \n Try Again or EXIT!\n" << name << std::endl ;
             l--;
           }
         }
