@@ -17,7 +17,7 @@
 
 bool compare_pos(int pos1, int pos2){
   int diff = std::abs(pos2 - pos1) ;
-  if (diff > 3){
+  if (diff > 2){
     return true ;
   }
   return false ;
@@ -188,39 +188,83 @@ void affiche100(std::vector<Camera> cam){
 //on détermine si un couple de caméra est correct cad si l'on détecte correctement les deux yeux pour les 9 points
 void interpret(std::vector<Camera> cam, int j, int nextpos){
   for(int k=j+nextpos; k<cam.size() ; k++){
-    for(int i=0 ; i<point ; i++){
-      int test = i ;
-      test++ ;
-      if(cam[j].get_left(i)==false && cam[k].get_left(i)==false){
-        break ;
-      }
-      else if(cam[j].get_right(i)==false && cam[k].get_right(i)==false){
-        break ;
-      }
-      else if(test==point){
-        std::cout << "\nLe couple de caméra suivant est correct : " << std::endl ;
-        cam[j].affiche() ;
-        cam[k].affiche() ;
-	break ;
+    if(cam[k].get_left_pourcentage()==100 && cam[k].get_right_pourcentage()==100){
+    }
+    else{
+      for(int i=0 ; i<point ; i++){
+        int test = i ;
+        test++ ;
+        if(cam[j].get_left(i)==false && cam[k].get_left(i)==false){
+          break ;
+        }
+        else if(cam[j].get_right(i)==false && cam[k].get_right(i)==false){
+          break ;
+        }
+        else if(test==point){
+          std::cout << "\nLe couple de caméra suivant est correct : " << std::endl ;
+          cam[j].affiche() ;
+          cam[k].affiche() ;
+        }
       }
     }
   }
 }
 
 void affiche_interpret(std::vector<Camera> cam){
-  for(int j=0 ; j<=cam.size() ; j++){
-    int diff = j + nbcombangle ;
-    diff %= nbcombangle ;
-    int nextpos = nbcombangle - diff ;
-    interpret(cam,j,nextpos) ;
+  for(int j=0 ; j<cam.size() ; j++){
+    if(cam[j].get_left_pourcentage()==100 && cam[j].get_right_pourcentage()==100){
+    }
+    else{
+      int diff = j + nbcombangle ;
+      diff %= nbcombangle ;
+      int nextpos = nbcombangle - diff ;
+      interpret(cam,j,nextpos) ;
+    }
   }
+}
+
+void globalmean(std::vector<Camera> cam){
+  double meanl = 0 , meanr = 0 ;
+  for(int i=0 ; i<cam.size() ; i++){
+    meanl+=cam[i].get_left_pourcentage() ;
+    meanr+=cam[i].get_right_pourcentage() ;
+  }
+  meanl/=cam.size() ;
+  meanr/=cam.size() ;
+  std::cout << "Moyenne oeil gauche : " << meanl << "\nMoeynne oeil droit : " << meanr << std::endl ;
+}
+
+void menu()
+{
+  std::cout << "\n_____________MENU_____________\n"<< std::endl ;
+  std::cout << "1- Changer d'utilisateur à interpréter" << std::endl ;
+  std::cout << "2- Afficher toutes les caméras" << std::endl ;
+  std::cout << "3- Afficher les caméras ayant 100% aux deux yeux" << std::endl ;
+  std::cout << "4- Afficher la moeynne des pourcentages de réussite sur l'ensemble des caméras pour chaque oeil" << std::endl ;
+  std::cout << "5- Afficher les couples de caméras correct" << std::endl ;
+  std::cout << "0- Quitter" << std::endl ;
 }
 
 int main(){
   std::vector<Camera> cam ;
   cam = collect_data(cam) ;
   //affiche100(cam) ;
-  affiche(cam) ;
-  affiche_interpret(cam) ;
+  //affiche(cam) ;
+  //affiche_interpret(cam) ;
+  int rep(0) ;
+  bool loop = true ;
+  while(loop){
+    menu() ;
+    std::cin >> rep ;
+    switch(rep){
+      case 0 : loop = false ; break ;
+      case 1 : cam = collect_data(cam) ; break ;
+      case 2 : affiche(cam) ; break ;
+      case 3 : affiche100(cam) ; break ;
+      case 4 : globalmean(cam) ; break ;
+      case 5 : affiche_interpret(cam) ; break ;
+      default : std::cout << "Erreur saisie ! Veuillez recommencer" << std::endl ; break ;
+    }
+  }
   return 0 ;
 }

@@ -1,7 +1,7 @@
 interpretation : Interpretation.o Camera.o 
 	g++ Interpretation.o Camera.o -o interpretation
 
-Interpretation.o : Interpretation.cpp
+Interpretation.o : Interpretation.cpp ../protocol_constants.h
 	g++ -c -g Interpretation.cpp
 
 Camera.o : Camera.cpp
