@@ -1,5 +1,5 @@
 // Projet OSS117 : Eye origin 
-// Version 0.0 
+// Version 1.0 
 // Théo Falgarone, Alexis Hubert, Tristan Maunier, Christian Te
 
 
@@ -124,9 +124,9 @@ void findeyesandwrite(){
             detectAndDisplay(frame,name,save) ;
           }
           else {
-            printf(" --(!) No captured frame -- Break!");
+            std::cout << " --(!) No captured frame -- ERROR ! \n" << name << std::endl ;
             file << "sha" << " pathimage\n" << 0 << " " << 0 << " " << 0 << " " << 0 << " " << std::endl ;
-            exit(0); // A RETIRER A LA FIN
+            //exit(0);
           }
         }
       }
