@@ -1,10 +1,10 @@
-interpretation : Interpretation.o Camera.o 
+interpretation : Interpretation.o Camera.o
 	g++ Interpretation.o Camera.o -o interpretation
 
 Interpretation.o : Interpretation.cpp ../protocol_constants.h
 	g++ -c -g Interpretation.cpp
 
-Camera.o : Camera.cpp
+Camera.o : Camera.cpp Camera.hpp ../protocol_constants.h
 	g++ -c -g Camera.cpp
 
 clean : 

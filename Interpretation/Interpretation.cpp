@@ -17,7 +17,7 @@
 
 bool compare_pos(int pos1, int pos2){
   int diff = std::abs(pos2 - pos1) ;
-  if (diff > 2){
+  if (diff > 3){
     return true ;
   }
   return false ;
