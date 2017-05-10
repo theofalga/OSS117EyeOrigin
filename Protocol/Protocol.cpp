@@ -129,7 +129,7 @@ int main( int argc, const char** argv ) {
           std::cout << name << std::endl ;
           std::string a ;
           std::cin >> a ;
-          cv::VideoCapture capture(-1); //-1 équivaut à la webcam de l'ordinateur ; 1 correspond à la caméra connectée par le port USB
+          cv::VideoCapture capture(1); //-1 équivaut à la webcam de l'ordinateur ; 1 correspond à la caméra connectée à l'ordinateur par le port USB
           capture.read(frame);
 
           // mirror it
