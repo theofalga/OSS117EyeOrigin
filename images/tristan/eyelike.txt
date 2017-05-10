@@ -1,0 +1,2941 @@
+Leftpupil.x Leftpupil.y Rightpupil.x Rightpupil.y
+1 1 1 
+1
+c12af149a81fea49344da16d45680c4dc4eec07c  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1111.png
+421 283 495 286 
+2
+08daef4fdda634fe8e3d148435ed6587fdbe748a  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1112.png
+427 282 497 286 
+3
+48bb751ce3050a67b8d875d4405443208bb64763  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1113.png
+430 283 499 286 
+4
+ec7b68c011458203ae8843ba518a957e00897a82  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1114.png
+420 284 491 287 
+5
+5bb7448c5d856d24db41fdf03c8d6fec83d8beec  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1115.png
+424 284 494 287 
+6
+bb89677d4508c5f540498ffed39a882c24342a31  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1116.png
+427 285 497 287 
+7
+07df6be0e4a20a20afa829b6811110117c56adb4  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1117.png
+420 287 491 289 
+8
+5f7c52446b0663b91ae0103e45f834fbb4ff4e49  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1118.png
+423 286 493 287 
+9
+bc246f08e7acb70f42a4cd1f49c8638a0ea6b8b5  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1119.png
+426 287 495 288 
+1 1 2 
+1
+42ab40edd7ead3a1f561fd592302252bf05639fa  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1121.png
+414 220 487 221 
+2
+0be398892b1958e8b15fc9948e129d8f86df017a  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1122.png
+422 222 492 224 
+3
+7b7ef0ce3a7cce78e1f9417c7576ad687ff6f5c9  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1123.png
+427 222 496 224 
+4
+e56f1fdcf5b7653ffe09548b13934f2c5772065b  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1124.png
+418 223 489 225 
+5
+f0af0cc55323829db352baad71a3990279434320  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1125.png
+421 223 492 225 
+6
+0e1a5038bc95d21570de7a924df1d4db73eda437  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1126.png
+426 224 495 226 
+7
+3785a9a2f64ee572ac40d17872f30a4dde8e5e35  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1127.png
+417 225 488 226 
+8
+64f4f3bb29852bfc84e38ece8ee8513fb5efc981  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1128.png
+421 225 490 227 
+9
+14c4a1d0ab35b33c54b059f77811071d3a786255  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1129.png
+424 226 493 227 
+1 1 3 
+1
+a3f653215c0ea225fa1a71e1a44a2b5d52dc795c  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1131.png
+411 146 482 149 
+2
+eca4f878c39893ae7c7d38149a13092796592323  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1132.png
+416 146 487 150 
+3
+7b0b1890e1110597538b64b762533c800e745d43  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1133.png
+420 147 488 151 
+4
+04637430b23575cf2adc1cf76ecee05a6db8cea5  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1134.png
+411 148 481 151 
+5
+04a0f9cca3636a83cd8914adad7112acdbc9b6a0  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1135.png
+414 150 486 155 
+6
+35adcfdc67ca8aa0878d623c5b64a929a412dacf  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1136.png
+417 150 486 152 
+7
+2a60024ab0a30e04da012cd1dbffe2f66621f576  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1137.png
+408 151 478 152 
+8
+447056e87f2b2357884338991df3d34d55d88975  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1138.png
+411 151 481 153 
+9
+432ddd091551b1ac71081763f8a199360e263811  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1139.png
+413 152 483 153 
+1 2 1 
+1
+73d93cc8635340a468e4b9a704573125a92868ad  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1211.png
+343 294 412 299 
+2
+e91d7939694274e6c831aa94c75c9f80ef6f27a7  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1212.png
+348 294 415 299 
+3
+c948f6a61fc482e5c9a6101334ff3e1534661028  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1213.png
+350 295 417 300 
+4
+3182041dc8cf015fbaa9f54136b4ea96e003846a  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1214.png
+342 297 411 300 
+5
+9bb7806dc284998f978ef12e530985876a6e03b2  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1215.png
+345 298 413 301 
+6
+503559b162fce00fd0a8f942ff0cda507e4bea28  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1216.png
+349 298 415 302 
+7
+9b009a099dae0da3e416e655d8c5dee7e565651a  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1217.png
+343 299 411 303 
+8
+fac96929ad289ad4bb79e92e08c51c4bc0073940  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1218.png
+345 299 412 304 
+9
+3ebe4b3c60934ad312d95aade0dd9e4d07fb9db5  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1219.png
+348 300 415 304 
+1 2 2 
+1
+8cfdc8711518d99120ee1f9ef861ce6d935da911  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1221.png
+347 222 417 226 
+2
+238db80993052af91c3356216df468439d7fa7b2  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1222.png
+351 221 418 225 
+3
+fb2c16dcc0da87f6275df7403b5701fc39ec59c8  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1223.png
+353 222 420 226 
+4
+40a61b78a5bdcdec6cfead5f4e5dd43e11c910ba  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1224.png
+347 222 415 227 
+5
+cf0e5d00f74dfac353eeb1e4c713b6ba14a08a9e  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1225.png
+348 222 417 226 
+6
+2b13f11871c7f53278727497efc78cb15674b740  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1226.png
+351 223 419 227 
+7
+7093af00b32732a67c961c553f1c4aeec2a27e44  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1227.png
+344 224 413 227 
+8
+8ed94392df21b90bca2ac5570a1d10841c419204  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1228.png
+346 225 414 228 
+9
+e5232b6418d333d373edcdfef38ecca7fdb9ac3e  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1229.png
+350 225 418 229 
+1 2 3 
+1
+29995da5734c01e0370505c3ff8661d3168b085b  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1231.png
+357 145 428 151 
+2
+4d2fa7955c9f8e902d77983e0d7713465d67008c  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1232.png
+360 146 430 150 
+3
+08b309d593956f154755034e8622223a940a339c  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1233.png
+363 147 432 151 
+4
+29830b10cad9568acbb284af016cdfab70e51850  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1234.png
+356 146 426 151 
+5
+b044c53699d1e6014ee2e226cdba57c1f12ce868  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1235.png
+357 147 428 151 
+6
+cd113c6de6dd9e841c589a66d09a6c5bbbee4b3f  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1236.png
+362 148 430 152 
+7
+e87c3561738638c29029fc0b37ea988cfb18e546  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1237.png
+355 149 425 153 
+8
+be45977029a2be612ccd1476bc5f72ca77b399f9  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1238.png
+358 149 427 154 
+9
+eb79abee93ca3f9356ce8986f839ddeeb0ab2b35  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1239.png
+361 150 430 155 
+1 3 1 
+1
+93cea68c4c0d516a7b6d6b453aebec7da2143830  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1311.png
+286 276 357 282 
+2
+3749a618732fefcf3a083ff8791f491a97d35349  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1312.png
+290 276 359 282 
+3
+58903597f7d75e9823ba5bba12810b5fefdead3c  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1313.png
+293 278 361 282 
+4
+37138adf1e878051b3df9cbe170783fee189c7a4  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1314.png
+284 278 354 284 
+5
+8227e6ee8217ba4f8ac7e4adfd147e4f84d559c9  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1315.png
+289 278 357 284 
+6
+6324bfca22595b6fb90b652c17250a79a65f66de  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1316.png
+291 279 358 284 
+7
+7773777efe7ce5750c1c21913c734876729a46b8  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1317.png
+282 280 351 285 
+8
+20bc19c54f6bc5efc01988fca0d82c9b9d791675  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1318.png
+285 281 353 285 
+9
+93504211811f482bae28d4a9845b924264152fa7  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1319.png
+289 281 356 285 
+1 3 2 
+1
+1aea7e45a1202881cff3bef979464134059b4a20  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1321.png
+281 215 350 222 
+2
+d4d27aeb8bd79c197d9d10a721eaca7b9694cb42  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1322.png
+286 215 354 223 
+3
+78c1f19596a71a29b5a2dc12ac04aa8cd22ace5e  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1323.png
+292 216 358 224 
+4
+e436dc3f3491b75669a75c4bdd0aa51114626434  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1324.png
+283 216 351 224 
+5
+abdeca2b715e4f0ef603fc02475a56fcf14ccc28  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1325.png
+286 217 353 224 
+6
+56b52e3b6853dbb55583b1f6dc4bac1f1dd07498  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1326.png
+290 218 356 225 
+7
+671a8daf16b5b8ca55be8315740de46e2339dffb  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1327.png
+282 219 350 226 
+8
+0b2f275e345d6af615cc92bf4208175f85e77f12  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1328.png
+287 219 355 226 
+9
+ca1f2a9ea306b5a259d38babfe4bff800b8fc4d1  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1329.png
+288 220 355 227 
+1 3 3 
+1
+a3d00914b6d57efa893031e2eff8e267a877de2c  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1331.png
+278 145 350 152 
+2
+113fd0d380c65450ed429e29be9f54d4b08d2419  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1332.png
+283 145 353 151 
+3
+38f24e8f567aa8a24954a8000fb8314881f89df1  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1333.png
+290 146 359 154 
+4
+a91cd7b604886c0db98a27207e7f42199469bf6f  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1334.png
+277 146 348 152 
+5
+258934999ae92624059c9bed1674fa65e6bfee67  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1335.png
+282 146 352 152 
+6
+797cfdcddf3347c61d7cbd8cfb06b0639024c40b  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1336.png
+284 146 354 151 
+7
+3384217dc0d4e802c63724da2c217b932b074872  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1337.png
+277 147 347 151 
+8
+57758081ee4d712b761242be840edd635a5acd8c  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1338.png
+278 147 347 152 
+9
+e372cf9bf0b2b3c48f814ef5e1193fb90a7ee1cd  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1339.png
+283 148 351 153 
+1 4 1 
+1
+93b17c7f676b310d5d7ca74bf174d8095ac6719c  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1411.png
+220 287 289 296 
+2
+ee53232c46fed91a92bd1f9e4c5ddf341f5a99d5  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1412.png
+224 287 292 296 
+3
+1d15bf1df7df21569ad27e9242b20da03132aee9  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1413.png
+227 288 293 297 
+4
+0f9340e380ddd24ce6b8c9dd7532a2f8cb697f3e  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1414.png
+220 288 287 297 
+5
+8ba4a90143e9ba06a83f27dbb8db327db379b698  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1415.png
+224 288 290 297 
+6
+f5977593ce6fc411ea537970469493c2b644c6ab  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1416.png
+227 289 293 298 
+7
+42ab8439ace78f641cea8dd85780c9aeb7ce5115  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1417.png
+218 289 287 298 
+8
+a53e8f2a837271a98dfdb262bc67aab494b612bd  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1418.png
+222 290 289 300 
+9
+5b3cb8b92a75e261a325ddd3ebe2d64afbe3d3cc  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1419.png
+226 290 292 300 
+1 4 2 
+1
+8aece41ec2522f6a0ad244bf308406b01dfcad18  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1421.png
+220 211 290 220 
+2
+5d65cdaf5cccd6071c565b48d6905a19e5ab93df  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1422.png
+224 212 293 220 
+3
+b991660306c60f212c6a3e8a756275fc62e91cff  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1423.png
+228 213 295 222 
+4
+ca3695370b9b2b35564f0a3390c4a68b6661571e  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1424.png
+220 213 290 222 
+5
+032f3a090c397d21dcc560961dc599e95946c2dd  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1425.png
+224 214 292 222 
+6
+643c7f6ebc5cceea089b32b3f5f508428217ffb5  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1426.png
+228 213 294 223 
+7
+995e5645178ef24e9d9527900d9dda5e42272758  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1427.png
+219 214 287 222 
+8
+7f3371e92ab4867e843fa716b574f452efacaffb  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1428.png
+222 215 290 223 
+9
+86347c45ff571dc5dd706ade698a8fcacc99022c  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1429.png
+225 215 292 224 
+1 4 3 
+1
+e53378ecbc5f0019eb29732a10e299922e4f5709  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1431.png
+211 147 283 154 
+2
+def1f7ba0a43bb156b5b7c0156707a14d3d254fe  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1432.png
+216 146 286 154 
+3
+701c8ac9361f06a0f76d9a386931da7c83e87105  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1433.png
+221 147 288 154 
+4
+92246f740437aaf8c38ff38692aafb27e9993754  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1434.png
+213 147 284 154 
+5
+6bc7e70e751d952f2629cbc72c938e0e91ec38e9  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1435.png
+217 147 286 155 
+6
+369dfb1af300ed6c1241a7268e3b6bb5f3911e16  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1436.png
+222 148 289 156 
+7
+90e486a4496a17b000bbf861595a45730b8e425c  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1437.png
+213 148 282 156 
+8
+9d6911c8c04fcb79fc7473deb4c8fa6d6861743c  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1438.png
+216 149 285 157 
+9
+a8539f9430e7ab4c1e2e863d4b1402c9ee35441f  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1439.png
+220 149 288 158 
+1 5 1 
+1
+807ebcf9c64582b1ffeee2275efcb3f03670898d  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1511.png
+158 282 228 294 
+2
+6a17fc238b1ce05d67dc40dc4cb4eed1422bc639  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1512.png
+162 283 231 294 
+3
+083d0e672dc78a3c152c57503ac308ab5824bfa7  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1513.png
+167 285 236 294 
+4
+935c1181f2cdea3bd07ceee56904168f5f239b35  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1514.png
+159 284 229 293 
+5
+12ba4624f8ce5f36728c24766913a7c3ee40314a  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1515.png
+163 284 231 294 
+6
+e3e71adb9908d070ae8b9b77e9a7db6ce056b3d2  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1516.png
+165 285 233 294 
+7
+76b66c46d960ab6bf51ef396d5f8c301524e4a2b  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1517.png
+156 286 227 294 
+8
+0a280f32240eac85fd935900c9099bc55d6360bb  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1518.png
+161 286 230 295 
+9
+64733a5191b0126ed2e7ad6508545a2850d3f2e8  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1519.png
+164 287 233 296 
+1 5 2 
+1
+1d74b92d39f9e1eaf032a80d049ec26c81da300f  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1521.png
+157 208 229 218 
+2
+4c2b2d1707a019dd3ffcaa0447d0c507022e725f  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1522.png
+161 208 231 218 
+3
+b2b6ae87c88ff08fd249b9ed0e90f41329bb6990  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1523.png
+166 209 235 220 
+4
+c23da5af1d847ab557f034270c5b2b33ee5d5d0e  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1524.png
+157 209 227 219 
+5
+ffd05ff9d5a89a5f12d120b7bd85c97fca9085ba  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1525.png
+161 210 230 220 
+6
+d02e325d7c576cb1936e1aa4fe0392eee37e2ffc  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1526.png
+164 211 233 220 
+7
+a16d67d4410c04eb52077a2bf9e940e051037456  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1527.png
+155 211 226 220 
+8
+6c83e050f65e470738e0270b581f9d4bde40d278  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1528.png
+159 213 228 221 
+9
+d0605491db402683d237ac740b75152b474d7e64  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1529.png
+162 213 230 222 
+1 5 3 
+1
+5f7d96a268f3f79fd5d1553429dc71d1c29ba41f  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1531.png
+147 143 219 154 
+2
+19bf37855a75077f0f620f841e66c4c45936a9af  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1532.png
+152 142 221 154 
+3
+bb26713995d78c52cca8c0b73d83a3426d02a67a  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1533.png
+155 144 226 154 
+4
+c958486abd7d1490dbf597d63fb31d8977771ed1  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1534.png
+148 144 219 155 
+5
+0fedd388e79d6c11d5a07792c28ebe616ed13ce5  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1535.png
+149 145 219 155 
+6
+8bbdab09848f7a2af81dfcf26f6e7e30dde7b169  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1536.png
+153 146 221 156 
+7
+6021c506321137fba213bdea35967cdd31d18571  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1537.png
+146 146 216 157 
+8
+b19fe310842d49cf7df4aa312f6a13f163692ea1  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1538.png
+149 147 219 157 
+9
+9836eca4d6010f76c02001cfb4a1d79f63b586ee  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/1539.png
+151 147 221 157 
+2 1 1 
+1
+afb3327eedf3f814d37926c89f0887236e87ab26  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2111.png
+114 285 195 293 
+2
+2930e76dbf84e7e6a9c3311005e56051fe81b5b3  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2112.png
+122 297 201 294 
+3
+3a454f07e556e4efc92ef71b3c02e4a39096debc  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2113.png
+127 296 204 293 
+4
+46bab9c8eef13566c234835cffdf67985b0f58a8  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2114.png
+120 304 195 295 
+5
+2ee829068d8269edbef2bda749682266033cdb7d  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2115.png
+123 305 198 294 
+6
+74d3d2879c21b32d3ae761fde336a7d0539be45d  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2116.png
+126 304 202 294 
+7
+af4c91155c4c26e1882a9e9e2d6e3e0a83438644  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2117.png
+120 306 196 297 
+8
+39705e11f16972b8fae0db41667a373c01f2092f  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2118.png
+122 306 198 297 
+9
+13d2c0c37552b78fbbd3f8a67ca16217db431638  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2119.png
+124 306 201 295 
+2 1 2 
+1
+e91364d6766a8e8afa62ebe1992c474ffe366e56  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2121.png
+185 234 258 227 
+2
+40a50c9840b650150ad77904c306f1754330a495  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2122.png
+186 232 262 226 
+3
+95a8ff521c5ea78909a0e72aae16faa013ebd053  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2123.png
+191 232 265 225 
+4
+310093ca96ed92cf781f30b01d1d962b80dc91d5  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2124.png
+184 240 256 227 
+5
+06f626ce091525436a35b0ac327d3c46d12708db  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2125.png
+188 240 261 227 
+6
+5fc290d54ba2f36ecd07788afcba61cc284a79c7  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2126.png
+191 239 263 227 
+7
+118e05aaa6f9822babb0c9969c946b29e1e5a4f7  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2127.png
+185 242 257 229 
+8
+5d826df8c51025a38154c4e086d6e4720118865f  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2128.png
+189 242 261 230 
+9
+c389fac8dc3ed7edbf655c6d524eb472890a48e6  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2129.png
+189 242 264 230 
+2 1 3 
+1
+01177115f17455af5f383cb4d75dc20dbc97c6f3  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2131.png
+178 152 251 144 
+2
+9996a26162ea85313e4799d5fbde23897ba737c5  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2132.png
+183 151 258 144 
+3
+940930d6ae5a11ffea1082d308f600f2bb829f72  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2133.png
+178 134 262 144 
+4
+10ec8bc702190606e8424afc82f80628018b13c9  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2134.png
+183 158 255 146 
+5
+6389995c7f478569df079f0110145a8e3b7196fd  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2135.png
+187 158 258 145 
+6
+3aab5946e833fb3af0fc5523aa14a2481c8462a0  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2136.png
+187 159 264 145 
+7
+46b2bc01312e2396bd9e09aa46cfcdb41165002a  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2137.png
+183 160 256 148 
+8
+28e2119fd4bfa9b3ca36ce26978c7fd860b2620e  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2138.png
+186 161 260 148 
+9
+d6b2b0c0d7523e7da54587cc6a479c0421d8e90d  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2139.png
+188 160 263 148 
+2 2 1 
+1
+19a7ff5d590fb719c1b6e20332bbf4335f1fe80e  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2211.png
+259 315 328 306 
+2
+d887082a3ed322d2d35040e4187935799272830e  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2212.png
+260 314 331 305 
+3
+12698580b54c207b59d8d2d47540429f14aaa543  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2213.png
+266 318 336 305 
+4
+3d5492e582bbb2229cc2c7d4a946a891a840727c  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2214.png
+260 321 328 307 
+5
+22855454122b05bbc3320a8c752b576f50e0b8f7  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2215.png
+262 320 331 306 
+6
+95d96f94710c26f2e1e6c319ff6214b28361b468  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2216.png
+266 320 336 306 
+7
+cb67974425944d9bfcb449a213b5e4db19923d73  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2217.png
+261 321 329 309 
+8
+9ec650bb324a08c6775bde7b84fe721499d63247  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2218.png
+262 321 333 308 
+9
+c222519a2773a50980fc7df439f589c3fecf4ed7  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2219.png
+263 322 334 309 
+2 2 2 
+1
+5acbfd98e4093bb035a12d35beee3cba4dd9e87a  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2221.png
+248 219 321 227 
+2
+9c300fb18d1667ec5d9d92825be5cfa29ce49fa8  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2222.png
+253 235 325 226 
+3
+ef623a75e5e4858f3fa62f66e7ec702c12d010a1  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2223.png
+244 222 328 225 
+4
+dc5fedee7b63a41c28532ccf1262fefcc2ebd07e  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2224.png
+250 243 320 228 
+5
+d3ea65daade1d910ef74a0df2df5f05463a9a58e  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2225.png
+254 242 324 227 
+6
+36a06430be170e3ff5f0fcd9eca6c986da8326de  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2226.png
+256 242 327 227 
+7
+a4e476607e57da3e64b7cd71127d04af05d24661  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2227.png
+253 245 323 230 
+8
+9d75ee22ce7eba7475bab3a19ec355db374063c2  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2228.png
+254 244 324 230 
+9
+92bdec314bd9bee767d453e030cc7a45a89403d2  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2229.png
+257 244 328 229 
+2 2 3 
+1
+37486ec4e110d96a0e3ad9c5c9de023bf867b581  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2231.png
+262 164 332 154 
+2
+f2e3c7421bdf4ad8f3fa57b9d59542f7af6510eb  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2232.png
+267 162 335 153 
+3
+7befe119ee28f281ef7dfce5c39019e6b29cc383  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2233.png
+269 168 339 153 
+4
+5f4cd2f67574e1b62510fdb398f64a12d79d7fb4  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2234.png
+262 170 331 156 
+5
+6dfc82750c84a2c4f9deffa3d7a72b9cbd959458  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2235.png
+265 170 335 156 
+6
+bf2a419fc5ae669ab701dc7710e74c3844989031  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2236.png
+266 170 338 155 
+7
+a58fa9a2c11952325051263bf1d9e382a711eccd  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2237.png
+261 172 330 158 
+8
+eb5fa5f2343f2bba27337cba1f74cbafc7def4cc  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2238.png
+262 172 333 158 
+9
+561389ca4b6cb0096c7d948494e611677979ba55  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2239.png
+264 171 335 157 
+2 3 1 
+1
+c6566312fadc7b4cbc3040caca06831bfbc2868d  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2311.png
+328 279 398 285 
+2
+8ecf353ccc790e6716b0fb3bbdc1a8ee6873e202  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2312.png
+329 297 401 286 
+3
+dde7c2ff3c46ebbdb4b974b61edbffd2814e05a3  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2313.png
+332 301 404 286 
+4
+2d9da502d1452fa479e37879780cb7f4b1a8e386  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2314.png
+328 303 398 289 
+5
+2375319bf999c48fdd84248c6dc9da46d2a0696e  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2315.png
+330 303 401 289 
+6
+6656ff77dd7dfbcde238bf18e33656c625c37668  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2316.png
+332 303 404 289 
+7
+cfef441d2d42af813d27a3571a3ff484c4174f4b  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2317.png
+328 305 401 292 
+8
+ed093ca8eb0a88f457849658219991444ee056c9  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2318.png
+330 304 402 291 
+9
+c2f71e9c5e743d4757ce5659981dde419a309060  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2319.png
+333 304 405 291 
+2 3 2 
+1
+139c345ff6f59fb19374ae8e6a1bec6af39a892d  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2321.png
+315 225 392 230 
+2
+9063294d836587647b42f9248fbd866ee4608080  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2322.png
+318 223 395 229 
+3
+ff2b52903282885f0114bb38debe75469770d449  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2323.png
+318 224 399 229 
+4
+f07413fce4de0804ecf651dde7c7091754993d8f  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2324.png
+321 247 390 231 
+5
+1d561e4b8405e73fd9d23a6bf6c102e7aa6872ec  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2325.png
+324 247 394 231 
+6
+ca249c6c04ff12f3ff9f4f9087985eb95342c82f  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2326.png
+326 247 398 230 
+7
+3c44d8c290122a1c4b3f7df137c6b02e7f27c9d9  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2327.png
+320 246 390 230 
+8
+171169fa03e3b0aa335e0b6e4b4e56d9b2202319  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2328.png
+319 246 391 231 
+9
+99863f3237d9e42bd61fe7c035abc7be69e61038  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2329.png
+320 246 394 230 
+2 3 3 
+1
+1ff1f39213b798dbfb988fa7d335cd0b13df6274  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2331.png
+319 147 392 158 
+2
+1573520005b04ab75c48ecaf3b5f5884b9462a7c  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2332.png
+320 148 398 157 
+3
+6d13cd49ed72730a75d74f7a250e0576f0e1a3e8  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2333.png
+330 170 402 156 
+4
+012eeb0fc3d154a23de9b433fd179e2b45007023  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2334.png
+324 172 395 158 
+5
+4b409e1a527eba8839914736f46341bce850a65c  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2335.png
+326 172 398 158 
+6
+cd3d3179cd5291338bada024c39cc004cd72b5ae  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2336.png
+329 172 402 158 
+7
+c46fa8a2b68abcb1fdaff47d80c4cf1317dcc1de  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2337.png
+322 174 394 160 
+8
+57901e888fb7afb0922ecc2bd0306c5de6e3d703  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2338.png
+325 174 397 160 
+9
+2054dfa198fd472eabbff00bdf3bfd08805442ea  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2339.png
+330 174 402 161 
+2 4 1 
+1
+2731fc64172c716b25bc55068ffc930de54992e6  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2411.png
+396 278 466 267 
+2
+56bed7ca6033b4f597920fabc985f03a35496f3f  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2412.png
+398 276 470 266 
+3
+d127d68089862a386f0c2a7a287fe55355e13857  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2413.png
+400 275 475 265 
+4
+58af95b2d0cfd56c66e010206715c18d3c128809  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2414.png
+393 283 462 267 
+5
+b15c69f5968f1ab6f91adbea02cb2ba8c0f8e9e8  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2415.png
+395 283 465 266 
+6
+7fcaeb02a8e09a2fa9f3cb70aa0a9fba71bb39d1  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2416.png
+396 282 468 266 
+7
+eab807daefd04433e7a2bc527570d14f1a09a6f3  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2417.png
+390 286 459 269 
+8
+3d7de0e674d275df8ef998b57adc3091957bad47  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2418.png
+394 285 465 270 
+9
+3f2264e1c97ab2bbdc904b0159e7d91afce8f770  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2419.png
+393 286 467 269 
+2 4 2 
+1
+f8799aa0e39725dbb8f7d4078bf9e3fdd62dc052  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2421.png
+390 239 460 227 
+2
+ce5b7304779f9aed4cbe519770140fcaab3a6d94  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2422.png
+394 237 466 226 
+3
+e4ada2767356ae68114ce6fef020ad040b88e1f4  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2423.png
+399 242 469 226 
+4
+1a5d2ac39092920e50465a5a42d1655851d0f7b3  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2424.png
+392 244 461 229 
+5
+e9c171f89524b2f2ad34b2ca334e786ec98cc926  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2425.png
+392 240 465 228 
+6
+ace092eaffec32168e510f138ddb16ad1fc136c6  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2426.png
+398 244 469 228 
+7
+f36e2be652fdb0850132bc17addabc7299eed2fa  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2427.png
+392 247 461 231 
+8
+9fd410bc59ef843c39e1d30cf9606879b5aa9b64  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2428.png
+395 246 467 232 
+9
+ac7974e620afdc0e79493c0a7b8a25ce1b7eaace  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2429.png
+399 246 471 232 
+2 4 3 
+1
+153bb31fb140f945a05699636fd5ed5f12fef674  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2431.png
+390 160 460 147 
+2
+fafe6c47169bbee51c972974de352add15db56d8  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2432.png
+393 164 463 146 
+3
+232fc98382a3be3973e2d25825417b25ee38d269  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2433.png
+394 157 467 146 
+4
+97b19a212e1509747fcef48c7108ddf8997585fa  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2434.png
+389 167 459 149 
+5
+4e0f6498a4243e2aec2ebebd4e15af81a6a2a66b  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2435.png
+392 166 463 148 
+6
+9d9d5ffc75e708e7c17b2b381a5f025f6123dce2  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2436.png
+395 165 467 148 
+7
+66ede171464b6483678839372a9ceb149047a63d  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2437.png
+388 168 459 151 
+8
+918d25825bb430db074f9253a116eca4f5b73966  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2438.png
+392 168 464 151 
+9
+a851476cbd8727a5c18a58c293e168069f6dbe99  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2439.png
+394 168 468 151 
+2 5 1 
+1
+174dfbc54451e2b8c2af8dea6c814f65afdb5f46  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2511.png
+452 301 527 301 
+2
+d7d90e0841e47593c6a2318a0817fb38b3e4ef25  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2512.png
+460 315 529 296 
+3
+f423df7cdbd2692d141958cb0d10ff869223e7e3  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2513.png
+462 315 537 300 
+4
+1ed125bfc85ec39375d11633605889d779486216  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2514.png
+459 323 528 303 
+5
+f016d32bec99efc9e0e4e273760c15205e4871ec  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2515.png
+462 323 533 303 
+6
+91b12e5e5a515786aecf0c281f88da18ad74192e  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2516.png
+463 323 535 302 
+7
+f3b91d5bed46e2da829cf755e819f0cc7f412a90  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2517.png
+458 325 528 307 
+8
+50195cd5443f0d2b94ed75aace5d93b41c10923e  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2518.png
+460 324 531 305 
+9
+0d9568e6377280d8388e575553a41b31b0c95a42  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2519.png
+462 324 535 304 
+2 5 2 
+1
+0d9574b6391de080fd1ab54c028cbd027cf649bd  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2521.png
+466 237 538 223 
+2
+8c717e3aef37ec87eb9d102b2ce44cc587008e80  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2522.png
+470 235 543 222 
+3
+175ff627d0e6b224886d0de928f4e89d360d6326  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2523.png
+474 240 547 222 
+4
+af8a953641f249be533e97bf7907e52c572f925a  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2524.png
+467 243 538 225 
+5
+49188d89b01c2890a037046fe908e968479abedf  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2525.png
+469 243 541 224 
+6
+eb36c7a4cb8c597d16007969dcb74046063874fc  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2526.png
+472 243 545 224 
+7
+410814c5fd9ab82180004873777c232f0a07558e  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2527.png
+465 246 537 227 
+8
+6cd21d3ceb8b95e31b429840bba43161928e8289  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2528.png
+470 245 542 228 
+9
+e93654bd8af82afbcc02c39686c043b016ba659d  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2529.png
+471 245 545 227 
+2 5 3 
+1
+0a1e05e970753c58c3fc790586e7072b92e5f171  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2531.png
+456 145 533 148 
+2
+96327d0770b726b55dd1f8703496a91f96811fa2  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2532.png
+458 146 541 148 
+3
+832dd9e0471e437d09e78ce2dca498ddb2032365  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2533.png
+460 145 545 146 
+4
+e2992004b982aa69798d88e0c2278a45da6ab45d  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2534.png
+457 147 535 150 
+5
+56e632d3c25297110a21873fd40e411ed8be1838  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2535.png
+459 149 539 149 
+6
+45bde1002413ab717e73626dbac5d9659649e7ae  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2536.png
+457 148 542 149 
+7
+5efaf6fbd911363b0b86bfd2de332c67b4a29d7d  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2537.png
+457 148 534 152 
+8
+738a678e4e13421ecc5c3ddf66d6c91913a4463c  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2538.png
+467 171 539 152 
+9
+90b6affe6f8487e8f41daf8baf6bd9d139bf4e81  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/2539.png
+469 172 543 152 
+3 1 1 
+1
+51e9196f7091654cc8f85120fbed8c9b54b82f6c  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3111.png
+0 0 0 0 
+2
+3a72d45460c7dd04d8d8a66b7e518358597e265e  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3112.png
+0 0 0 0 
+3
+57d26418c4407efc3d61e0308e6431080827de35  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3113.png
+0 0 0 0 
+4
+014988936b009352e95a4590b23e8c5ac3e81114  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3114.png
+0 0 0 0 
+5
+505fc20e09d3927d96678a65d6afffc121b3145e  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3115.png
+0 0 0 0 
+6
+09713cb93a52d3dd2c68392b55ab9517e717e0ce  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3116.png
+0 0 0 0 
+7
+122730e938c85ca99da65bf6e0dcf6676a3ab8ef  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3117.png
+0 0 0 0 
+8
+375166744038604aae9fd62c2b3941368d1f42e3  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3118.png
+0 0 0 0 
+9
+7d021a1d3dad288480e1b77112becd64b4d13850  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3119.png
+0 0 0 0 
+3 1 2 
+1
+a53c39a170743ec9db46d171a5a6548527678cf9  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3121.png
+426 362 501 361 
+2
+6ed91dd490a400710e3dde27f2f6c02764072c90  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3122.png
+430 362 504 361 
+3
+0f59bbd41aa7dfce14bf1451f4bdaaaaf52b353e  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3123.png
+437 363 507 363 
+4
+cffcbbd646432293cd0d52d2e7275f92181050c1  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3124.png
+427 364 500 364 
+5
+15271a3dcc72deb6487b656099f41347f55542cb  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3125.png
+430 366 502 366 
+6
+31038890f81829bf94c65665283e865f1c278cd3  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3126.png
+434 366 505 365 
+7
+0fd37b97a9921715eff79e78e2fb980220bda358  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3127.png
+424 368 497 365 
+8
+807b3b98892bc523d2e6745fcfba8fde057af738  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3128.png
+428 368 500 367 
+9
+e1bf3c7a75abe16b1711073491ca7c20e5e4a2af  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3129.png
+429 368 498 368 
+3 1 3 
+1
+3d3d1ada1b541b5c0db673f8c81e469ca36de3c3  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3131.png
+424 290 499 290 
+2
+81172dcc5d9ac68514f76c05dec055df3ed00aa8  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3132.png
+430 289 503 291 
+3
+bd58e677423be0f8b85c43550c6d57f539598174  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3133.png
+435 290 507 292 
+4
+826d541219c79b61b940035a5b6d8cff3e354bd9  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3134.png
+425 292 499 293 
+5
+9b2bbba0a012e080b54adefb0e4b1ca7d87f03a7  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3135.png
+425 292 498 292 
+6
+be7206bfecf8ad51c524a80ae2c34572a4122f00  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3136.png
+430 293 503 293 
+7
+2d92c0143b57e81cbd326e1cc178170c629ccfab  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3137.png
+422 294 497 295 
+8
+f59bd2456e6e7ae6caf713c4a1ddef39087c6781  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3138.png
+425 295 499 295 
+9
+30d395f7e6255fad3e48053e8b0100aac78fb104  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3139.png
+427 294 500 295 
+3 2 1 
+1
+858375f43876ab7a8c773844f776c09084fd3ffe  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3211.png
+0 0 0 0 
+2
+23b9e2909cd58948bc7e5c10337e9df5328fa5ef  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3212.png
+0 0 0 0 
+3
+2f139bd8c8ab96dff71868c82b5b8c0754ace599  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3213.png
+0 0 0 0 
+4
+20ae227025a319aabd06100793072b9518ca31f6  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3214.png
+0 0 0 0 
+5
+ba16f2be2004399eb79a435914575765e00a4a62  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3215.png
+0 0 0 0 
+6
+ead9393370f5a48820386951ea11f7b3ca223f81  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3216.png
+0 0 0 0 
+7
+66a645fe838360f6badfbbac66a1f3202bad3fb0  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3217.png
+0 0 0 0 
+8
+b1d7b300d3d87c94f43d917e5c6580cb7f701ba1  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3218.png
+0 0 0 0 
+9
+ebf63733ec37c047e1689f9bd87a296e988640f6  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3219.png
+0 0 0 0 
+3 2 2 
+1
+d0f2513c523bf264376c9bef5d4caaf3e98fce29  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3221.png
+337 360 410 360 
+2
+43777dc4f0fb19fa30d65d641eb7ea81ecd2b847  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3222.png
+336 360 409 360 
+3
+bd81529da35261773058e23042c73c98f0c4c481  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3223.png
+340 360 411 360 
+4
+43b682d9c412ad1182447566403a4cc706f65604  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3224.png
+334 361 407 361 
+5
+9c6cc3872bf543b123df0f887e07c08e680dc912  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3225.png
+338 361 410 361 
+6
+b7182dd22b03f7fbf3700094e8b25d495422d9c5  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3226.png
+342 361 413 362 
+7
+c13d5288b47baf46181108e8ab4cc70e189350f1  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3227.png
+333 363 405 363 
+8
+3a54f3729aa4bbfcea0841d8c686a29b5b585ebb  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3228.png
+336 363 407 364 
+9
+1f59a9d662d52d9c117cb7684e6986f298ec1fa0  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3229.png
+339 363 410 365 
+3 2 3 
+1
+152628cf3d66324e3004b425ff41ac9c8246f6cc  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3231.png
+331 295 406 296 
+2
+bd3b0e599faf246b43fbeb2141306e339003767a  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3232.png
+336 294 408 296 
+3
+1a4622c8b18fb1ffdecceb1a7516851165691909  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3233.png
+340 295 410 296 
+4
+68d61606a2d2b382dc01d82658ff8542d76418f7  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3234.png
+333 295 405 297 
+5
+2d01d7ebedd4f3c270c15b3f1929c494b87ab3ba  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3235.png
+336 296 407 297 
+6
+d868b657105b4f323d495733df89b1f6519b6637  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3236.png
+340 296 411 298 
+7
+f6314455c0a88dea2fb05b4ddaf98bad108d4a60  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3237.png
+333 298 404 299 
+8
+89b92b0a3891fc5257a18c61525c5508d714cd0e  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3238.png
+335 299 406 300 
+9
+37ec3c8b510655c72ccbbcd85be224059f82f6ff  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3239.png
+338 298 409 299 
+3 3 1 
+1
+fea46e7790409287ecdc9bffdb5bf769d5f73c41  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3311.png
+0 0 0 0 
+2
+731f1bd55e06eb1caf49277bb7f49312efd7b5fb  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3312.png
+0 0 0 0 
+3
+572c54a7f0c1ad6da5758123496d054471d1bd4f  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3313.png
+0 0 0 0 
+4
+38b6b1882a3f65b60f8ef864f8c6ebf740f8a061  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3314.png
+0 0 0 0 
+5
+f8d4eb2b5dcc5fe7c065eaa5665e51f80f7cb135  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3315.png
+0 0 0 0 
+6
+575f8550e80b5e9d5160ef12419e4fbe0e3100a5  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3316.png
+0 0 0 0 
+7
+db9814ea8cfb266d9871e4936f34db55eae878b2  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3317.png
+0 0 0 0 
+8
+219956506bf5bc87067760913334251624446609  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3318.png
+0 0 0 0 
+9
+32f529d413035e2f9f4dd5b575ea252baf2df685  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3319.png
+0 0 0 0 
+3 3 2 
+1
+3383cb1fb5f019bcb1aa40fbf8cc40f3fc75b963  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3321.png
+282 360 357 364 
+2
+32c646d8fb72541362a4049f9557894eadd44b08  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3322.png
+287 361 361 364 
+3
+0dbf18180505a54cf0483780db8230847f6b0fa1  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3323.png
+292 362 363 365 
+4
+ee920532715382a0f4f8d7a5db13738d01f30e18  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3324.png
+283 362 357 365 
+5
+108ba27d64e72f3d02e48f9db75c7c10da8cc206  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3325.png
+287 362 359 366 
+6
+a5fbf7b8c990020ccea9e966298cbe746fb2114e  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3326.png
+290 363 362 366 
+7
+0a8a38d179676e5e2f1bcff0df57dd9c878f4359  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3327.png
+283 364 356 367 
+8
+b12f69dba1b9749222b5b7e6dffce058f213eea1  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3328.png
+285 364 358 368 
+9
+c5fe4c5d3f9de0520222d31f36f40f65111d6b62  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3329.png
+289 365 360 368 
+3 3 3 
+1
+a6e7d6eb7c4567c197d0c44769aff14ec4d332c3  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3331.png
+283 290 358 292 
+2
+28e77cd6f1180726c9c4316e2330ddb544993cd5  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3332.png
+288 290 360 292 
+3
+58dbb9ad17b2038a533dfac871d622ccefb63893  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3333.png
+292 290 363 292 
+4
+833ba8fcd3009e4401c2faf34b40fa1e8e6764db  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3334.png
+284 291 357 292 
+5
+3e2891ebac1ad6eb9ec3cfcc747de026a31e0973  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3335.png
+286 291 358 292 
+6
+4fb1e14e951c3a6233dac099ca7fec6664274e32  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3336.png
+290 291 361 294 
+7
+250c5df6e07da5a4f65f42db94cd0a46d222fb91  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3337.png
+282 293 355 294 
+8
+f1ca65fec4599bbcfeb4a909bbb3a1ae4466a77c  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3338.png
+283 293 355 294 
+9
+97d981372fa20d99fe5c984e3dc20230888e3a2f  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3339.png
+287 293 358 294 
+3 4 1 
+1
+ba25b4dc46ff27cfe7d9fa046b115ccfd363cf98  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3411.png
+0 0 0 0 
+2
+511492bdff6985b5f5ef37bd83a6560a62cc18d5  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3412.png
+0 0 0 0 
+3
+2fc4888808324d2b5851fbe2d45050382d4d549e  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3413.png
+0 0 0 0 
+4
+bd289e297b9b29342270b2d5a831bdc0b8e411e7  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3414.png
+0 0 0 0 
+5
+31b1e1e794cf9116487b01bb2181df698865eeb7  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3415.png
+0 0 0 0 
+6
+43adbf78408530eff0b4a2c92c90740aba51bd81  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3416.png
+0 0 0 0 
+7
+353c0673139ebb37740d79b826c9174b0f447639  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3417.png
+0 0 0 0 
+8
+353064a845647d4cb3db089c4b3006924683511b  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3418.png
+0 0 0 0 
+9
+fde2ae587c3dc89ddb59bbd2bd98d0c6a671b20a  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3419.png
+0 0 0 0 
+3 4 2 
+1
+e669bdaa92054e973b18282c5f7094d81ea57273  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3421.png
+208 358 281 362 
+2
+cd251ff224cb7f35f998afc36c66bc923adb87be  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3422.png
+211 358 284 362 
+3
+8753bbe616e2509b6bfe23169a19fdc4d177f57c  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3423.png
+214 358 286 362 
+4
+6e21cc5a7e8a9c6bd8923f8e1baab08c443aa42a  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3424.png
+206 359 279 363 
+5
+02afae208657ca614ea70eaf7a58d0af47b4e945  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3425.png
+210 360 281 363 
+6
+0ec25abd40a3238034b80fe9b4acd2c0e961fbe3  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3426.png
+213 360 285 363 
+7
+aa8f17feeab5c7d691e0be1a64b97272a6ddd40f  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3427.png
+205 362 278 364 
+8
+5adf9954be0a6bd3657189a255233b5635a994a0  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3428.png
+209 362 281 364 
+9
+128e33c7351a63dd64b55cf147122593a1f3ea3e  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3429.png
+214 361 284 365 
+3 4 3 
+1
+91693b35d169195625672b748c1e81f9ba292a59  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3431.png
+210 286 286 290 
+2
+360481e764327b4e6997092492a4fd55ae687fa7  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3432.png
+215 288 290 290 
+3
+bc0a4c340c130f7371f482703eb0d359cce9140c  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3433.png
+220 288 294 290 
+4
+c7485bfcece3f233391505e48cf22beb0df9fb5d  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3434.png
+212 288 287 290 
+5
+951fc7eb86b108678cf2093f87130128d9d5bfc4  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3435.png
+216 288 290 291 
+6
+966657024f9ef1981ac9530a308d0204387aef31  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3436.png
+217 289 291 290 
+7
+4089dbca2a63b9256277d18639dcb28417ad7e22  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3437.png
+209 290 284 291 
+8
+fdd207e840a04ae2c74bc1c4fa08a9d0e2b1a4db  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3438.png
+215 290 289 293 
+9
+7691b980e047cdec909bd5cf774fc1423fabdf09  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3439.png
+217 291 290 293 
+3 5 1 
+1
+be76000c45ac03d59583539baf13a05cf0f3661a  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3511.png
+0 0 0 0 
+2
+6473b2338224e39130e49ae926b2dcf09bd639e8  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3512.png
+0 0 0 0 
+3
+465986df519863198afc266e1bc4f5ab697b7679  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3513.png
+0 0 0 0 
+4
+69085edee77e725dbc49f6ce27fcc3931e1549bf  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3514.png
+0 0 0 0 
+5
+86f83ef8af4ffff0f87ff7d82e9e488efa091c23  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3515.png
+0 0 0 0 
+6
+18e7cc19b09a80e33db7c42941a38ce7f50250fc  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3516.png
+0 0 0 0 
+7
+496788cede92d2e8d37197ba947530cfdb91935e  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3517.png
+0 0 0 0 
+8
+8d3d8c3b7ff76d17d5847aaac2f039673d11b2f4  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3518.png
+0 0 0 0 
+9
+26d38e1f7d05bd7ba7ad1cc8f2636a92703e5b91  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3519.png
+0 0 0 0 
+3 5 2 
+1
+383cf01b8d1358fc4316877a4de4c22576d9a608  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3521.png
+140 356 218 359 
+2
+1827e65aa05764f71903e25bd3c68cc1e969c1e9  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3522.png
+147 356 221 360 
+3
+adb729bf9d2c17c0512751114f8f4e93bf8916e2  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3523.png
+150 357 222 360 
+4
+0b4bbc4610b56831df6be3b7b419f875fb438285  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3524.png
+141 358 216 361 
+5
+48a116341916aa7ba04b7d9a199020bb19e01ad4  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3525.png
+144 358 218 361 
+6
+d8abfdbea1f16e20c70a63faefdff46072bdaf11  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3526.png
+148 358 221 362 
+7
+71e223e44d4904c186e297c3e580967757b8878a  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3527.png
+140 359 215 363 
+8
+be5fa386396ace6daa84f5eb1804b2b44e43c638  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3528.png
+144 360 217 363 
+9
+3484b456f5a65b0752e5f31e58d8d3e3708308c1  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3529.png
+150 361 222 364 
+3 5 3 
+1
+aea6856d69309038660bc8e739d8aefda43299b5  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3531.png
+147 281 223 286 
+2
+64b21883ed6f11c1fde563de614dc37faa1b77aa  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3532.png
+152 280 226 285 
+3
+9bb8cddc6d30536ad33bd31ca27bfbfd421506a0  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3533.png
+155 282 228 284 
+4
+31594ae8dc2d30c83c7bd5a792e571575428806d  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3534.png
+147 282 222 286 
+5
+d239ccb53e787617a09b3de246dac4d4b6aea75d  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3535.png
+151 282 224 286 
+6
+65a925d8f2af68340426be0d234ab129a90f8106  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3536.png
+155 283 227 286 
+7
+a51c83682f793307afb350e49f2fa0a994f62ba1  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3537.png
+146 285 220 287 
+8
+06d4835c404a82f2aa26e3ec8f14f325d0df9a0c  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3538.png
+150 285 223 288 
+9
+782ccdf0048584e2fd31a2659252e8f5afbc8a6f  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/3539.png
+152 286 225 288 
+4 1 1 
+1
+a1071e2688a3506b2552fd3ce43b1e20a5fb7c02  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4111.png
+0 0 0 0 
+2
+821ed5e7ceb22acc540b9d9b3a4b86349cf2f43f  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4112.png
+0 0 0 0 
+3
+debe0509b6302667f4a31672813d6a1d1a45969c  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4113.png
+0 0 0 0 
+4
+fdfe6f29f0b9afbf3ea453d2c72ed1b2c5cb9061  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4114.png
+0 0 0 0 
+5
+435724e999895c9049ab7e6eddac000c739194ac  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4115.png
+0 0 0 0 
+6
+851613e37d1c20ab871b47cd3fa405fadd113e10  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4116.png
+0 0 0 0 
+7
+bf9a720641cc6cb4d195743ec3039b026e53a40b  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4117.png
+0 0 0 0 
+8
+ffdc0bced734685025936be162e08f331c774912  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4118.png
+0 0 0 0 
+9
+b2092448fa0972fc61ca430402a4125c7d429fc2  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4119.png
+0 0 0 0 
+4 1 2 
+1
+43c6f14118e7f0b868c97d82ef470c7bc2712232  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4121.png
+187 357 259 351 
+2
+055fa85151db3e657183f2fafe07ff2cc840631d  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4122.png
+192 358 267 352 
+3
+e86e25a977eed582e7737860d98da6688f4aed57  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4123.png
+194 359 270 352 
+4
+1af99157f720f78a41f242553f553cda33591d93  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4124.png
+188 360 263 353 
+5
+8f5106ddc4863e281fc9074c825e934caf83f657  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4125.png
+190 361 265 353 
+6
+a6ae858b92812a3e83a819c068d1252b0b887152  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4126.png
+193 361 270 353 
+7
+2383a3b01ebdac0138b52d06fd71832f8e9450ac  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4127.png
+186 363 261 356 
+8
+d4382bf641c2be18dcd1e73084cf7426ee46e122  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4128.png
+189 363 266 355 
+9
+2b3011eced8de955d3bb1f5acbe8bbfdbbbb894f  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4129.png
+193 363 269 356 
+4 1 3 
+1
+818f1a381bc7aad993ea990e6e519618797f25aa  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4131.png
+187 275 260 270 
+2
+af87ae513e202b83825e2afad65e721ff429f5b2  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4132.png
+192 276 266 270 
+3
+7367b874ec72cda32528ed58eebb4140e697362b  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4133.png
+196 276 271 270 
+4
+b1999e265b5e97e4f6e2af94b450c8da2aa24841  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4134.png
+189 277 263 272 
+5
+af01776fbaf0671fa0c66083db8a9b9f86ac0a89  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4135.png
+191 278 266 272 
+6
+eac30e59fe5639cb0a66e8dde4c8836bb11df973  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4136.png
+195 278 270 271 
+7
+ae7b3041a106f78a2b638a87a545c6e2a4359c5b  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4137.png
+188 280 262 273 
+8
+97533bde9804ed5c543cc7b04a0853399b7df093  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4138.png
+189 280 265 274 
+9
+2dd5f125d072fefba56c3678a48aecb699ee8e00  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4139.png
+193 280 268 274 
+4 2 1 
+1
+e18a22e3c1c27c5aeb0bdcd483bd1935e1313406  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4211.png
+0 0 0 0 
+2
+23662172cc1fa4b2f1a002cb18b853b3f5e946d0  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4212.png
+0 0 0 0 
+3
+fd0b3b333584534730cca59eebd07bf9a78e364d  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4213.png
+0 0 0 0 
+4
+1a8c34e59c1536fae25e02d527c2d6be400fd471  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4214.png
+0 0 0 0 
+5
+9d0cee6045973ed635e29a9ae0985e63879510b9  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4215.png
+0 0 0 0 
+6
+00d508dc8a06cd65cd7e0a4e2548f7ae7ccce532  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4216.png
+0 0 0 0 
+7
+70ac53fd0491a94a0033ab19b0b1b4d4b3f61b46  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4217.png
+0 0 0 0 
+8
+48abe871efebcb77896799308d95915b197f9134  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4218.png
+0 0 0 0 
+9
+519d745d35e2964535bd8cda299046cd80971681  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4219.png
+0 0 0 0 
+4 2 2 
+1
+24f9970fdacc270ec1cfdee2afbafc5a8290996e  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4221.png
+256 362 325 352 
+2
+e2aa25166435957d0d95099c363a3c43804f3b11  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4222.png
+260 362 330 352 
+3
+0913763fd9e0cd9af8b289db5b5ceaa5bea04bb5  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4223.png
+263 361 334 352 
+4
+8b169b76aea39977f3b9a7b4148471c249346573  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4224.png
+255 363 326 354 
+5
+1fc27eeeb1274b38f3af3a59f9e2f5186ac22a9a  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4225.png
+259 363 331 354 
+6
+2140e5a9a1620e9cec751bdad3d745e478eadb43  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4226.png
+261 363 334 353 
+7
+25f9e43bbe0a4b7de56b1450e036100c04c4ed51  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4227.png
+255 366 327 356 
+8
+a595336b05ae465271314993be97cd884991b048  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4228.png
+258 365 329 356 
+9
+91e822f411cc7f5aac03d821b8338f80e9745074  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4229.png
+261 365 333 356 
+4 2 3 
+1
+a083790b20ab7e989d7af3b5d34ba23c12b2dada  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4231.png
+252 284 327 277 
+2
+8560253fadc68ead2aeca5e38736d6dee0582e77  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4232.png
+257 286 330 276 
+3
+09128265fb4a3177ec340428787b5fb56562c9e6  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4233.png
+260 286 335 275 
+4
+6209e6d77a282a2c09cdecd7d4b74aed5f5d2b1d  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4234.png
+254 288 327 277 
+5
+bb32d02b99d8e44f82da2b88efdc0768ea46d5df  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4235.png
+256 287 330 278 
+6
+e08076d9ae90eb71d2614d95e21f63aa98873dda  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4236.png
+260 288 334 278 
+7
+0bbceaba14453e8ba2a521e862f663414c9a40d6  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4237.png
+253 291 327 279 
+8
+c4c2019030879271dc161c6f5fc19439845f9f3b  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4238.png
+256 290 330 280 
+9
+f9e11534b0ef999c0f60c10ac1b438fad2878da6  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4239.png
+258 290 334 280 
+4 3 1 
+1
+bb91f75482f10093422ae0b738a3c3acc7bbb5fe  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4311.png
+0 0 0 0 
+2
+32029cdcbf2c6f47afe9465dcf0996b0a0da058d  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4312.png
+0 0 0 0 
+3
+8640399f9c7cb78d29312867ab3477ee3c457f9c  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4313.png
+0 0 0 0 
+4
+42c3ff064c149cd84ad26ac58a30c1d93a7563e5  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4314.png
+0 0 0 0 
+5
+e60e618982ef0aff0c165e4db43405e88ef58f82  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4315.png
+0 0 0 0 
+6
+4afd8478a5fffa0688262823940abf63b699b973  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4316.png
+0 0 0 0 
+7
+384ff6678031f2b9995f29479562996f59073d25  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4317.png
+0 0 0 0 
+8
+9d6baf5ff50556fccbd144f10621268cf093f0c3  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4318.png
+0 0 0 0 
+9
+050cf7a4a364d09da600a7698d912ce72378397e  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4319.png
+0 0 0 0 
+4 3 2 
+1
+6e7037f5db4394bf52c42fbb9b99784a9eb2220b  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4321.png
+307 361 383 355 
+2
+d9672801b29f3c372a8f69cbac06d670245c3829  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4322.png
+311 361 386 355 
+3
+961cc2fff430660c96a4efa27bb42335b9d69215  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4323.png
+318 365 392 355 
+4
+6f8a1519ea111022d3d4cc7197eee605ef85917e  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4324.png
+310 366 383 357 
+5
+8ed60a2bd144ddc438a218c5496a9be58a75a2e0  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4325.png
+314 367 388 358 
+6
+0399ff8255ef17d4b72a9e14b1992426b0ae8d2d  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4326.png
+317 367 392 356 
+7
+bd540db95349debac6cdc503631b6db574b97000  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4327.png
+311 369 385 360 
+8
+4b2b7d67641fa4e30472adad9fdf5f7591262aee  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4328.png
+315 369 388 359 
+9
+d488bcfc44f4ac3e62ebcf6c6eef69ded360a271  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4329.png
+318 368 394 359 
+4 3 3 
+1
+5841d31b6e44db7bc343bc47a7c40d304d67d6fd  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4331.png
+313 279 389 273 
+2
+2e0160c2b1f6d4ce337e2211e89655ad5e0464fa  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4332.png
+316 279 394 272 
+3
+c894dcdbacd17dc3d4ea587e3c7edea5c0b1bf25  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4333.png
+324 283 399 271 
+4
+64ac68615375495a8768b1db0d2b64ac8abaeadc  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4334.png
+317 284 390 274 
+5
+156be0a06243747e8aabb526b3db413176d3fc85  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4335.png
+320 285 394 274 
+6
+f4c956a0f7d99c0619fad92d7715f8ba0a5431fc  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4336.png
+322 286 397 274 
+7
+9b7e75f9f3caee14f38e90efc102910a3e80e5b8  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4337.png
+316 288 391 277 
+8
+d9220bb7dce8189cf97377082c01fb68be34cbd0  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4338.png
+319 287 396 276 
+9
+9440d23ceec962ab118b91a7cd8e767072da5dfc  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4339.png
+323 287 397 277 
+4 4 1 
+1
+20934bd6c5c4f77f01746dbb4f49244f67d9cdd4  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4411.png
+0 0 0 0 
+2
+d4d5064bae9537ab7c410ab53cac8f98a984c75c  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4412.png
+0 0 0 0 
+3
+65453128fdfb54096a1480bd897937ae4e95b9a7  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4413.png
+0 0 0 0 
+4
+69474f1e2c698296e46f8ea838fbdba172c6760e  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4414.png
+0 0 0 0 
+5
+580cd2345529fed8a1ca5d8745f2bd0d5ce7d2be  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4415.png
+0 0 0 0 
+6
+78baeebbd0f5784dda67b53397a11ac2f2531059  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4416.png
+0 0 0 0 
+7
+7ec4f003b066a8471efd4a442a805ba9d1b77de5  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4417.png
+0 0 0 0 
+8
+5aedef52d1f1e847cad4837f132ff75e6fc43380  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4418.png
+0 0 0 0 
+9
+01c391754cc0fde37a8cc1f7da25d4c25fef10c7  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4419.png
+0 0 0 0 
+4 4 2 
+1
+4650c6e6023ab0d3a6f8ac5bfc17c75c2085b632  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4421.png
+387 361 461 350 
+2
+9d8376bd33bf4668f171e6fa8a74067b5b156c26  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4422.png
+393 360 467 350 
+3
+015ba5c791e78b4f10ac203fc0cf2526c3c4b95c  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4423.png
+396 360 471 348 
+4
+4c30c2a8e2096646699dfd427e4b14a0ff917947  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4424.png
+387 363 462 352 
+5
+165e5c5f4ade7c6ff3db46114c72564f14e48c23  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4425.png
+391 363 467 351 
+6
+13ca8011de6f0a3ed210d84c4f4080f1a9e847e7  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4426.png
+395 362 470 351 
+7
+0a90f54774d84d346494cee61319c1b175cdb3aa  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4427.png
+390 365 466 354 
+8
+a6c053616311b343b30c00009160ed9f4787b876  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4428.png
+393 365 468 354 
+9
+9d0ed45f4db99361301ad932223c5d3ce61654cd  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4429.png
+395 364 471 354 
+4 4 3 
+1
+ff95642ae67aff0c62f7c560b62c22276fd66e5b  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4431.png
+388 282 461 275 
+2
+a3eada8e5940a48d6c91c9bba0b5185f17f36858  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4432.png
+394 286 466 274 
+3
+d7d76a5c5c422f725230778a5aeac617dd26a33e  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4433.png
+381 267 470 273 
+4
+6b800f94851fe09f982bc71af9845083ec6d577e  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4434.png
+390 287 463 276 
+5
+e736a649cffc21e6fd030cb6a8365ea571ffc821  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4435.png
+393 287 466 275 
+6
+c2f88d409eaec21e6d927ab64aa7c82790ac36e1  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4436.png
+395 287 470 276 
+7
+14768af5c933ac88fe0a5e889a07e59669e3fa58  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4437.png
+389 289 464 278 
+8
+30c3464e14f0521f3d36b44aa53958caf9a4a0ed  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4438.png
+394 289 469 278 
+9
+2cd2fdfe46be9be66faaaea8f1f6f7e19b9e692f  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4439.png
+389 266 473 278 
+4 5 1 
+1
+c64277f6dbcd4d7e8cf85f0d5ccfb4eadc1cf4f0  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4511.png
+0 0 0 0 
+2
+e9353f9084ea40ba67e9f279d3916452fcab5364  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4512.png
+0 0 0 0 
+3
+b4db172470bb35d358cb903f4adc308f444fdc38  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4513.png
+0 0 0 0 
+4
+cbd9666e827da3c93219a5744b433c7b843875e6  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4514.png
+0 0 0 0 
+5
+c5e055d90caec3227a9e6d903dd667806e6b1165  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4515.png
+0 0 0 0 
+6
+d68ca56aa6811f7cc4598ed404c23c744c69b14b  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4516.png
+0 0 0 0 
+7
+f4ae218708556fb62ccf6c82ae38a68628d26936  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4517.png
+0 0 0 0 
+8
+e14291c317b9c61dd3fc853af988194f87de1ee0  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4518.png
+0 0 0 0 
+9
+c3ebf600d65975bf6df2655ded42c42bd01a34fa  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4519.png
+0 0 0 0 
+4 5 2 
+1
+dfb999953d8def93937c203095af6a9a9e332ae9  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4521.png
+466 362 539 350 
+2
+8497882031ab845f465c1262e4a6427b4077e121  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4522.png
+466 361 540 347 
+3
+eacb6234e6b78f8778c0953ef1b6bd3ed8ee4e06  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4523.png
+469 361 544 347 
+4
+a1395b700dfb23dc3ae54fa3dd4f92c4214aa0f2  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4524.png
+462 364 534 350 
+5
+5124d00f1f3a1b652a94f3289d1ee02a13b1d1b6  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4525.png
+464 364 538 351 
+6
+31afd78763e8e60341d78df5914a0b343cf0f28e  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4526.png
+468 363 542 350 
+7
+2f0a4e1329fd8bb92134ba359935a569aad92678  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4527.png
+463 366 537 353 
+8
+0ee942cc72c42c524f068c91a9d9d99ba8aebdb6  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4528.png
+464 366 540 353 
+9
+01cb72dd1b19e4c6a59639f4f83a07599262a2e7  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4529.png
+468 366 543 353 
+4 5 3 
+1
+0176149902df249743249d5e2b653546c2dc608d  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4531.png
+466 290 538 278 
+2
+26dd2b458f22bb7d93b2b030a979dab049ef1fa6  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4532.png
+467 290 542 276 
+3
+db457190c942b2339614c9cc3ec7ef864cf2f167  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4533.png
+471 289 547 276 
+4
+d5bd3f64bdc1596ecc0b8be4d1a82ff5ac5f99b1  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4534.png
+464 291 540 279 
+5
+5a7f2b2af6475f40404b353c1f7686b379873946  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4535.png
+468 291 543 279 
+6
+c2cce33b3f204fcb93d1d1fbbc2723ac1f302e94  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4536.png
+470 291 546 278 
+7
+91324b90ffd5157990c5e41c76608ef4676d3c88  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4537.png
+465 294 540 281 
+8
+64d792ec9c1d2afc10f1c96a9ec6482b651be20d  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4538.png
+467 293 543 280 
+9
+2923fbc27af7ab133ab49dc37cddb65743e6f15b  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/4539.png
+468 293 545 280 
+5 1 1 
+1
+e444cdb31cb2df88c65e61be3674df2737476721  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5111.png
+0 0 0 0 
+2
+2f71604ccca97c8d0f791acf5446e008c40b9a3c  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5112.png
+0 0 0 0 
+3
+12a5a700b1c0134f16a5b072013125e8b23d9aee  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5113.png
+0 0 0 0 
+4
+00cc991a78f1590ee165f9f5bda3dc1bf7d22368  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5114.png
+0 0 0 0 
+5
+40ee9d6ba2f8b88dac3aba4f96c1365d161fb1f1  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5115.png
+0 0 0 0 
+6
+bf0dc38adccdcd88fd729701c0584bf34adbf31f  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5116.png
+0 0 0 0 
+7
+6fd4cfae05ec31c55888c65333b7bd7d4e3656b5  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5117.png
+0 0 0 0 
+8
+ee1cc3aae73f29392b2255e351b08290af7937ac  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5118.png
+0 0 0 0 
+9
+a72a65a7fdd1e63cd9f416ffe393d78cd7446290  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5119.png
+0 0 0 0 
+5 1 2 
+1
+979ca46613ccd877d5165e18402aa0fd78d92ada  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5121.png
+416 336 497 327 
+2
+2aea44940fa5c4cf14e33988429f5ce5d9dc4094  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5122.png
+424 336 502 327 
+3
+60d0bba641c914d434878420876dc328737c3aff  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5123.png
+428 336 504 327 
+4
+91e03f77cfc68045befca9fd3f768920657dc32d  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5124.png
+418 337 496 329 
+5
+55c736a546a8cff9b885906582e870a626136a8e  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5125.png
+423 337 500 329 
+6
+b885a2edcb241c8af95c979b54619cfc876709ea  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5126.png
+426 338 502 329 
+7
+17a7aa67e484aa4b40deb625baec44337b2d40c3  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5127.png
+417 341 495 331 
+8
+219fce89ceb489cba9c220db271e4ad8d88a31fe  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5128.png
+420 341 497 332 
+9
+2bd65fe832041ca87e127a0f138d5b3d1962f431  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5129.png
+424 340 498 331 
+5 1 3 
+1
+7631904909859e0ea64cbce5aa3f924dfdeceaf2  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5131.png
+423 272 503 264 
+2
+7a1a4a35a3e612e961c721da150d689e8d97c2c1  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5132.png
+439 273 514 263 
+3
+ae6feacaec13d97cee823a7d4084145dc3453775  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5133.png
+435 272 510 261 
+4
+4c6d66d194268f6cebc2010fb6c99dd44ddedc1d  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5134.png
+423 275 501 265 
+5
+1edf2d707e25edd340879bd725cdb10638a4bd62  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5135.png
+427 274 502 265 
+6
+f89e10273e2efe6979c0ba7397b58111c3e3d8fa  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5136.png
+431 275 505 264 
+7
+0d18e116c06a05cacfce28df0ddcc77e2c0f0be9  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5137.png
+422 278 497 266 
+8
+d06a04093631b5352c4df05d1dbdc8c141233233  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5138.png
+424 277 501 267 
+9
+818a9e5257d626d9703e93c185db3fb740bc6da5  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5139.png
+426 277 502 266 
+5 2 1 
+1
+2cdd9adc2bdd5fcf467f2832e161905a206fe2e2  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5211.png
+0 0 0 0 
+2
+d6b05dfaf5385bb06e191845564776c362f2f049  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5212.png
+0 0 0 0 
+3
+8ec6ac0dfc43a831538cba52c685178478962dc1  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5213.png
+0 0 0 0 
+4
+ef4897b9e965706873f597adb837973b247275ae  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5214.png
+0 0 0 0 
+5
+a59db81e02bd39133eee80b429adf4f7cf26c470  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5215.png
+0 0 0 0 
+6
+efce996dce39b9ac1c17193994ee97046e58e8c5  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5216.png
+0 0 0 0 
+7
+42e17bddc140ba82c6c79202f163243b02608eb9  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5217.png
+0 0 0 0 
+8
+e3048c1b74b7854ad9a9358ca11d2ad04e2a3525  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5218.png
+0 0 0 0 
+9
+619fbd4f16fae823cb61f761f1ec2accb01372de  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5219.png
+0 0 0 0 
+5 2 2 
+1
+b82f7ef587961057f396f4f22841cf3af884e64b  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5221.png
+359 339 434 334 
+2
+49893cadbffd839bcba32088c6ba9f6a163dd739  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5222.png
+363 340 437 332 
+3
+53e2fbf57dfd6db2f1e948cca411f2a36e2a45db  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5223.png
+365 340 438 331 
+4
+343fe2839617cc41adedc4895c235a4a58eec413  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5224.png
+356 343 432 334 
+5
+6fded70fbf2f8951330b74a858b6137899b6c33c  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5225.png
+358 344 433 334 
+6
+4f7fe7df5332c51cb96084c63fb270bc9f2bc550  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5226.png
+364 343 437 333 
+7
+fe5391228d09c36be79d835a06c8ddc598dda81f  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5227.png
+353 346 429 336 
+8
+38c231ac584acb1edd90156ebd5a3195528c55b6  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5228.png
+357 346 431 336 
+9
+76595dec8a4d792e17d939812760334531dae376  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5229.png
+359 346 433 336 
+5 2 3 
+1
+f0047f6e47eed0f01ef92b008d7bc932071031fe  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5231.png
+350 265 428 258 
+2
+a0c3af94ed94830c01c3a1875989baf3b8f92a9d  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5232.png
+354 264 430 257 
+3
+cb384535a33fa052d697ec89dd175027c25f7bee  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5233.png
+358 264 433 256 
+4
+3f1951380298174eb78a89781e202d412957cbad  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5234.png
+350 266 427 257 
+5
+fe2107222667b51a0f1e6bab6690aa68dac9c61b  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5235.png
+352 266 429 257 
+6
+26383b79e17ae770aa23736d53e3394071cda6b6  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5236.png
+356 266 431 258 
+7
+cdb9f85ede93c9cdb9a68d7d90d1feda34bc7949  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5237.png
+347 268 425 259 
+8
+ef18488a42ad8b5ba611a7d538912c597b18820f  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5238.png
+350 268 427 259 
+9
+c11ae16c06d14083d436bb49b9b01c7c285d6737  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5239.png
+354 268 430 259 
+5 3 1 
+1
+27d194552357d099d164ef953b954e61cd14f3c9  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5311.png
+0 0 0 0 
+2
+b6e27cca380752fe99f55b3eee55006177dc6096  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5312.png
+0 0 0 0 
+3
+67b0f9a07d8903ba95975dfa478a2b347e31429d  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5313.png
+0 0 0 0 
+4
+c320d700ca6c2d90d9afc47b771c7b0270b11a16  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5314.png
+0 0 0 0 
+5
+d56a46b54eefe4d34fb3a75ae88f2c8ead10bffa  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5315.png
+0 0 0 0 
+6
+d47b7e279ea4245e926dabd96d3a7020367a5a2f  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5316.png
+0 0 0 0 
+7
+30adf37ec67bbb75e6ebd6ff74eefd84e9cf0499  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5317.png
+0 0 0 0 
+8
+3a3dbeeba0e092ea465fad08adb548944d085f27  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5318.png
+0 0 0 0 
+9
+fe5839b27d2a6046015580ea54ccf7f3d55645c3  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5319.png
+0 0 0 0 
+5 3 2 
+1
+1922341bfb4f9cbbc4e71d220ed9c12d71367108  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5321.png
+272 332 351 323 
+2
+4f21a689923c63e13551309c7158ef275d6e39d3  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5322.png
+278 332 354 323 
+3
+fcdd9da94c0d6aa9bbd44b8d35d6898767f030d2  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5323.png
+280 333 356 322 
+4
+b6d7d9a4dcddbbeb176cf5e6425b83d5ff5fad15  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5324.png
+272 335 349 324 
+5
+6c0d70b75c49adb1ddfeba7c29d47598cda00912  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5325.png
+277 335 353 325 
+6
+e25e58282296e54ca240f87a37eb0f7f22ae5aea  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5326.png
+280 335 355 324 
+7
+37335968b2d4ca1ac93d61729d9eb4f2d9cf62ac  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5327.png
+272 337 348 327 
+8
+3beb5065cd377d09a021a71a3f78e5c7dbbbd7ea  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5328.png
+276 338 352 328 
+9
+f57e036c93786ceb61ee1c3032576252b2fcd978  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5329.png
+279 337 353 327 
+5 3 3 
+1
+bc4807fe6cc528baf67ec86cd5a6313412e88588  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5331.png
+269 262 347 253 
+2
+05359867d2ea3d9ba7a4b4072e73d2fc908f5061  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5332.png
+278 261 352 251 
+3
+69de103262ea313a9d820b476df23cd75db8eef7  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5333.png
+283 261 355 251 
+4
+b05689343ba4f598b20ed81d5eb59d646977c4c9  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5334.png
+273 263 347 254 
+5
+43c32c0adf0bd4821acfb7db440d8c28eb8db5f6  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5335.png
+277 263 351 253 
+6
+ed9c0bf097d9f0c0926bbdfc68a0d2d50a3f31b5  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5336.png
+282 263 353 253 
+7
+07339c4e883d2544b9e47a90167ae273f5c763e2  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5337.png
+271 266 346 256 
+8
+f65db59b602dfb67ffaaa07305be157483e31e20  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5338.png
+274 266 347 256 
+9
+90fcb8cc814cccfb0440de32b1b174dc9fc42a5e  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5339.png
+277 266 351 256 
+5 4 1 
+1
+c802db6ac2ec3beed203988ba32b0fa70f3838c9  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5411.png
+0 0 0 0 
+2
+306fbc47c9fbb0d513e59ad090894918c2d8b59a  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5412.png
+0 0 0 0 
+3
+fdf2a09b065522f0e5f58abcdd66b3d9f3a0663f  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5413.png
+0 0 0 0 
+4
+9a9b519ec271bcac9f7bf770ca57d9680975dcbe  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5414.png
+0 0 0 0 
+5
+f28a2f06a9956d45b88aa0b37f63452d5dcbd825  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5415.png
+0 0 0 0 
+6
+22b7d01d694b1577d54167f76a90b4c58db46a0a  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5416.png
+0 0 0 0 
+7
+ecfcba8e9fa2f531b51ec4bfbd832fd2d87f1e5a  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5417.png
+0 0 0 0 
+8
+5d2d40ab52f426626e3d319d1c6d37b2b22c3b0d  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5418.png
+0 0 0 0 
+9
+d2b6857af268f2630efe886906eed470cf7068f7  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5419.png
+0 0 0 0 
+5 4 2 
+1
+15bb480107a92e180d726634c63b24c24e68b549  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5421.png
+201 338 279 327 
+2
+7b1f800b0a3221d0f90c791e7fd8f98af380b702  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5422.png
+206 337 282 325 
+3
+c296637aa527208d66fadc5358ccdbd95b588af8  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5423.png
+209 338 284 324 
+4
+e33295c022a6a299c2e63b5e389ab305a6b69b17  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5424.png
+200 340 276 327 
+5
+f560d3068ba1ba6c6126e9261aac59a52669d284  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5425.png
+204 339 280 327 
+6
+533fde050b0ba99338d8435b7f580cffe4f4d0aa  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5426.png
+209 339 283 327 
+7
+ac2fcda2904c0c11bb8abe9039d54750300bd721  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5427.png
+199 342 276 329 
+8
+9ad64139143e98c8ede9a118a7cb3d8c2f31d74e  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5428.png
+202 342 278 329 
+9
+eed1214fef01586aa8ba7364efbf632985ca3e9a  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5429.png
+207 342 280 330 
+5 4 3 
+1
+014c92a72e0ca2875a548c9dcbc446f4a9d7149e  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5431.png
+205 263 282 256 
+2
+c80e64baf5bd74033090d410ff7dd56ca3a50911  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5432.png
+208 264 284 254 
+3
+cfa7183fec0190eac8a2eee0fcc827023e7f3607  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5433.png
+213 263 288 253 
+4
+6f5c1203ca4b40547be4553218c59029cdbffc1a  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5434.png
+204 266 280 255 
+5
+b46db9fd3d9fc38550bac0b5a69e2d11c6c4cb50  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5435.png
+209 266 284 255 
+6
+78698f46c6c46e9121046a9784685302a699f809  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5436.png
+213 265 287 255 
+7
+359971d57a8dec99803853d36a43827500ae07b8  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5437.png
+203 269 279 257 
+8
+d246cb89bb3035366a33dbe355de94e87b8f3cd7  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5438.png
+205 269 280 257 
+9
+8aaac5935f57897ed610931596cdaea3ed9c2117  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5439.png
+208 269 282 257 
+5 5 1 
+1
+f2a8791cff7e693cf90b6ba0b621cbdfb984ad1d  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5511.png
+0 0 0 0 
+2
+7ede5e883081d3a5bcc9544ebae776d598e08a56  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5512.png
+0 0 0 0 
+3
+19853c09cd54a597c1e0336aaeb1a2a5734e328a  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5513.png
+0 0 0 0 
+4
+ab69da8c2debb8adfc0337b05900cc2d8684264b  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5514.png
+0 0 0 0 
+5
+5b39356b3430dbb3e5162c3f66d00d142cbe4f37  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5515.png
+0 0 0 0 
+6
+0ad40f157855f3ffef7a4aaf75b3ccf32dac64d3  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5516.png
+0 0 0 0 
+7
+00497b3ae0f186669a0c6808f29b19905a985435  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5517.png
+0 0 0 0 
+8
+fb1f6a9c282ba539f525499a127ec83e41c199d0  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5518.png
+0 0 0 0 
+9
+36b10a243c2c8e6778aab43ad8b0f1d586231c04  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5519.png
+0 0 0 0 
+5 5 2 
+1
+3c455fd33215e7e357ce134a5f21b80a1390f045  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5521.png
+127 329 205 318 
+2
+729e02bcd31afdb75f848fca5701e3d213075ede  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5522.png
+133 327 209 318 
+3
+35f2a95e7a628e75d0fd84470ab64061ef6254db  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5523.png
+137 328 213 317 
+4
+745942b688583f3c565644853a41fde2f9602b40  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5524.png
+127 330 206 320 
+5
+22906087243341fe0bdd8a370fe6fc2d383e1159  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5525.png
+131 330 208 319 
+6
+6186e00c6391eba7c7387b785fbfe7fa7e250136  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5526.png
+134 330 210 320 
+7
+b991b81961b3e5ba0e422e28ba34d965ffd8da4e  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5527.png
+126 333 203 322 
+8
+5229db51c5f88e24b3ef28996ef81aa641f97605  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5528.png
+130 332 206 322 
+9
+11f7f934a1868387640d3ff91dd252fddde86081  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5529.png
+133 332 207 322 
+5 5 3 
+1
+5bbe1c9fd39685206fe9d06e7a518e721b1fd6cf  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5531.png
+139 261 219 249 
+2
+9d33bd694162d37052c757b9c28e21072ad29516  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5532.png
+143 260 220 247 
+3
+11dc02bb6fb4945852b40472ad98b26b9e9b3c9e  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5533.png
+148 261 222 246 
+4
+e3e49533a90c63277de2c1f18a46fa377ce56dd0  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5534.png
+139 263 218 250 
+5
+d97080d667673d12714050d1a08861b6a98d7213  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5535.png
+143 262 220 249 
+6
+c4de242575736e997c6dd1d3455e4898dd52edd3  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5536.png
+146 263 223 249 
+7
+60e81c93a048521762ff90ee36b16c6be58568e5  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5537.png
+137 266 216 252 
+8
+32ad42fcac0528a4fd121921bfc243163d79ac08  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5538.png
+142 265 220 252 
+9
+0f64eb73971b16f777ad44cdf27cf70ebe2cb789  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/5539.png
+145 265 222 253 
+6 1 1 
+1
+43ef98daea1741851371476db5c86a7e3842e51b  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6111.png
+0 0 0 0 
+2
+0151c20350ae2557d96e44d886371bdf3e7dafb9  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6112.png
+0 0 0 0 
+3
+405f16b812300406b6376b45e481c168948199eb  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6113.png
+0 0 0 0 
+4
+1ab8320e62604df063dcf563212527d2fe4d5214  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6114.png
+0 0 0 0 
+5
+d5638665fedfbfab201a8ad3bf606c96b11c7f75  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6115.png
+0 0 0 0 
+6
+f1e100c10e8a34fa82ca3679fb04fa070cc9e86d  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6116.png
+0 0 0 0 
+7
+fab29d0a1b5705bd42db18fdf9ff7c7a40de4242  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6117.png
+0 0 0 0 
+8
+6ae2ca5d4fd82bcfb8b30620f3e1d24277ce3934  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6118.png
+0 0 0 0 
+9
+8e4d981198e9014a77d2a1686e402debb260523b  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6119.png
+0 0 0 0 
+6 1 2 
+1
+3747eebef0b60affe11a1d602859bfaeb33ef89b  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6121.png
+147 342 245 335 
+2
+3180ad54c12fe8047d39e7343e742277d3519201  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6122.png
+152 343 249 335 
+3
+834ec97d4301572530485a97fc172e7816757a23  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6123.png
+157 343 253 333 
+4
+8653a031a3d9ba0ef41b9787d247c8d2d362e948  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6124.png
+147 345 244 337 
+5
+1a2dabed1645cc1d42668c7008f03bd9d5c2c110  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6125.png
+150 345 247 336 
+6
+5f526afab68deaeb5c2e9cd6fb59637280ba7b7c  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6126.png
+156 345 253 336 
+7
+20bca6e2abe9a16c3ac861ad0e45e3e1c2d4bce2  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6127.png
+145 347 242 338 
+8
+cf3efe8402ad5bc46dff59936c808f5e6090361c  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6128.png
+150 348 246 339 
+9
+1521d04c579a67c75bc68b15390f719c74771846  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6129.png
+154 347 250 340 
+6 1 3 
+1
+57a13d5fabad0112108fe64946ad781f1a29f503  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6131.png
+153 273 250 266 
+2
+24fd914935b335bbccc6b6f1ac156be1141f7442  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6132.png
+158 273 254 266 
+3
+91becb2660b92bd2dc2ed22944ac34874859b1de  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6133.png
+163 273 259 265 
+4
+e5879792ea31333709606ec901fefe12cb0694a2  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6134.png
+152 275 249 267 
+5
+cdc060d1bf1cffa686dbcb42e1034ec88bc33bad  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6135.png
+156 276 253 267 
+6
+678b4abc2f3c82d66f0de1a93d45f5e2f62ee4be  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6136.png
+161 276 257 267 
+7
+4a93ba0902a2baf3dbc8075745d40f2d9b92226b  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6137.png
+151 278 248 269 
+8
+db0a7f3457d8f85a56d63a0705c077a562912aab  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6138.png
+154 278 251 269 
+9
+c10d4ee56bf37cd74c2ee2cb77bd4a6d5e34ae84  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6139.png
+159 277 256 269 
+6 2 1 
+1
+0e1e13b8d4980a71254b295208c50752455e4044  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6211.png
+0 0 0 0 
+2
+3621f75ce191e36e76120879ab85d3de05be0bc2  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6212.png
+0 0 0 0 
+3
+3226cdfae3da9941ba51f33f5e2309a54e3e0766  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6213.png
+0 0 0 0 
+4
+a895f89e05ab412592dda42fceccd8149a6b27b1  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6214.png
+0 0 0 0 
+5
+774090b4896f033c55920294690bb9eef05d926b  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6215.png
+0 0 0 0 
+6
+535217046a0eb9e8bbd138f093c4ffe74be99a25  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6216.png
+0 0 0 0 
+7
+d23ff61f34360f3baf08b4a773086c1b6f736cd4  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6217.png
+0 0 0 0 
+8
+48cc1e087d06ac6909093831141360b16e99f7c3  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6218.png
+0 0 0 0 
+9
+0b4335eb9ee9ec017bfdeccc70a650844b45f62f  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6219.png
+0 0 0 0 
+6 2 2 
+1
+aa995640776791afe7c8483112b1951ad0c87c5f  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6221.png
+223 346 320 338 
+2
+ee99fc081c508eb5c1dc6e0dcafdad688b4868d7  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6222.png
+228 346 326 337 
+3
+e932a994f63bdf6b7f60050369acd7bc05009d4a  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6223.png
+235 345 333 337 
+4
+abe8ac358fa7bd275fcd946f8d637e22c5b2c184  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6224.png
+223 347 321 340 
+5
+8307a8fab23eec4e1f7ea350496c6cc9e2ad1b31  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6225.png
+228 347 327 340 
+6
+ef759d47280f2a2986c3952c2993cdf2b011b066  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6226.png
+236 347 333 339 
+7
+cc80afa570df5aa49837a24af5ce1bc5634e9b1e  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6227.png
+225 349 323 342 
+8
+1c6cce308de72de21f647ce0d20c933479dd16c6  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6228.png
+229 349 326 342 
+9
+2b13e2b4ac9d23dd1a6c9800f02ae283f7f489c1  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6229.png
+233 349 330 343 
+6 2 3 
+1
+7b26f3e9345ac25c27343c8c7ec9206a681fc65d  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6231.png
+221 270 318 264 
+2
+e7ed74e68296123562533f696ae68638462e1373  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6232.png
+227 271 324 264 
+3
+07698f676e16819d2b32581f274289814dec8d72  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6233.png
+236 270 334 264 
+4
+bbdb31df6a6a795a0a0d07e8cda09ffd5084f804  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6234.png
+223 273 321 266 
+5
+6fb4757e46d1b788f4ddaa6413fe03dd2f9e178d  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6235.png
+228 272 326 266 
+6
+38054597c61fecd7e4cf4de63d27ed6906fa9212  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6236.png
+232 273 329 267 
+7
+967da9006d648e395bd49fc7462666d75044a33d  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6237.png
+221 275 319 268 
+8
+907c83985f4efe3e74eca2e9469043ba2d281b39  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6238.png
+225 275 322 269 
+9
+1d79247cbd4b3069517aa0ba51aeae62d649f387  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6239.png
+230 274 326 269 
+6 3 1 
+1
+f1fd90459ee93994e0f10dfaf99f5741f8d88f0d  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6311.png
+0 0 0 0 
+2
+e3b87ac6ddd8410e292815f505baace689225928  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6312.png
+0 0 0 0 
+3
+d81a377316c088818869793056c9dd62eb1be4c9  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6313.png
+0 0 0 0 
+4
+ece404d4c57f245cf8721669e2b14aef7b02dc8d  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6314.png
+0 0 0 0 
+5
+7ec0a788b702816b8d4cd7ef8898a2b014977ff4  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6315.png
+0 0 0 0 
+6
+70e0286b648998be45f984fd0e8d8cb2d355eb05  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6316.png
+0 0 0 0 
+7
+4c833b932c5a95d184f40db74cf77012434931de  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6317.png
+0 0 0 0 
+8
+3cc787e266f6315488509a0cae12e3ae0d6bd4dd  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6318.png
+0 0 0 0 
+9
+1e8e4596cb9eadf5c5b38ed46e6362930744e397  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6319.png
+0 0 0 0 
+6 3 2 
+1
+abadd50448c1eda4ce5059418ba9e617a277ad6e  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6321.png
+300 348 398 342 
+2
+f6be0a540237e207001e10e338776fbe7e6974ac  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6322.png
+306 348 403 341 
+3
+045ed0c713260a5b647f00b94eb2926ad8755a16  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6323.png
+311 348 409 341 
+4
+7aea6431d93f539cf2384c5f7ca6e9bc043bcf5e  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6324.png
+301 350 398 343 
+5
+16cb0fc6bfda057e692f43c2e3e3e79f03ac4cb5  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6325.png
+305 350 402 343 
+6
+05b2e922b02d9618c53e9d30519ae06afadb686c  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6326.png
+310 350 408 344 
+7
+8f60ca66a320db2888832374573389dd78116e5c  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6327.png
+301 352 398 345 
+8
+e797f52b6b6513ed1505a77e3db252fedda9ef66  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6328.png
+306 353 403 347 
+9
+1e9d85d5bf05e09f3a1c32733bcd32bec1f95c3b  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6329.png
+312 352 408 347 
+6 3 3 
+1
+c51bda9ba66c5fb635541c0f4527b4136bae085a  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6331.png
+299 271 395 267 
+2
+7d4341b21c7a527ed5e38e9ad9b12768232f687a  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6332.png
+304 271 398 265 
+3
+fbc27db1cf61440200207b9b1439953b70c52f3c  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6333.png
+307 272 402 265 
+4
+105b10bddee594f82090eb252815ef7cf51bffcc  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6334.png
+300 273 395 268 
+5
+2527fad332151524eb5af6310ad1f31b808a7ff7  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6335.png
+306 273 402 269 
+6
+782ef0a109bfb7174f0cdc3d26aee668c76d32f9  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6336.png
+310 273 406 269 
+7
+f0b738cc575ce9973c8a7a9365ef095de5c716a0  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6337.png
+300 276 397 271 
+8
+ac5eff6f42f47dd1877460f50b2243312b7a5954  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6338.png
+301 276 398 270 
+9
+17882e9de0be7190ceaf1d29319e52edaabdf322  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6339.png
+308 276 404 271 
+6 4 1 
+1
+89a01291b26fd63ec0dc1277408d1f24d6edc0b0  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6411.png
+0 0 0 0 
+2
+a644b259a9bc3897e2bd8997edf3c54144a9d06e  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6412.png
+0 0 0 0 
+3
+842dafe206ba4728aa34cf9b7ec17ff461a0b0e6  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6413.png
+0 0 0 0 
+4
+99edbb6a0162da631b72732abb50bd632f2b047c  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6414.png
+0 0 0 0 
+5
+c043c5dbcb5626d4181e5329979335b44e2a6926  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6415.png
+0 0 0 0 
+6
+55900cf669950c05bc42bd2ffc56475c11d01335  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6416.png
+0 0 0 0 
+7
+3ec3dec4fcd9ba030c4a817c63421ed97e1ee4c8  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6417.png
+0 0 0 0 
+8
+e1110b3f1eecceb9db18e9e2aba4c6dcef78594a  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6418.png
+0 0 0 0 
+9
+e938f78525d2902f90936f55f536659a836e604b  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6419.png
+0 0 0 0 
+6 4 2 
+1
+3086ca51b6ea8d4d99db8c808d5de932d9d16009  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6421.png
+379 348 476 342 
+2
+6812f49cd5d23060865e2fecaa1def2e1b200330  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6422.png
+384 348 482 341 
+3
+8ca136fae84e74d8e43c49549743758e06317a37  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6423.png
+388 348 485 340 
+4
+8d6e791c88fb941b0fb00083f4cd100c642c36bf  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6424.png
+378 350 477 343 
+5
+5bc22025a75e580dce6a35e7e08d36258c451ce1  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6425.png
+383 350 481 343 
+6
+b2f8fb6159fba815894b04a130cb45e8804e059d  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6426.png
+387 350 484 343 
+7
+941eae3d20d5996db40afc9fa3a7675c67a2a74e  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6427.png
+380 352 478 346 
+8
+cade4dc9e518e066ba01efadbcc4c4474b7d49c7  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6428.png
+382 354 478 346 
+9
+c4f36c3422c252e2d1c40b2a23333011270da04a  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6429.png
+386 354 483 347 
+6 4 3 
+1
+eea7b5a634c8d53e3d63025cbc1058a9d9b9c26a  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6431.png
+375 274 473 269 
+2
+377a817160b167896d2293e016064ce4f80be793  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6432.png
+378 274 476 269 
+3
+66fbbc91ee521b5adb2e551473040b96615679b8  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6433.png
+383 274 481 268 
+4
+e77c6e3e910e7c3324afb8ec414a255d52b5fe37  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6434.png
+373 275 470 270 
+5
+d0b6a852cc98d40d9192e2e2693b2382c8de4148  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6435.png
+376 277 474 270 
+6
+d4bfa7b07ba2d5af92b83c48cf6306d8d5902dfa  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6436.png
+382 276 479 269 
+7
+6ea1f0a79dfbf31f485c1182314e4f4bfb8d6889  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6437.png
+372 279 469 271 
+8
+ccb3d16898b94314721ab44d63a47ad34ca88bef  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6438.png
+375 278 472 271 
+9
+68fd1d55350ef0b4cc74b50ffb879c8a9dab531a  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6439.png
+379 279 476 272 
+6 5 1 
+1
+af3aa885a6f221c614d1d6fb86659597184d26e4  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6511.png
+0 0 0 0 
+2
+dd529c3949fb7c624da62a3af17a2d95967f2d2f  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6512.png
+0 0 0 0 
+3
+55b2dc4d4ce75f7813a1e6b948777f73719034f0  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6513.png
+0 0 0 0 
+4
+bc595bd1fac594654e7990472bd3dbe348b1db9c  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6514.png
+0 0 0 0 
+5
+df98751f503574a2f5e38e369ebfedf91990427e  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6515.png
+0 0 0 0 
+6
+5e7250c70ea1068cff94ba0e5e8b31c7a899088f  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6516.png
+0 0 0 0 
+7
+715422363a65ce80e7c60edd2912dc184b3bddcd  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6517.png
+0 0 0 0 
+8
+160b288b74283370fc72bb18a549c94fbfadb95b  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6518.png
+0 0 0 0 
+9
+c2f160f57b27e183b3d5f1c5b4bcb81710ab83c6  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6519.png
+0 0 0 0 
+6 5 2 
+1
+15a52bd21b98ecb213b943df4ba365c585d7165e  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6521.png
+429 348 526 343 
+2
+030c558b59aa28ea60f077541afc3b5ec2735ca6  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6522.png
+441 347 538 345 
+3
+37e492e4b5e85e413eaed764e040c5e70549bf13  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6523.png
+443 349 541 344 
+4
+7d8e53f0441f6b2ec61727d802b19ff9e060cd90  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6524.png
+432 350 530 346 
+5
+6bf50022f76c73d386ff0ba998fb8a130599b87e  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6525.png
+435 351 533 346 
+6
+fc1e224a1d57fd2b884b46100493b56228043906  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6526.png
+439 351 537 346 
+7
+e7321aa298a69997c4c7e927712f6d578da4951a  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6527.png
+431 354 528 348 
+8
+bded1a14f00a8069cb392a233c876ac616ef0ee4  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6528.png
+433 355 531 349 
+9
+09abdbd95e719daeac43950f3f5e726b9a9a1526  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6529.png
+439 354 537 350 
+6 5 3 
+1
+a962a83540b500dc5d318db0eb453fa6d11f50fc  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6531.png
+440 274 540 272 
+2
+5dee42172fb828e569542ebe7a8c58926717b1b1  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6532.png
+445 274 544 272 
+3
+8e089adbae403f07ffed50bb4f0449bd1d778ca1  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6533.png
+448 274 547 271 
+4
+377fbd12290cd4916a54abc79ca65fe371eed365  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6534.png
+441 276 539 273 
+5
+13269bf2363ebbb8685ffff69cae06a33575f2b4  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6535.png
+443 277 541 273 
+6
+dd12bbf1bf610b2c9cfa51d9f411eb5cecd235ba  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6536.png
+446 278 545 274 
+7
+6961553c0efeb6b38015d1f2d3372f2ed252a454  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6537.png
+435 280 533 275 
+8
+6480f8bfb63d437aa0b076f44c59ee5bdd38aac2  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6538.png
+440 281 538 275 
+9
+86fd1d3bafee380863f7eef96a9f265108404d27  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/6539.png
+446 280 542 276 
+7 1 1 
+1
+8764c6092280ce11000d0121379063df938a07d6  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7111.png
+0 0 0 0 
+2
+5e88c63936a9d868399d29b6c06f827e141a0cb4  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7112.png
+0 0 0 0 
+3
+a23fbcc4b2f8e2cc7e68d6522c68f69e4ce1ec46  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7113.png
+0 0 0 0 
+4
+19ff0256c2a100071b6c43583c3ef6270a4b1877  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7114.png
+0 0 0 0 
+5
+317ff22af71a7b43e82f744f66b5e8191d542bc4  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7115.png
+0 0 0 0 
+6
+11c23f3f8d2f9aabcc90251277b925cad983c059  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7116.png
+0 0 0 0 
+7
+14c991fff01155203af10053e4d92054fa8a16dc  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7117.png
+0 0 0 0 
+8
+6d3bfd8d5f73b2161a255a1fb15a946143678458  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7118.png
+0 0 0 0 
+9
+43dae741e1b110dab94e22f8e957ad3401f065fe  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7119.png
+0 0 0 0 
+7 1 2 
+1
+59a6f255387e7b685e70efa7b78a9ceb878bc211  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7121.png
+189 332 263 331 
+2
+e6e79e2762fd477989c9b51edbd173ec1ae96ebf  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7122.png
+193 332 270 331 
+3
+382f473aeb2555e4a7dc58354a055ee9dc12b4d7  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7123.png
+196 331 274 330 
+4
+9f30c5c02c9ef9e0fd108d6ce0ff777193e7cef1  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7124.png
+191 333 267 332 
+5
+b0781b207aed6e467db3018c7f07c893f3bd8f08  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7125.png
+195 333 272 333 
+6
+9bd47f30044c781c69a8b5fbc635ebe8b7b46243  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7126.png
+197 333 276 333 
+7
+081ec7ae122006300b7dce5f092a61e389b2d7db  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7127.png
+191 335 267 334 
+8
+139fc98906e057533ad1a6ae2790a00d87f6e13e  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7128.png
+193 334 269 333 
+9
+c704b35628224bf67bae97048ef71de7b689062a  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7129.png
+196 334 273 334 
+7 1 3 
+1
+ac8d5bb8f798646ff28326f42fd0d000d88b43f3  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7131.png
+193 257 267 260 
+2
+368ba7acf648d6e66652426a14db5afef5ac6066  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7132.png
+197 261 273 260 
+3
+68efff102837cb36b9d4718fab2aa91f334d4ba2  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7133.png
+202 261 278 261 
+4
+2f617620c6fded60c3b211abbf40622b0a08419b  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7134.png
+194 262 269 262 
+5
+2ad020437553d75a3f27c40b866696309e4a9da2  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7135.png
+197 262 273 262 
+6
+be3bce89688653a3ee727789de85fe8ebd3f6a44  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7136.png
+199 262 276 261 
+7
+00207ab896798a34e373f82cf47db03eb5c83946  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7137.png
+193 264 268 263 
+8
+dd0bbba1d0cffe485f99c7d2c8bb2357390e0204  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7138.png
+196 265 272 265 
+9
+7b70131095a41909ac6a32579a2b7f58d1e861d7  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7139.png
+200 265 275 265 
+7 2 1 
+1
+e235075720b9f87394d7b9a657c36faf2bbdfd8d  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7211.png
+0 0 0 0 
+2
+34245043fb2aad78b08ccecf7b99911651a695c5  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7212.png
+0 0 0 0 
+3
+b8e26c178fc467648c23fe1c373d0cb6f350287c  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7213.png
+0 0 0 0 
+4
+bb21fd70c2caa814e64d627113b3ebdd10b2f4a4  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7214.png
+0 0 0 0 
+5
+d0cad397706c6c5d3f73133e25a311142648f0fc  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7215.png
+0 0 0 0 
+6
+7f6add1013e20fc70e15351a3af9b80260784505  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7216.png
+0 0 0 0 
+7
+8c06ac569ebda6ff462837b20a9fba44859d7270  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7217.png
+0 0 0 0 
+8
+ea712068fd5c64e7f74dea43dacaa28799d97281  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7218.png
+0 0 0 0 
+9
+1e4ab46c46c61bd6e8e41abbfc92e4c6a704daf5  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7219.png
+0 0 0 0 
+7 2 2 
+1
+90fb6e66816c7aed487147ffc6fe496d907f020d  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7221.png
+265 326 338 327 
+2
+a53a044f65e682321465994b6bf98fbc20cbd863  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7222.png
+267 327 342 328 
+3
+144c55677c323c17e8fcdbb1ffa2822dd66805e5  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7223.png
+270 328 346 328 
+4
+42a6c01204022b28ede03facdacad74b5e1b8289  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7224.png
+263 329 339 329 
+5
+fa1c83648c7aaa183045f6d1ca1cdc7202a689aa  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7225.png
+265 329 341 329 
+6
+86b1555ce4406320fe430d7711f6f7731228c073  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7226.png
+271 329 347 330 
+7
+ce57425c46218b1d453fe585dd1155459342b1ad  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7227.png
+264 332 341 332 
+8
+59cf6369ca50bc55deb90d2f924d7a692919daab  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7228.png
+265 332 344 333 
+9
+cc80afe0e266d6497360301658f87fbc822d6a10  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7229.png
+268 332 344 332 
+7 2 3 
+1
+d05a90b7ce12c3161c7b555f8176b89d71e836cd  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7231.png
+266 261 341 263 
+2
+8875f3c8bfdc42a1767a28725d5543669c54baac  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7232.png
+270 263 346 263 
+3
+986eaa814429df39e2a09d44b2e85026cbe461a8  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7233.png
+274 264 353 262 
+4
+78c9711da5b9274aade3af7d6d367959d8aa0e66  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7234.png
+265 265 341 264 
+5
+436f6c801ccdfa12371a2bedd002eff7392fd0f7  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7235.png
+267 266 344 264 
+6
+7f8cea7b6f02a66cb8942c0f769438d5e845730a  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7236.png
+271 266 349 265 
+7
+264b2fedfa32644d8637e3f3d020125453f1bf43  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7237.png
+266 267 342 266 
+8
+1707d92fe83b8c073ec7fd522f86517badf1d346  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7238.png
+268 267 343 267 
+9
+5a00dcd0b8fbad72d9a4a7b1bf824c52d62ffede  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7239.png
+271 267 347 266 
+7 3 1 
+1
+f641ade47f8cb6991a3c36876f0814e847c81bcf  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7311.png
+0 0 0 0 
+2
+7862a4670ea767b227d95930d46597c60732dd73  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7312.png
+0 0 0 0 
+3
+826e8e73e9d8616b58f77089d3f62fc672978f53  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7313.png
+0 0 0 0 
+4
+c37dae5c487cdfc0b9ca143e662ac8f1014a3a4e  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7314.png
+0 0 0 0 
+5
+fe7258e69ae8a9b5b91c5ee89513e02708eaf771  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7315.png
+0 0 0 0 
+6
+ee15a798cc45145d6bc35bbecd5086daf0ba33a5  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7316.png
+0 0 0 0 
+7
+c86ad69d997eb37d75eb439c1632f83f9bd299a9  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7317.png
+0 0 0 0 
+8
+d9f88a3e85d6ffd8516fc76162921e43686af27f  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7318.png
+0 0 0 0 
+9
+c6683d6783e4b2fafeb79a2c47ef96999659ebfb  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7319.png
+0 0 0 0 
+7 3 2 
+1
+4ef44f8c2756b0de700f0daec19a39616b9b9516  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7321.png
+325 334 399 335 
+2
+2ce683c25b777184cbd8ebe82d4a86a78d84ec70  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7322.png
+330 334 405 336 
+3
+506d206c1a5334f594413ee94b35f02e406956af  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7323.png
+333 335 412 336 
+4
+e3bed456cf2cbf3b6c42d0a1d9747bb8987fb3a8  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7324.png
+325 335 402 338 
+5
+8b85e77118d7935bd38acbc7d61dac87d9af1e63  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7325.png
+327 336 404 337 
+6
+0eb71301003824d628e65607fa604e3f8bd68e4c  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7326.png
+333 337 410 338 
+7
+f3528d6b5078514e79c77e589646deddd669cbb2  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7327.png
+327 337 405 339 
+8
+0d269857308f8cce429a8e06ac8743b2556d0997  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7328.png
+330 337 407 340 
+9
+8ac69753fc4f22e940e3791dd9994fcb3073ecf3  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7329.png
+332 338 409 340 
+7 3 3 
+1
+7502d80bde52ed285269a4dc024dd2268b25607b  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7331.png
+318 262 393 264 
+2
+93560bc43033def31480098dec5ee541d40be761  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7332.png
+321 263 397 263 
+3
+88e9d6fa2621bd54af82f2c2ec68d056d84d97c9  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7333.png
+323 264 401 262 
+4
+db20b9c0cdc3ed65142f01c07642570ed1575898  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7334.png
+317 265 394 265 
+5
+24bcebf877c2688e506d3a4f15aeecdb9ea993a9  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7335.png
+321 264 398 266 
+6
+e6875ce96452c322edc6210a60934c791e08733c  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7336.png
+324 265 402 266 
+7
+7d4bb83badcd6712f3a7dab0acb000c7de7d4e0f  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7337.png
+318 267 394 267 
+8
+2ec2a7891f8edb921664eb4f6dbd25d9642d82fd  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7338.png
+320 267 399 268 
+9
+200321dd3cfe8c44d8e4dee6b3db467734f69b5b  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7339.png
+324 267 401 268 
+7 4 1 
+1
+251466bd85ab365ceab8917456fee055f112f802  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7411.png
+0 0 0 0 
+2
+fafc155cf5375dcae91afa261f80f85363829a34  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7412.png
+0 0 0 0 
+3
+6db8cb49c1fd2f087401f1db1402ff752ddfc126  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7413.png
+0 0 0 0 
+4
+ab54b4b4b24002b8873d32f2427c7f7cbe6ff6c4  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7414.png
+0 0 0 0 
+5
+e7106cc406576fc9c349453294dec6b4aa4fdd5f  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7415.png
+0 0 0 0 
+6
+3ae3b6f957e6d782023d4fb46b2b8d5792b1fb48  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7416.png
+0 0 0 0 
+7
+02557492918e22b5699a769e19fe923ff4c93b10  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7417.png
+0 0 0 0 
+8
+cf04b27f558f440410e7828c09c80bac8e6aaaca  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7418.png
+0 0 0 0 
+9
+53315261d0240b2aab4b0aaeb2f4cfe7d4d97b44  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7419.png
+0 0 0 0 
+7 4 2 
+1
+12088d82d5c67bed42da5ae2034cd573720f70cf  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7421.png
+399 331 474 334 
+2
+dc5833f874d35c40a4654a8d5a39bf687bedbca3  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7422.png
+401 332 479 334 
+3
+82a2715256f4bd2b3718c21f3d5690b4774ce5da  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7423.png
+407 333 485 334 
+4
+f4e5d3563bb196ef197806bb1ff5d1b914b58d2d  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7424.png
+400 334 477 336 
+5
+88c7b078fc10e8734a3b03bbc1d19c5bc9703ea6  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7425.png
+403 334 481 337 
+6
+fbfbbcd00888d5ac22f578a3f3a669f328f7e7ee  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7426.png
+407 334 485 336 
+7
+67c88701d4703f823bf21cb8756d7724b51b16c1  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7427.png
+401 336 480 339 
+8
+556e4f42afcc9eb31e1e7b1ae678a400183185bb  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7428.png
+403 337 482 340 
+9
+c013a129d075710adc06386787b29dab25c7e9eb  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7429.png
+406 336 484 339 
+7 4 3 
+1
+1798835bc2a90a9a5f2f6f03a91efa92945c7d58  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7431.png
+411 262 486 264 
+2
+9e28bd23bf1f173ef8a046133459ea186d08db90  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7432.png
+415 263 491 264 
+3
+dedf9266f3e66a133c3a79115c732ca63ddaf122  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7433.png
+418 264 496 264 
+4
+d33af19b620412d80a5ca6c492562e469f85b5e7  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7434.png
+411 265 488 266 
+5
+350800edc9e103021c73926d68255846b557ecf3  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7435.png
+413 264 492 267 
+6
+cfb12a9598478814eac797c5ae0e2479f22f2121  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7436.png
+417 264 496 267 
+7
+f68e08c564e4170600e2dddfdf87a6d6322a7ea4  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7437.png
+411 267 490 269 
+8
+be46712db13f99c3a0ce7febdda3a35c8bc6c149  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7438.png
+413 267 491 269 
+9
+bc23e29209604608c07618fd89b810def6172e0a  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7439.png
+416 267 494 269 
+7 5 1 
+1
+05b570ba8d80ffdfe82a49f764b9934ed8c63c99  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7511.png
+0 0 0 0 
+2
+edcdb20af19e2f76224f9474948112bf1b92de29  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7512.png
+0 0 0 0 
+3
+2f228d1e47bfc44d5c13974b28a7184c8be429e0  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7513.png
+0 0 0 0 
+4
+8dfd891e750333ba76d6445c8b73e7b94bc2207b  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7514.png
+0 0 0 0 
+5
+b1448ee438a2ab738ed72b6f9d8ce3e9a751ff1f  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7515.png
+0 0 0 0 
+6
+f02f276a3caf3478338cd5e454cb8681927cf197  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7516.png
+0 0 0 0 
+7
+e86a6badbb21ee547d6c254fdbe7176701a58b83  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7517.png
+0 0 0 0 
+8
+60ec35adb64b5f3ec9a97189de1561dfcbc19a2f  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7518.png
+0 0 0 0 
+9
+c59dbfa82404e548e852273a7ff35a0e9aea82c5  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7519.png
+0 0 0 0 
+7 5 2 
+1
+97a44b810b36473e222283e7f7cde0d4be1a647e  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7521.png
+482 339 559 340 
+2
+36373271670db878c5f8d2bc29ea633d0873f6db  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7522.png
+484 339 562 339 
+3
+7e025084794725d06ee6bd356b3c2c1c4e537407  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7523.png
+488 339 567 340 
+4
+f985dbb8d4cc73d730f0e40847ab6f8299c6bdb0  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7524.png
+480 340 560 342 
+5
+1661dab9a28fd640b65105fa6bfb92e4303e6101  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7525.png
+483 341 563 343 
+6
+b270f53a82a8d764aa1a9a07ddb490531476e443  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7526.png
+488 341 568 343 
+7
+1afe52893aa34d610a481252ead330c54a569ac0  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7527.png
+482 344 563 345 
+8
+32296dbe8999c16de2ac0e3f18fb304a1f3d672a  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7528.png
+484 343 565 345 
+9
+e7e74999e7ac5617e64fa67c730528d49501b0ab  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7529.png
+486 343 568 345 
+7 5 3 
+1
+90814df44f8a0786891fb90f9009d29a973d8da0  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7531.png
+475 268 550 270 
+2
+ce340e517fd01a5a5e93ad6f1c6fd9976c06791f  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7532.png
+482 268 562 270 
+3
+f2e8fa88674de613997660f2ad2da7ff5c090ce7  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7533.png
+488 268 570 271 
+4
+4aa6c1f9f3ed9d72f4e4a139f104b6978330d21e  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7534.png
+480 269 561 273 
+5
+1146202be3e18548c47e70563808859323e9e6cf  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7535.png
+483 269 564 272 
+6
+b521066375298585bffe048d59131e1af48a8f9d  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7536.png
+486 270 568 273 
+7
+2044452ae9f6aa867c8ce1bc75f14ba90848d896  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7537.png
+480 272 562 275 
+8
+9f084e14bec288b0f0c2ba1428b80f2b9037b0c3  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7538.png
+483 272 564 275 
+9
+6dffa34c247d445e42c38fdf94f634d8feb9d17d  /home/theo/Documents/FAC/Master1/Semestre8/Projet/EyeOrigin1.0/images/tristan/7539.png
+487 272 568 276 
