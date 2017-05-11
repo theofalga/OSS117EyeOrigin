@@ -1,0 +1,2941 @@
+Left_X  Left_Y  Right_X  Right_Y 
+1 1 1
+1
+c849e6bffd4726df796b5b6bdbf6b46030e451df  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1111.png
+409 284 479 292 
+2
+804a9aa56d5b2ca41fb0978be62011b0b30272eb  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1112.png
+416 286 483 294 
+3
+618ec27bdee897287af9d3ab3c638f099b9cc6ac  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1113.png
+420 285 489 295 
+4
+313cb1298feda03c98627dfc3393c7e0792b6c4b  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1114.png
+411 287 480 296 
+5
+0a53ba725040b282e9ceb332bcda9571bfefa294  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1115.png
+417 287 486 297 
+6
+ba62c16900a9c5b05aa520560e072f7855718e0e  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1116.png
+422 288 491 298 
+7
+df25b41933618be159ea2aaba0a5065b09c0ec0b  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1117.png
+413 288 483 298 
+8
+75de7674fef2d1f451c97d0c659ceb777a0a6d5c  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1118.png
+419 289 486 299 
+9
+f6ded415ed67fe8c15099d545cd6052eccf6adf6  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1119.png
+423 289 491 300 
+1 1 2
+1
+b5af496b744b9a4a9a2328df4a3bbc26be1e9912  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1121.png
+409 219 479 228 
+2
+5026f694a05291a8d1cb58c12e713c92157b57fd  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1122.png
+417 218 485 228 
+3
+8fea66e62d612ad30a29fa1175a368bad64b4c6b  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1123.png
+424 221 489 230 
+4
+af4a2b61e67d6c483bb32636189c420eb8a73f3e  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1124.png
+413 221 481 230 
+5
+3cedc08197b2fd74c753c37692e3249eea007fd2  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1125.png
+418 221 486 231 
+6
+1fc970580e1f4da70433e3928e877e1d6167d12e  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1126.png
+423 222 490 232 
+7
+02e02b9b43ffa0c93818e93d85074e165ab034f3  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1127.png
+413 222 481 232 
+8
+b6fdcd108632a18cdac44f8f7347f5fdaef0d0ee  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1128.png
+419 223 486 232 
+9
+d2ad9e86ec094c537b13609f021c0419357b0617  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1129.png
+422 223 489 233 
+1 1 3
+1
+f949612a362bc5cff6edcf54a620d51ab9f247e4  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1131.png
+414 140 483 150 
+2
+02d9ccd0a64d08501c64161acb00422db54619ed  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1132.png
+420 140 489 151 
+3
+23c5eb63e94be3222cd293de9ee73db0392d3ad2  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1133.png
+426 142 494 151 
+4
+62eaf80e33e86dc80c552976bae2dc3ac890cbd5  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1134.png
+415 143 485 153 
+5
+3f6acb28a5c5cb4f80d9aef3b6195b9c650aa7aa  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1135.png
+421 143 491 154 
+6
+cbf80b3264134fdcc6e10b2ef850e0fb41494d83  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1136.png
+425 145 493 156 
+7
+9c620e64e8af08ac8accd9b281ff83d4b6cdf05d  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1137.png
+417 145 486 155 
+8
+47bf85e6502df0fd5c8e9e104e2ecac7f577c62b  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1138.png
+421 145 490 156 
+9
+1c1a8ec24ba81c7cf26f32ab59a98a8733691b4d  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1139.png
+424 146 493 157 
+1 2 1
+1
+5f30d68bf6b2ec43098ac01e6f5fedfcaab4e865  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1211.png
+343 283 413 290 
+2
+b70b1afa9c72a1f9c868a8998d9510eff7ade903  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1212.png
+354 281 420 290 
+3
+fb92f8f5e4162f12854d9531a923b0a5462f67ac  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1213.png
+359 282 424 291 
+4
+be9182211499866b45dc5173322c3024d2231ab1  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1214.png
+348 283 415 294 
+5
+a730fe221f2235374c9b9ebabe189e60c92f1b5b  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1215.png
+354 283 421 294 
+6
+eb6080fc86fae0bf940348ffce70757b51375026  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1216.png
+359 285 424 294 
+7
+96c1c8cd3712c2a89978ab91980c104fe1c7a0a6  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1217.png
+349 284 416 295 
+8
+803bfb025665bb10196ed175f92bd75c4b5fce34  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1218.png
+354 285 420 296 
+9
+c07f329e784c4a73ca5bbb6c78dbad0c29cca72d  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1219.png
+358 287 424 297 
+1 2 2
+1
+70211f97625f6b48c763702efc69a66c8b2a5ac9  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1221.png
+340 213 411 221 
+2
+e2a0a5a6743e086a2b0e7d29e8b5c1b89ae6b9df  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1222.png
+349 213 417 222 
+3
+9cf0bfae7c846691054661ee2eb1d1675032c901  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1223.png
+356 214 424 225 
+4
+c776fbd59a37aacbdd59d5189e5ad4467406978d  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1224.png
+345 210 415 221 
+5
+78a5f5d091ebc7e9b0d573eca2470c7c7ffc4ad8  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1225.png
+352 211 420 223 
+6
+6ad06c775627ddecdebbc94b704bd68a69fbad84  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1226.png
+356 213 423 224 
+7
+b99ea5050d4cecfb2aeb3e108348293b535d4225  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1227.png
+347 213 416 225 
+8
+23672294695a4e590b6e3d5c822136e929f8e318  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1228.png
+352 213 420 226 
+9
+6baca3917c4e7e75598f6b56c2b8ab7810b984bc  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1229.png
+357 215 424 226 
+1 2 3
+1
+aa77732aa1cd1e29600e661026740c44795bc4fc  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1231.png
+350 136 421 149 
+2
+b7a2c0f1244ab733545d872494317d15ba00bd67  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1232.png
+355 137 425 149 
+3
+cad288821f4622e3be6c5e5c941730d3abd69ded  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1233.png
+359 139 429 150 
+4
+c71ad90e96a49be6c304c6a472d0dafecee8c6fc  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1234.png
+350 139 419 151 
+5
+fb386035f9482946c59928802d2e0a42fc2e5dc7  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1235.png
+354 139 423 151 
+6
+0748a38d570a553086a83f2ecd7093706741e0e8  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1236.png
+357 140 427 153 
+7
+0b59c62feec13a66e5b1cbf5fde4de4185eb314f  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1237.png
+349 141 419 152 
+8
+757fec65742d3f6e75c0e845b8bc51f471234b48  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1238.png
+354 142 423 152 
+9
+3e6156dab868e27ce41dc87a724bc35c61ef2dc3  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1239.png
+358 141 426 153 
+1 3 1
+1
+11ffba0887ccdc5c5758374b3242da61700b42ba  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1311.png
+291 265 360 275 
+2
+48358c2ab60ff2294775d21c2d62df7798462d24  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1312.png
+300 265 368 276 
+3
+01d8ef9f221083e1b472666f2c1c3a5f03ea23d1  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1313.png
+306 266 372 277 
+4
+4483da32f7513df8b6ca93ac7458320bb169ae18  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1314.png
+294 265 362 277 
+5
+e1f08057bef53038e8a13355bf2b0698c150494c  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1315.png
+300 266 366 277 
+6
+4b4e279a0933846a072c14185186c3e6ef7f5f51  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1316.png
+304 266 370 279 
+7
+4f05f8548ab51a5ae501b84e3daf3ef532933807  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1317.png
+294 266 361 277 
+8
+3096662677c14115c8af2b42c5550f40dd40d394  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1318.png
+300 265 366 278 
+9
+c2dc8f2f2af3e97409fc39e0ab46bdf89c1a34a1  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1319.png
+304 266 370 280 
+1 3 2
+1
+d435abe8a093e855bb1a07a2ff27aef7442258f2  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1321.png
+285 208 357 220 
+2
+73c48a79e2e68c003fc96bfd5a24e5aaf149f4f6  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1322.png
+295 209 364 221 
+3
+1a2c24751c6919666b3532403008160fa67b96d6  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1323.png
+299 211 367 222 
+4
+608b230c4f0b65639d3562345cbacab629c82a3f  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1324.png
+288 210 357 222 
+5
+cb7781c6c54a6a3ef785238bfb9e10c4ec1ce2d1  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1325.png
+294 211 364 224 
+6
+b1691de0ea3eaf9a65988a8e02c1ba881d894fcf  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1326.png
+299 211 368 226 
+7
+a7d8afa4a373e8d0fa33a5d4dcd265134c6a6a30  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1327.png
+291 212 359 225 
+8
+003fa85dbfb4747df6db9079910380411754ad52  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1328.png
+295 212 363 224 
+9
+6c4bf9a6cf1ffd59f5cbc69d43924a6ab9dcde88  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1329.png
+300 214 368 227 
+1 3 3
+1
+15e69ec8b509b1614985d5881f6dda60edc3c2da  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1331.png
+300 134 368 146 
+2
+cb12684ab02424740d34af7d64317ec205e2b17c  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1332.png
+305 135 372 148 
+3
+5ded093dafee42e28ab7f38856f5fac42b300dd2  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1333.png
+311 135 377 150 
+4
+58e9b0bb3036f10446aa747cff0c35fb05ace468  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1334.png
+301 137 368 150 
+5
+02c17876f3ae419febc0625dd9d0532233e94de1  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1335.png
+305 136 372 151 
+6
+1ac40579282cd48b53b19df56ae103fc83007e66  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1336.png
+310 137 377 152 
+7
+4ff785757303a63472d05d424ee6d10a54ccf871  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1337.png
+299 137 369 152 
+8
+9c2e4067eb17d50269828dd116b7f7b668017ccb  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1338.png
+307 138 375 151 
+9
+1f65de08f9e37aef00c9caf95d8f9214fd9e9123  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1339.png
+310 138 377 152 
+1 4 1
+1
+cfed7c951ea008d0f9f31e77099b4af7ce96ef18  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1411.png
+216 258 286 274 
+2
+f5e88c0407d410a29f868ed8ec680e4eefa817fe  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1412.png
+233 262 298 279 
+3
+e1c279303563e1a964d7ca2a1256074e1abd5bf0  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1413.png
+240 264 303 282 
+4
+7625f04acb5a078e067e566a0dcf33f9e4bece55  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1414.png
+228 262 292 280 
+5
+b44724db330305d9794efc33b1f2d71d0d352b2a  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1415.png
+233 264 300 282 
+6
+443b31a9ca3fd43b7d1314748f980c87e4471701  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1416.png
+239 266 302 282 
+7
+4c59ac8f00506b4a7925c24b61e8184a87eb57a7  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1417.png
+229 265 292 281 
+8
+049b217f32dcf1936a415bc4c64f1c72a760d3ee  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1418.png
+235 266 298 284 
+9
+cfdfb5ba27738d09d0b0ebabfd41af7357e067ce  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1419.png
+239 266 303 284 
+1 4 2
+1
+7da74c1e421eef715b34db4c19097be7eafa584a  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1421.png
+221 196 289 211 
+2
+995aaa866580ff91a4d5fc43109d6eb64f3ef56f  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1422.png
+227 196 294 212 
+3
+60521bf2e4acf2f51037fd22220e30585192374e  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1423.png
+233 199 299 215 
+4
+388e2c78aba4ca96de6a4f16c3d9f9e4cd9620df  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1424.png
+222 198 290 213 
+5
+2e28b58616d0a2289a1b4bbcc788b7c9d4277a47  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1425.png
+227 199 294 215 
+6
+9a8d860e41588b2c275dca802e758d8cac03277b  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1426.png
+232 200 298 216 
+7
+eff87a414af96e7095403db059c00fbb18dc7b4d  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1427.png
+224 199 291 215 
+8
+9f7acca042bca7d66f83f89609c3d53559f41d37  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1428.png
+230 200 296 217 
+9
+6c467074588401ae0f57299c050ee4f3679d56c6  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1429.png
+233 202 297 218 
+1 4 3
+1
+0c476ead23af26f6577ce86a9e713f321c9a705f  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1431.png
+213 132 285 146 
+2
+595cdedb5f4bf73df5d86712dbdb86d4bcbd60e0  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1432.png
+219 135 289 149 
+3
+784dc8574bf586ca121ff2b3b4884741e112a611  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1433.png
+226 135 294 150 
+4
+db6ab26e4327f95d29d2fe22a3f312595916c4dd  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1434.png
+216 135 286 150 
+5
+4b841d4a3d2aac2c90f9d210db2fb4673cd8bb00  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1435.png
+221 136 289 151 
+6
+9e90c41fd91120f475ab3684c2a5517b65fc7b6a  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1436.png
+227 137 294 151 
+7
+f3f485a7ad72621f1e803ea49dde4e275adbf092  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1437.png
+217 134 287 152 
+8
+454276522ff6379cd63039720bdcf99a9e4ab3b4  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1438.png
+223 137 290 153 
+9
+fc8be6c8aac183d0325fd216cb8b5d1a83a603bd  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1439.png
+227 138 296 153 
+1 5 1
+1
+76e5f4b599ad950bef47c177a110499ef72f968f  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1511.png
+140 257 211 273 
+2
+ce6d318877a4b9138618c49d6e1c52bc25749bc2  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1512.png
+150 259 217 274 
+3
+7247926838bf3f2a3d41fbf7d8d8c0dd416a258c  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1513.png
+158 261 224 277 
+4
+abbee39511318bc30a3e46f9ec560cac40fccefd  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1514.png
+146 260 215 276 
+5
+ae27915658b76b66689f932bc51a8ba964c09c7a  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1515.png
+152 261 218 279 
+6
+2e479953d88698fb16dd6ab6ae88886fc733c6ae  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1516.png
+157 264 224 281 
+7
+917c972d654fe5b13bd3b2b31b28c6959d6b4143  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1517.png
+147 262 215 280 
+8
+0f835134223aba5591848543fbd2122de5d8b86b  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1518.png
+152 264 219 280 
+9
+558188a090a52e29dba3e25975be63f3da8c3dda  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1519.png
+159 265 225 282 
+1 5 2
+1
+70b2d21fcce8930f6844e00d9708a70abfd954c8  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1521.png
+150 188 220 208 
+2
+bad39211f0fc959853d288bf0d0baa7dd0872f7f  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1522.png
+154 190 223 207 
+3
+3ef3579d473b7d43ed8508fecba8dc0776f18809  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1523.png
+158 193 226 209 
+4
+af5533ccc8c90b5985b2f0c3b60d3d678526f289  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1524.png
+147 192 216 209 
+5
+609d4c3b34c87e0f970f302aa582a9487e93c148  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1525.png
+152 192 221 209 
+6
+433e893b3aff71422cae12e21500df20ddc44b8a  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1526.png
+159 193 226 213 
+7
+0aecb79cde4aaed83d6483062f618c9b8b662bee  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1527.png
+151 193 218 211 
+8
+6c3b54a57fdd8981eb876b1462df4cca8d322155  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1528.png
+157 194 223 213 
+9
+de7ade285fa88bd05e5b72523b0ed12f21842d99  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1529.png
+163 194 229 213 
+1 5 3
+1
+0f8cab45bd4d5fa1c6b9cd75456a980c37a2cbf9  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1531.png
+142 121 214 137 
+2
+941c251319e835578d8bc4395ba2654902261a2b  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1532.png
+149 121 218 139 
+3
+aa39ac9f03ba30c3d82d7c59d7fa70b93197c27f  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1533.png
+157 124 224 142 
+4
+32bac99a4683bb95f8f95f814b3fffff571731c8  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1534.png
+145 125 215 141 
+5
+6b1e18a9e1c1e10589e75e6ad55b49e8ab1b2a4a  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1535.png
+151 125 220 144 
+6
+b897e9558c565eb133e003dccbd4d0879975e8f9  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1536.png
+156 127 225 145 
+7
+a99f1b8c67ffe2c8aacc64fcd35ed6b35a0a22bf  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1537.png
+147 125 216 143 
+8
+5402a0b3d830c87582764ac8f966a2b1a8300b3c  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1538.png
+151 128 220 144 
+9
+8f29f44be40a204c93be6aa69c42f013c6f03bcf  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/1539.png
+156 128 225 147 
+2 1 1
+1
+7b6d2543a406871b6b9640d796e877eb330f5246  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2111.png
+197 284 263 279 
+2
+e651878babd5059a7b3ab58209414f650c7923b3  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2112.png
+204 283 271 279 
+3
+e2f20db481d58f7d693fadefacb1b6e15a53988c  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2113.png
+207 285 276 278 
+4
+b6bc5a69ca8daefb964c8c4ac88b19ff3d6b674b  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2114.png
+200 287 265 283 
+5
+2f8a235c85a1e3c085ebfc8984673f7c37bc932d  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2115.png
+203 287 270 281 
+6
+09709f0182c1a1357207e1b32c8bf71a2362f42e  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2116.png
+208 286 276 282 
+7
+02032cbf58d58a7986a932a5c8efdeccc6b9a697  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2117.png
+201 289 267 284 
+8
+43c07f7926fbc18c2873b75551665f680566ee6a  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2118.png
+205 288 271 284 
+9
+7fad4f70be2f17cd7aa8c691be8921a2f1953b1b  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2119.png
+210 286 277 283 
+2 1 2
+1
+719fc0e25568b9d729e87fddb0bcfad8772a2fad  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2121.png
+199 216 266 212 
+2
+3c70b22ea77b50ed07ceb6431a843c8419a268eb  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2122.png
+202 214 272 211 
+3
+b8351c7d06fdae22a85804d7f83b5526e8d0052a  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2123.png
+210 214 279 212 
+4
+59a1d0b810307db5e2584ef4d12ab3f6c73975d4  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2124.png
+200 219 268 213 
+5
+c79e6ec2853b35f132d0af44fc489254a739234d  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2125.png
+204 217 274 213 
+6
+6c2a11bcf632044d83ad1804e7f0a932a1847703  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2126.png
+209 216 278 213 
+7
+197f50c1a2e67744ae510a0362e1f584c1333352  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2127.png
+202 219 271 215 
+8
+46a57a357d7d644b82fd1b9cbb3be9a9a602c914  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2128.png
+205 219 276 214 
+9
+67c9e7b671f3ecba597faabdb02d0a670d5f80d3  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2129.png
+210 217 280 215 
+2 1 3
+1
+57115a13ca4b0d4b9954c425d312351746a1ac58  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2131.png
+204 144 272 139 
+2
+fd486c4cef913dcadf752bc03da900058d7d21a1  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2132.png
+209 142 279 137 
+3
+ff82504cbd0ef3b7c1ab12c7c25e47483b084c7b  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2133.png
+216 140 285 138 
+4
+c4d04abae1f3ffa9dfb2e615d3ddf250cee72307  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2134.png
+206 144 275 139 
+5
+01cef60bdf7c9a67fcd3a66def6cffa2a184ca16  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2135.png
+211 142 279 139 
+6
+4f75cc38c0be1d9f62c4e2dbd5d317d91b605012  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2136.png
+217 143 285 138 
+7
+533b6b522028db8cebb73af13e2f0cefc75ad87e  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2137.png
+208 145 278 142 
+8
+ff234fc9d9ca451214d3ad6630b9f2ee9f5c9c0e  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2138.png
+212 145 282 141 
+9
+fdf2df1354b122f10ad731b2e45b30582cb53f9e  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2139.png
+217 144 285 142 
+2 2 1
+1
+bf0129833ed5e5ca0aa5747cbf0952568f28b216  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2211.png
+267 293 333 285 
+2
+49084f992a21568362fc3d960c603f3918b3fe02  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2212.png
+272 290 338 285 
+3
+2185edfbd5adc3a374c328828849aed9e0f9b316  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2213.png
+278 290 344 284 
+4
+845dafeaabfa8b51599737a91994d86e98992ba3  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2214.png
+269 293 335 287 
+5
+040f1bd12cf44359b9e1419dfcb28ba16f4de5c1  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2215.png
+275 291 339 286 
+6
+1c84fe990600710a26c2d48936199410b8e3bd67  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2216.png
+277 291 346 287 
+7
+38be8fcea05b00e4e0bdedc9d0ddc770c01ae20b  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2217.png
+271 293 336 289 
+8
+6a4321bc4574bb8b649e785ab3d58d09b36ce988  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2218.png
+274 293 341 290 
+9
+7ca21242fa460c0dbba32d148a1a23760f5465c0  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2219.png
+279 294 346 290 
+2 2 2
+1
+a02041b7eb673e8de6256adbb88ee8d972b26150  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2221.png
+261 222 327 213 
+2
+2f9fcfd411d93ebf90336001af9e64a0a12e520d  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2222.png
+266 218 333 212 
+3
+0fe7099f036fbd029328de5c1bec0521d36f6544  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2223.png
+275 220 343 214 
+4
+0d925ca3ec94bb79f938c7b2f6860162691f1ae1  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2224.png
+268 221 336 217 
+5
+05532c1d465e0aeae03cb181276d6b5050e530a7  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2225.png
+273 220 339 215 
+6
+28955f892623e5086247ad459dd4bab9740e13ec  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2226.png
+275 222 344 215 
+7
+316968aeaf5fef685d16dcc23ea6bd9ddb6c7d0a  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2227.png
+269 224 335 219 
+8
+9df6ed9996cdf32885aeceeb0aee4008d91470bd  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2228.png
+271 224 342 217 
+9
+7df36a0f7e09ef99318a452f3df54fe2d04f7a9e  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2229.png
+277 222 346 218 
+2 2 3
+1
+ced7d0f32bacb45c1a59947fd809ee6fb128207f  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2231.png
+266 151 335 145 
+2
+a8a031a19f6e81de4cdc429a6cc42c4ed3e2f87c  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2232.png
+270 151 339 144 
+3
+e047bb14e1f3443378518e0b916251163b7691c9  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2233.png
+276 149 345 143 
+4
+358d37f87a1a1b93eff27461e5a92e9ffb52520f  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2234.png
+266 153 336 146 
+5
+6360413c9b3b943c5f8711142bb087339b09f37e  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2235.png
+271 152 339 146 
+6
+1b7104343e904e350f573b376bfbf3b155789517  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2236.png
+276 152 344 145 
+7
+ed405967a89fc2fe1961a67f245578e0025d2765  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2237.png
+268 153 338 147 
+8
+0f2e62df9a181701b8f927d1a1915b2b506c5a01  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2238.png
+273 152 341 147 
+9
+f1f746ab32e4cebeec3fc6af8b734b9b79dbde0c  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2239.png
+276 152 346 147 
+2 3 1
+1
+fc14504075974d2645f567dc112de93158c7ed33  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2311.png
+331 277 398 268 
+2
+257f8c2acf6636b090a00a97fddc6bf061473356  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2312.png
+336 276 403 266 
+3
+bd846f367ab540ab30a0db8c636b91e6eafd39a6  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2313.png
+341 274 408 266 
+4
+a29524cd3bd56c3638d3b63c89d9c4f8bfa4989a  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2314.png
+333 278 399 269 
+5
+b53f1c32f99ad8f507b747c0a3a8898b307ce23c  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2315.png
+336 278 404 268 
+6
+8fda3b8b6243a8f72139b9999b67243f35b9fc70  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2316.png
+340 276 409 269 
+7
+5beb92d00a2e941ed7a91c7bdb268e971851c5e8  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2317.png
+333 279 400 271 
+8
+2e1ef152418fbe58c725f2431232b8b38174ff9c  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2318.png
+337 279 404 273 
+9
+30fda52640f13cf6dd459067e5b972b82ec82e01  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2319.png
+341 279 407 271 
+2 3 2
+1
+0b8f5e64e376507121ee3389f064da2a750ede88  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2321.png
+328 224 394 213 
+2
+e560ea592874328342b39a235d772b24ca37777e  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2322.png
+334 225 401 215 
+3
+204723f872f24c518ad1ab68749b8e332ce77a14  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2323.png
+340 224 408 213 
+4
+4fc8f75ce3f6eb84b3b9478a8e6e6d5e99e5ccaa  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2324.png
+331 227 396 216 
+5
+22b19cdfeb5bd3a55dfb6747fbae8b7ec1345266  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2325.png
+336 224 404 215 
+6
+6f86ec3332e7479a62c938658075ad0a30479b2c  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2326.png
+345 221 415 214 
+7
+a05475bdc87a13a4dbf9d9b1c56d92d225e2b8c7  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2327.png
+334 223 405 216 
+8
+d7f8d13e49aba5d8ea3846f312845ee77b95a355  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2328.png
+339 223 408 215 
+9
+e10f4260c44a1372387d5696e95b944dd1ab6730  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2329.png
+343 223 413 216 
+2 3 3
+1
+162ed2919daf839bf931ad40398b27499ff011b2  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2331.png
+332 150 400 139 
+2
+11b3e930edd5c624e2b8aa2f8eae540f215b4987  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2332.png
+338 149 404 140 
+3
+4b6e81bcde68c521c2296b20bf57ac37a3cecbd6  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2333.png
+344 148 413 139 
+4
+2d42656376dfc5732fa4fac3798b4fec4e220ea7  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2334.png
+335 151 402 142 
+5
+9c0e0647d1b4532ed1d72d591e86272310330484  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2335.png
+341 150 409 141 
+6
+aae046e1109bff6f44057fb07ef519f7ac225571  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2336.png
+344 150 414 141 
+7
+ed1dc5fdb97c583cd8e25a499949e8efa40fa250  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2337.png
+335 153 405 142 
+8
+ceec330e785e8617a62610f329f7bdb8bbf693e7  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2338.png
+340 152 409 143 
+9
+94130aa69998e06bacac698f887dd2b1de4c450e  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2339.png
+345 151 414 142 
+2 4 1
+1
+493922396665fe0b3e20a01508510f4aa5612eb4  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2411.png
+408 253 475 242 
+2
+bd6ba986502f1c7837e8be89a42b8b768527337c  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2412.png
+412 251 480 241 
+3
+fa60f16c4baf5a036b4048557972ef9103c7f08b  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2413.png
+417 251 485 240 
+4
+04e243c13232dd29a3346236366e9239716aee56  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2414.png
+409 254 476 243 
+5
+212bccd4c49c62fdafa3c56b94e73f33e515f2d7  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2415.png
+413 252 481 242 
+6
+ada6af98c3f904838e8a138e3a552d70152dac23  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2416.png
+417 252 486 242 
+7
+9b69a4f2a9567e6a6f59be49797c534c009fa885  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2417.png
+409 255 478 244 
+8
+65b5b4e8fe7c819f818f6e8870d0c3ead3f0944c  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2418.png
+414 253 482 244 
+9
+41286c68ff9ae0e81f280b0ef157b7b6a77fe085  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2419.png
+419 252 487 243 
+2 4 2
+1
+240801940506bfbf0f6882c6ea1997470db4c02a  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2421.png
+407 223 473 211 
+2
+ae5d9b2d9bb8c113663a374e56ffe6aec0331082  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2422.png
+410 223 478 209 
+3
+dd34bdd1104a7498e426c96e97549b084df0ceb1  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2423.png
+416 220 484 210 
+4
+7a22f5d1e178153ed322a54722efef3130f26f86  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2424.png
+410 224 477 212 
+5
+7a86299ed216754a1354f8eee5f4c49158aa4729  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2425.png
+413 223 481 211 
+6
+b67c6d77064cf49fa5f1d2ae252629a9f5827883  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2426.png
+420 221 491 212 
+7
+2140492a8d7d33a753dcdf297da7321423c91f89  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2427.png
+409 224 481 214 
+8
+9770c2965e9d4f1933279c45a1f946c312ab6db7  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2428.png
+416 223 485 214 
+9
+8c353ddf0b1a5abbccb6c53c1a1c24caef48f4ff  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2429.png
+420 223 489 213 
+2 4 3
+1
+973a52b58298ca1ae47dfd28345110ede7ebf513  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2431.png
+410 150 478 138 
+2
+8b53c612cf63f1921f7074b6304b5154d68434ef  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2432.png
+413 149 483 139 
+3
+4d737008073f7ed00e265ec690e8985279157820  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2433.png
+420 148 489 138 
+4
+0fd2f0e49dba7d821726f471dcde3961aca95b97  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2434.png
+411 151 480 140 
+5
+e91fc2233c1811f2fde0efcdba1ab8f72fda29b1  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2435.png
+415 150 486 139 
+6
+ab91525eca7db61dc67d48120ada47a1116b6514  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2436.png
+419 150 490 139 
+7
+7326177a76674ad567e34420f1c8b79f2f574d21  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2437.png
+412 152 482 142 
+8
+1252090c3e581f60fd639f097817bc61d919c6a0  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2438.png
+416 151 487 141 
+9
+5b90b982c7a5622d8b1b44a480b69bfe2236da8f  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2439.png
+421 151 491 141 
+2 5 1
+1
+57bce74c999b49d0354392d02a1d21c6f8bf5e8f  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2511.png
+481 290 549 280 
+2
+690b4aa203905eeb3dc6ffe7d2b7aacdce690e22  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2512.png
+482 291 551 279 
+3
+63f053a7cf6c25a4eee8b58794f733ac7248d312  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2513.png
+490 290 561 279 
+4
+29b658ddd45efd7f41f0134db1443474d9a3cdf7  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2514.png
+481 293 551 282 
+5
+d343df624ba6571460c65c2cc6f6cd6de38b4758  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2515.png
+484 292 554 281 
+6
+6635abc34a57da7ff28ab38ff42aabc5fc6dfe12  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2516.png
+490 292 561 282 
+7
+6b50a30a579cfd6ea7ce926849fdf1c294544db0  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2517.png
+482 295 551 283 
+8
+766e111cfc69c5715a96a5d96e027da3939f979d  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2518.png
+487 294 557 284 
+9
+4ccdebfaff1e4caf896ffda815e39bc8686f15c7  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2519.png
+491 292 562 282 
+2 5 2
+1
+e7dfeb6e5eb56cbd2f929efc1dab9628388c7d58  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2521.png
+480 219 550 209 
+2
+19565efdabfec2eee3c9cfba7f04871815f432cb  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2522.png
+484 219 554 208 
+3
+375f7aecc96c7f17c9322d92e0eaa1876f4f2a5f  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2523.png
+489 219 562 208 
+4
+306435b193d37f8b64d7f11486a0cdc8e48edc45  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2524.png
+482 222 551 212 
+5
+fd649c6491641cb2daf2872813940d2ef07c0f01  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2525.png
+485 220 555 210 
+6
+f840a055e7517fd7b4723e6dfcf18ed106f5e817  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2526.png
+490 219 561 209 
+7
+76ecd3c7bd2ba35969b44da90a4cde406dae80c5  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2527.png
+481 223 553 212 
+8
+e3a4184e534368e72d909811ee1338a91bb67f4e  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2528.png
+486 223 557 211 
+9
+059657d4a562db8bd63d73849e266d6c29f226a7  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2529.png
+491 222 563 211 
+2 5 3
+1
+a392d9e369b29a084184cfdac5a5582703a40f29  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2531.png
+476 147 543 132 
+2
+4405fe41f6b6ec71aa18c34a1e364a18956e609d  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2532.png
+480 144 549 132 
+3
+fad85a4ada52e8c395d7895451a35a074fe6d4ff  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2533.png
+485 144 555 131 
+4
+e83118a8bb39ad18f0e0c74d7dcaa0d6a7f18706  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2534.png
+476 149 545 135 
+5
+26fbd06b4e9e4594af0770122d86020d0d9bdd4c  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2535.png
+482 146 552 135 
+6
+1cf7b6b1430ae2ed2edee27ee91a5985f04fd3e1  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2536.png
+485 147 559 133 
+7
+b952847daee917b8afe17afb5cfd346d120a386f  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2537.png
+477 150 548 137 
+8
+56a7af3bad2e6f226f5b681ba7bf7b3412a5b7c9  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2538.png
+482 149 553 138 
+9
+b7009ef34193c4b3a09b9c0e2733a89a5cfd3e66  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/2539.png
+488 148 560 137 
+3 1 1
+1
+1a4f14ff98ce726562d9f7eb51a8c7d32c6cc14e  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3111.png
+406 390 479 395 
+2
+313846602004979ecafc48361b77adb23a297ffc  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3112.png
+412 391 484 397 
+3
+ffabf9c1b65040249090af145461d24c0e9958f6  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3113.png
+417 391 487 398 
+4
+beb16aebba579bc089889904d8771b87208db352  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3114.png
+406 392 479 398 
+5
+4b9ba11d06ff8eb3239d139faa33832992c6086c  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3115.png
+411 392 485 399 
+6
+25ef34e17955403da03edd0f72cd6daff1c81bfb  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3116.png
+417 393 487 398 
+7
+5a6d9fa26b4074d8e7190bd821c1bc395957e054  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3117.png
+407 393 479 401 
+8
+4a5f396c2fec7d6c45b8ad06221cb848d42de697  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3118.png
+413 395 483 401 
+9
+becc3d12dd5960b3fb829a475f764f915a7843cb  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3119.png
+417 396 488 401 
+3 1 2
+1
+022e3b0dc5554b93dd446de3a0c2bb535706a127  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3121.png
+410 326 484 333 
+2
+a269035430f8ff14f4aedc8c802a183d431ec37e  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3122.png
+417 327 489 335 
+3
+1260d220bc62cf3f92af34e86e7ce3ac52a34d1e  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3123.png
+423 327 494 335 
+4
+a18cf2f4caa2075b1ac0cb3868c7008b5e68d431  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3124.png
+413 328 484 336 
+5
+ea90e52728e7b44fbda758cc93263e137d0c74fc  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3125.png
+419 329 488 335 
+6
+0f4ba27f04fdb5488feb0e3ca99deef06253c0a6  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3126.png
+424 328 493 336 
+7
+bca695a5b9d2b2105a6bc09e8e52d93691bcba2a  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3127.png
+414 330 485 338 
+8
+3c82038b102d873dee6d60a30ed5f6989234edf7  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3128.png
+419 331 488 338 
+9
+f002e69daee732fafa1678e4c3ca0bb69500db86  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3129.png
+425 331 493 340 
+3 1 3
+1
+7094ce616380517ce6c6b683dfbb30550df368cb  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3131.png
+409 259 483 266 
+2
+2f2d67217f8966014c7992f81dafea9b9164e06e  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3132.png
+416 258 488 264 
+3
+aecd2e367c6f3c3b768875b1429fc6d7f2101c4a  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3133.png
+422 258 492 267 
+4
+c50eda74c94ed81aba2090b16762cce29a389a2b  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3134.png
+410 262 483 268 
+5
+f1d37d20ffc63b8d7cad674cebe1cf44aea94bf2  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3135.png
+416 261 488 267 
+6
+2ffca6d2be436ccdfa2c56291f4285ae0ae5295d  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3136.png
+421 260 492 267 
+7
+c256c3b34ba8c5f7ee0f5b016de1b2f2e82a70e3  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3137.png
+410 262 483 270 
+8
+12a1aa050ca7224156fe272a770675e2b5b9200b  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3138.png
+416 264 488 270 
+9
+643a7fceb5c699a91356dabc2ecd7871346e34e0  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3139.png
+421 263 491 271 
+3 2 1
+1
+c43f528a39c5914ac94d5c35633b097dc55fe60d  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3211.png
+338 389 409 397 
+2
+09d8cd084146ff6c4ae8bf4cab5f23b73fe251f0  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3212.png
+345 391 415 398 
+3
+d9218f32c8eacc7283fa0401c7b75479fc61f84e  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3213.png
+348 390 417 398 
+4
+ef3d81b66bcce2eaf398daf7801b5d4b702448cb  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3214.png
+339 391 410 399 
+5
+760c9b339903d601727cac485382b5042215e454  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3215.png
+345 391 416 399 
+6
+fcce186649a5407a71bfe046d1105ea0fa8ec241  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3216.png
+350 392 419 400 
+7
+1b3ee20b43d300048605675d6f0418fd886c8e7e  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3217.png
+342 393 411 402 
+8
+797163f22d26dfbe37062b7cbd7241e0908aae27  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3218.png
+348 394 415 402 
+9
+29edb679cc524fa78c6dbcdc65e70ba3334137e4  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3219.png
+351 395 420 404 
+3 2 2
+1
+2a34d1c42f4d7b3f535503f81183257d065713b6  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3221.png
+338 329 408 337 
+2
+9f23d1e5877ee8dbf5a86cd0ccbf2e8c62bcf430  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3222.png
+344 330 413 337 
+3
+9182078b42f7bfdc53d267b730f18578c8567923  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3223.png
+349 331 417 338 
+4
+9567b37bed484c664ed30456502c6d5b1eba0429  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3224.png
+339 332 408 339 
+5
+91e28cfb3b72c53ca39387f74ac90e49c14fe6c1  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3225.png
+344 333 413 340 
+6
+af36a26f8cacffd5edccecf408ee5122b1ff1566  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3226.png
+347 333 417 341 
+7
+094b265c59f54e219cb587e2f3e7887b4294a85e  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3227.png
+338 334 409 343 
+8
+e56620c880499a1b778861ba7afdbf9f73a80018  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3228.png
+344 334 414 342 
+9
+5480b5825793edd12d1676551ab6907507e2e2d9  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3229.png
+347 334 416 344 
+3 2 3
+1
+738e2a1c67cd5de167c409e0308ed4290e35cf0c  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3231.png
+337 262 407 268 
+2
+8aa8e218366748bc83a6ff5ea7083c249813c275  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3232.png
+343 262 413 269 
+3
+00397d9bb9af4db5d426f34c9746b6e55cdec371  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3233.png
+347 264 417 271 
+4
+7ad41015e1c3f30b66ec426185fab2b1d77c8bc4  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3234.png
+338 265 409 273 
+5
+8d62b3505256eb6ee4fe6bf53c61be323987b106  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3235.png
+343 265 413 273 
+6
+a14be3bf3884d0652ca45a94cecf80144b50dc17  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3236.png
+348 266 416 275 
+7
+99ca3dfcd410d4e31d428b00b25999bcf8937a93  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3237.png
+338 266 410 275 
+8
+02b959a260af1beaa3f3ba26993f1a478f103ebb  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3238.png
+342 268 413 276 
+9
+b188559fb7ab529dd79a28d388a863b0375e0d2c  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3239.png
+347 268 417 277 
+3 3 1
+1
+9c5f0753e89b2ebae3e250316abfef0ae6b46315  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3311.png
+277 382 346 394 
+2
+d705a9f16f8cf7bc6660540506f3b15bdee6ce79  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3312.png
+283 384 351 394 
+3
+5b656e1f89e6cabedae5a0d9071d27d067ffcf1c  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3313.png
+291 385 356 395 
+4
+ab89da1308a971302dfde28b0e1e7c6f725900a5  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3314.png
+279 386 347 397 
+5
+a3b7b918a1a545a0066d1536882ad32266d88688  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3315.png
+284 387 352 398 
+6
+39af7537c9f797f4c5b37559bff8ea4e0915c4bf  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3316.png
+290 387 356 399 
+7
+6122789d96da4835a79c06fefce7f15e96345b91  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3317.png
+279 388 347 398 
+8
+d7681013bb58804aa254fe5d9552ad6f00d8ccba  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3318.png
+285 387 352 399 
+9
+77a9a1159efffcf9d033a17430cb43083f8a9eee  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3319.png
+291 389 357 400 
+3 3 2
+1
+4149191bff03bb75e62662580b48ba32d226c37b  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3321.png
+280 321 351 330 
+2
+bed6db4920e40ca8990306146fad8fb7a5f375a8  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3322.png
+288 323 355 332 
+3
+6215e527d315856b113854bb170dcac493075304  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3323.png
+292 323 360 334 
+4
+e63412b96907f67bfe69769b4a7fe9b41e5031c4  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3324.png
+281 324 350 332 
+5
+2381496a5c1f646f8cbb51942369e55b73701813  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3325.png
+288 326 356 334 
+6
+c072bef7fc12c4b80e94e96f53ce4f28a97b4c3f  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3326.png
+293 325 361 334 
+7
+fd212eba43fed471eb5fe261bc4be65805032e83  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3327.png
+282 327 351 337 
+8
+c9f7a8f332a9c09799044ef79c2b2bfec04db5d4  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3328.png
+285 327 355 338 
+9
+0c9d563a4d876af2117d8c737a73afe1b50fb87a  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3329.png
+293 329 360 339 
+3 3 3
+1
+ba25b7de47add1381b8bb6e65a5f29e4e4c530b1  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3331.png
+271 255 339 263 
+2
+2d38196bedefdd323a601b32a959674ca3c88252  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3332.png
+277 256 347 266 
+3
+4b802bc635e725a1ee6b4346002aed6a70fb9551  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3333.png
+283 256 351 266 
+4
+442109534f8421ab8a8c8395d59228b9af7d1b39  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3334.png
+273 258 343 266 
+5
+ed52b055d587432dfb782a580d3a8ff71d7fe409  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3335.png
+279 258 347 267 
+6
+c260cd1b7dec016561b3fb1e03ee65199ce5145c  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3336.png
+284 259 352 269 
+7
+3029f1b64faf5eb767aabac8fe363b93fb289a02  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3337.png
+273 261 342 270 
+8
+8f680c2c75eddf4e6b28bb078478f56c25e4d4da  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3338.png
+278 261 348 269 
+9
+398fa129a2f05b7da150ad3c299e241b6f3dc3da  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3339.png
+283 260 352 270 
+3 4 1
+1
+65ca3560202addf64ed9169a1e7ee0c0b3b63a85  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3411.png
+206 377 275 389 
+2
+5e4e726b27ec350dcf2ebf0365495f2721357578  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3412.png
+213 378 282 391 
+3
+18faf9cbd970818265ff367f1fa05bf8b8428050  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3413.png
+221 379 287 392 
+4
+bd2f224b612f2964ebf7383d1d6821bf17afd383  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3414.png
+209 381 277 394 
+5
+0ad5849448741ca87b1fcb05c5f2fe10f679a93a  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3415.png
+213 381 282 393 
+6
+80d06e97c7a582c3b3cb011291b7285c5a0c380f  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3416.png
+217 382 284 393 
+7
+5585aea2ffb18d5e272f35a84f91f60a0e193be5  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3417.png
+205 383 272 396 
+8
+98af118dbc5b7f63f83c198e30434fe292f70eab  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3418.png
+212 384 281 395 
+9
+cc5301e4c5e850066eafa82d3dfa9b30234f0b28  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3419.png
+218 385 284 397 
+3 4 2
+1
+55f0d30fdb26da31958c4f58a87fa2f08d7fe24b  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3421.png
+212 313 282 322 
+2
+1073b0bf56a0a10a399ffa1dbfd4b5d988038032  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3422.png
+216 316 285 326 
+3
+015965c6c4fee3a9094f3d12a1031e54f240b2ad  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3423.png
+225 318 291 328 
+4
+07a8305504bbc83c141c6fcd0e471f7153857f04  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3424.png
+213 317 282 328 
+5
+c26608b1116219f0ad7c28a51b8bccfce26a8bd0  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3425.png
+219 318 287 328 
+6
+8801119752c33641ad7a915fc9ee816d0ce39980  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3426.png
+224 318 290 329 
+7
+fee50d2226ecfa3cb335953334ceab05c83f4292  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3427.png
+212 320 281 331 
+8
+18fa50addd3d437d1346f9044b5a906fbb3890d0  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3428.png
+218 321 285 331 
+9
+0ed36f21a1835db66fcc2ebd567398fc6a754f28  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3429.png
+223 320 292 333 
+3 4 3
+1
+5a265319270bf6224de75de0412a2645986031d1  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3431.png
+210 247 279 259 
+2
+a05948faee80231caaacd871e5f85062a6d3c3c9  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3432.png
+216 248 285 260 
+3
+1e43a3dfc792c1bb559039f41aef0f80ef46603e  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3433.png
+219 249 291 261 
+4
+bdde3f7c9f3cef0a82f2d1958ddddaa7c5cdbf1e  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3434.png
+212 251 282 262 
+5
+59b91816aebb18bb2122bba6aff1d44a7bd66907  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3435.png
+216 252 286 262 
+6
+e1d056092dbd0f4b12e93f41ee84755c6ed5ae83  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3436.png
+222 251 289 262 
+7
+db326a56580cc5e2c584037cc7d536b08779b4ec  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3437.png
+210 254 282 263 
+8
+10cd7539ae9d55b4b260e6cd20f5e94584265235  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3438.png
+216 253 286 265 
+9
+408d6e96fdcd9b3434b501e7430bd8c91a2e101b  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3439.png
+217 254 290 265 
+3 5 1
+1
+79c6088c2982ce4cc78d7504e6e54573be1920c2  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3511.png
+142 373 216 385 
+2
+b0a4665f16bb732c772d7dc4246a32476006038a  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3512.png
+148 374 219 386 
+3
+6d7422cc1475cf08e28e34d86e9b44c2473b5d84  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3513.png
+154 376 223 388 
+4
+38781beda943271ddce167bc7b85f7f2e7fadf28  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3514.png
+141 378 214 388 
+5
+2cf208ae937ca0f05f230902dd4872450657c3ec  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3515.png
+146 378 220 389  
+6
+0b4e542d8e1710570352e30cd7388020a607f2ee  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3516.png
+153 379 224 389 
+7
+38227695bcd861b7c0750539d29e1aa3361a598f  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3517.png
+140 378 214 390 
+8
+fd484cce77f7c5064ad562bf4db642a3135efd29  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3518.png
+148 380 221 392 
+9
+f40953d89f0722e2757eb5ba35648651addade30  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3519.png
+154 381 224 394 
+3 5 2
+1
+65f94ac70853226c6734961fdf87e5ba450a9901  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3521.png
+142 318 214 327 
+2
+bfa8fc25739cb41aa07101c942fada46dc7e2930  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3522.png
+147 318 217 327 
+3
+a5f10ee6264c939a68ee90402635e9d378db903f  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3523.png
+151 318 222 329 
+4
+71698c195ea9f3ca03a2b204f40ed9b227a95abc  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3524.png
+141 320 214 330 
+5
+d314cdf1226a11105b3f06964933905a1179451d  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3525.png
+148 320 219 330 
+6
+6ee26a2cbc38f6592e49ae04de18ad9640dde102  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3526.png
+153 322 222 332 
+7
+baeacddf2b40e3b86820f85169837a368b1cba49  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3527.png
+142 323 216 334 
+8
+a217e9cafb55a69a27c7e9fd6f7ed319fa5cf457  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3528.png
+150 324 219 335 
+9
+0c8963ca0476d23a8aa7ce9b830ccb4806412aa8  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3529.png
+154 323 223 336 
+3 5 3
+1
+1e22f77041e1047e04db9555a0346e32a54f9dfa  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3531.png
+138 250 212 259 
+2
+6682d687e35db715883d926719348123a9cc742b  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3532.png
+146 250 217 260 
+3
+bf5951fa032331b5beae6494641b54ff4ca9cbb7  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3533.png
+153 250 222 262 
+4
+d0fd20388aa3711155edd88b5e0431f8b1333cfb  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3534.png
+142 252 213 263 
+5
+632eb7ce9262e04b07fe5971a266e6ff7751731f  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3535.png
+147 250 218 263 
+6
+122e58a74dd58771bc45d82e926f74d3e7995bc6  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3536.png
+152 252 224 264 
+7
+eec9f203caf7f29b5efe6c744cd5cf2fa3e200a6  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3537.png
+143 253 215 265 
+8
+4966f3afef12383b41deda98707fc446d48179c5  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3538.png
+148 254 220 266 
+9
+ddc47faa9ea2116bda397ae669767d931b8b8287  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/3539.png
+154 253 223 267 
+4 1 1
+1
+44aff5875514b9a561ecdf8d67153b04f95e7d59  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4111.png
+199 409 270 408 
+2
+c402177c53b50127e86eac0143b41afa95038dd7  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4112.png
+202 409 274 408 
+3
+85e182f891887036d68ab54e57bff5874e17f132  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4113.png
+209 410 281 408 
+4
+c4566dd849628eb2ff1a846d857e7f677487b96d  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4114.png
+200 413 272 411 
+5
+b9d7035b2465c2e0eb3d3c4ee2e6607c2879f0a1  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4115.png
+205 412 277 412 
+6
+42c7421ee7f6e10aeff98cf9a66d819c02c96195  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4116.png
+210 412 282 411 
+7
+ecac4ea0edba9729db451691092e8c8d10cd0934  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4117.png
+201 415 274 413 
+8
+66990c06562215a74c532c556204526c2513e9e3  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4118.png
+207 413 279 414 
+9
+af83198ba54993495e060d86070e1974d50e7f29  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4119.png
+211 413 282 413 
+4 1 2
+1
+6c1726cdffe3cd84d15dc28ad9f94a401148edc9  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4121.png
+201 335 271 333 
+2
+f38b1842544bc858fbbac9378e027fa58ee3165a  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4122.png
+206 335 277 335 
+3
+2b4dbf3978427345ecc5bcc59b5035bf66d6858d  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4123.png
+212 334 285 335 
+4
+e50504f0585a2672883b7165a02bb101b7de7942  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4124.png
+202 337 274 337 
+5
+6c34cc4b79f9748d176895ac5e6c7d0eb3e0b9ba  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4125.png
+210 337 280 336 
+6
+9780be664d86be933b6c59651a60539843e7e5b3  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4126.png
+213 336 286 335 
+7
+6581e02f8d6f42c25951a15321f288562cd05310  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4127.png
+204 339 276 338 
+8
+19555b796a3a32933e64dcb8d0a910ecd49ec81d  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4128.png
+209 339 281 338 
+9
+b259f1f7d04ab8d3611704dbe3b114951e2dfdb3  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4129.png
+214 336 287 338 
+4 1 3
+1
+20fb4d1f6279e3bcaf4f80279a514866caeeba93  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4131.png
+199 266 270 265 
+2
+fd556f627ad729cfa63ae972efd4958bfb5da8be  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4132.png
+207 266 278 263 
+3
+7eb981c2d0b31fae768810384f2eccf86b52dfb2  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4133.png
+211 265 284 264 
+4
+5088fcefae0b9a601eb89fbddbe56b8ca440848e  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4134.png
+201 267 273 266 
+5
+46373d7232c793704596e15bf4ca86be6c5662ef  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4135.png
+208 267 279 266 
+6
+98712d5651772237e357322b8e651dc9a119c190  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4136.png
+212 266 283 265 
+7
+a3c901bc1e9ca77ee03810911473838ebcc41061  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4137.png
+204 269 276 269 
+8
+45be43e00780c32e60db83d6940f74b4e5480c09  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4138.png
+209 269 279 269 
+9
+e8e3c867c1cf804a7f9b28dc422b5cc3acaef135  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4139.png
+213 267 285 268 
+4 2 1
+1
+2c51af68775a416c09c0a9d8f009ac6363227476  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4211.png
+250 405 321 403 
+2
+70c789f59e290fa7bd9c93606e81ad108234f8c8  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4212.png
+257 405 329 404 
+3
+417a9bbc0b72c0ea209ab5ed50bc5adfb4eb5e3a  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4213.png
+264 402 338 402 
+4
+f8073d4e4001fd47f2bc13b8908061804b41f63a  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4214.png
+254 404 326 404 
+5
+79e82db5c5dc175e9092068f5b6c2be0a4595bf6  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4215.png
+259 405 331 405 
+6
+febed68822e34615ccaf913757686122ef5eadaf  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4216.png
+264 405 337 406 
+7
+a55e52070ee23162e00a762592fdba1263b3dfa9  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4217.png
+257 408 329 408 
+8
+6b76c54be795457909c302e2fa58c0bccc472594  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4218.png
+262 408 335 407 
+9
+9794a744b7ca0abb8ecabe992d81684c1db65f59  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4219.png
+267 407 341 407 
+4 2 2
+1
+974e80c123481ada28fbf8a5b63c871106c3c35b  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4221.png
+257 331 328 329 
+2
+75db5bba038bb118d6c5d009191f6d97ce1ac865  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4222.png
+263 331 334 331 
+3
+6d167850bc23a67e4aabf0d4888b5012365fb7c8  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4223.png
+268 332 343 331 
+4
+0b4880e773abfcae51209bc76641b0b527fe2412  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4224.png
+259 334 330 333 
+5
+70efbd286ba4e2377de945c3f3ed9c4d2d0cd3de  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4225.png
+265 334 336 333 
+6
+039f2b0232e95433e1bc2ec718c94a6d738d1f4f  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4226.png
+270 333 340 334 
+7
+0592ade3554ddf4a24ec4e266afa13086a4781da  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4227.png
+263 336 333 336 
+8
+89cd502ecd84993e0097a0c8f8b26edbf411d6db  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4228.png
+267 336 338 336 
+9
+9f3446dad89ff961b305ee786e2845c95f93cfd7  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4229.png
+271 335 343 337 
+4 2 3
+1
+8ab57b8e4304d93cd8e4bb7a6ac92831ed481e66  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4231.png
+260 265 330 261 
+2
+4e0abddcc7afa98c8fdc08d5de4fa4b4b91d4e06  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4232.png
+265 264 336 262 
+3
+839358f425ecdfc18c30991196c369d79ca8a7be  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4233.png
+271 262 344 261 
+4
+863f7dc8ea5b78e401ffb0f97e8e4b893b90dd12  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4234.png
+262 266 333 263 
+5
+c858cf089e4979531f64487710f867bdbcac5df0  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4235.png
+267 265 338 266 
+6
+ffcb98f9c3c165d757626b10462a8fe95756bebb  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4236.png
+271 266 344 264 
+7
+86f57e70624f24122dc7c4c26d5cce17bf923caa  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4237.png
+264 270 334 266 
+8
+f22aef6ee62dce5ffd81a38019e5455b94547df2  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4238.png
+268 268 340 268 
+9
+344bcb858af8956181453db8153af6c09640e86c  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4239.png
+274 267 344 267 
+4 3 1
+1
+3b437e631f9d3a790e2d20afcb235c99eda2de27  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4311.png
+317 397 387 393 
+2
+3dd3910190066250ee1ac05f42903434bbdb2557  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4312.png
+323 396 394 391 
+3
+89c47b080368356dfb5ec0ac2dfbb84206dbffac  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4313.png
+328 394 401 392 
+4
+4e98cacae8ba1fa51a059983fd440e899c2ecb2c  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4314.png
+319 396 391 394 
+5
+0852070a06ba2f055a1411a0cf71b481b113728b  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4315.png
+325 398 396 394 
+6
+1dc9428d39346be2339ff22d248fbb5c7b09721c  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4316.png
+330 397 402 394 
+7
+5e4801981091c8c412d6b4c35a194c61f838bdb6  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4317.png
+321 401 393 397 
+8
+4a4a2ffcf0464caaaa808e36c092bd8a4ebafec4  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4318.png
+325 399 397 397 
+9
+02480d4ad95951ea8dcd95f6fa5fcf749b506a9b  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4319.png
+330 399 402 395 
+4 3 2
+1
+da4a243749b31c65645593f30ff8b15c073273a1  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4321.png
+333 340 403 339 
+2
+dea924f6ded3ab232a30f1c2aa135255e897320d  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4322.png
+337 340 409 339 
+3
+ac7665f3d7ba8551bb206d48ca65e8efe98ed748  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4323.png
+342 339 415 339 
+4
+aa5943de1179d1c690f886e9f19000643b2d69af  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4324.png
+335 341 407 341 
+5
+9351df113b989d9f6214b1a9a99dbf6c9d069b41  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4325.png
+340 341 411 340 
+6
+6e1fd35e4218c556f04ad2ceec7a717ed8df2f06  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4326.png
+344 340 416 339 
+7
+4cdeadeb70f1c7668170f23620b754c59e6db7e3  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4327.png
+335 343 406 342 
+8
+b596a8591cdbdfc9d0852fc7f78f0da0756a1159  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4328.png
+339 342 411 343 
+9
+e00f3ad1d1218c4f42add3e3860901ec4933beb5  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4329.png
+345 343 415 342 
+4 3 3
+1
+0f10e27e3d5b1d0430d8228955eca6c414ba5be9  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4331.png
+324 270 394 265 
+2
+58f945a3338a7bd5addb28ce00f0005be251fe3d  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4332.png
+327 269 397 267 
+3
+2a1c683a5eec80db5b00dc8a50424ca9b6b43547  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4333.png
+331 271 403 267 
+4
+98d0068b5c8e51c531f60634e25f73a36babdc45  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4334.png
+324 273 395 269 
+5
+e65c74897b2bfcfd08430ec1db9a56b1fd081540  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4335.png
+330 272 402 268 
+6
+a228279d9c2a601a87413028c851dd1e3a63b14e  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4336.png
+334 271 407 269 
+7
+cc25c0c92d7d84e7aceb4e31a51a8488b4cd9a0d  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4337.png
+326 274 398 270 
+8
+805b454b66295de747fef167fcb485f49cf4aa35  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4338.png
+331 274 402 271 
+9
+19432eb622fd847f404be235fabbe7aeb9940c50  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4339.png
+336 273 409 271 
+4 4 1
+1
+05e59584c7399d5a02efa23f26ae4b2ce5b586a5  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4411.png
+393 381 464 377 
+2
+59cc66ca52a184e3a0e84072ac9dcd8a94bb6ac9  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4412.png
+397 381 469 377 
+3
+a8a9c4df4b3f1cd45bf0afccab24d377a1335c82  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4413.png
+403 379 476 375 
+4
+ff2cb1521f92cb29ae05adaabeadc2a690d14090  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4414.png
+394 383 465 378 
+5
+a8289aab2ccf9ae64711bbf6a6bada91069c2103  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4415.png
+397 383 469 378 
+6
+4625917f62d7f4a70acd10f25d63bb76db6754b7  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4416.png
+404 382 478 379 
+7
+b50b79e98c0e780001684ac8c3d6aa464b3c8aa1  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4417.png
+395 384 468 381 
+8
+dfaa5a6dee53bc0e30754ae12e5901e502084299  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4418.png
+400 385 472 381 
+9
+ee57a90fd9e5d72b804af6444e0d32866536a661  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4419.png
+404 383 477 380 
+4 4 2
+1
+de131b2a7f479da962498808d214e9a4a800e876  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4421.png
+392 343 464 340 
+2
+4002c16758bb7317c16f9ca5aa9df33c9e47d49c  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4422.png
+396 343 469 339 
+3
+949e9fada45aba048da85b1101a717ab248b859e  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4423.png
+403 342 477 341 
+4
+1f16393dc7c954fc5ec824f532a3d0100f228c6b  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4424.png
+395 345 466 342 
+5
+54514fdc47bfe57a318bec17c2fb3b0ee57bb19c  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4425.png
+399 345 472 343 
+6
+4e79cc5a807d730e2408923e1a5dacdca22787c6  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4426.png
+404 344 478 343 
+7
+d0a46b5ad90f2ce3a28f9f95bcc263bff245158b  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4427.png
+395 348 468 346 
+8
+38db017d5ffd3f6343535d7ecaf9c16446965a9f  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4428.png
+402 347 471 346 
+9
+44af98982458972705d24fee1f5274b958b80818  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4429.png
+404 345 479 344 
+4 4 3
+1
+18b141c4d74db6113a6ce3ee7ed6f43699623766  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4431.png
+399 276 467 273 
+2
+ce310f880f146eac46f3a4568010ee10c2860fe0  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4432.png
+403 276 473 272 
+3
+c57d38bdff17c83f3940b7a5f737bb7419bd6066  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4433.png
+408 274 480 270 
+4
+68951a22d714d5599259917c4f8813fc2f46ade2  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4434.png
+400 277 469 275 
+5
+9bfdc7c0c5ea4dc72ad25e53e6be62fb099afc99  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4435.png
+404 276 476 275 
+6
+883031ef1999c576596f6b3932ddc0e92463f718  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4436.png
+409 276 482 275 
+7
+ce7485747d851b405d6db2928ccc3d2728b46411  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4437.png
+403 278 475 276 
+8
+305762594d399ea46d54db848745c20895a2dbd8  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4438.png
+406 280 480 278 
+9
+4f654c6b3df6812fc942df472a60c1de648a208e  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4439.png
+412 278 485 277 
+4 5 1
+1
+298b20f547416dbe2857c881ac9a7205c96a3391  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4511.png
+467 403 537 398 
+2
+b069887e40c32a56ecdb17f69cd990ed10867bc8  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4512.png
+470 401 544 398 
+3
+5585586df8a9db9210bb54b092e16ad58a5b3063  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4513.png
+476 401 549 398 
+4
+2796bd77ad974a221475c914082b20f5d874c184  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4514.png
+467 405 540 399 
+5
+2e75277b2f6d7a13802f76dd4b963dfe1d147012  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4515.png
+474 404 544 401 
+6
+8772db846bc22fd3e7a426388bda3f71a495cd26  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4516.png
+478 404 550 399 
+7
+8cd65e937055f4f542c47bebf0838fec9d826c9e  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4517.png
+470 404 541 404 
+8
+b6ba8069a114af1f861a662f96a2f42ec0859c41  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4518.png
+474 406 548 403 
+9
+956321a4b7a419a1692a6e480fb7ed1c3850995c  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4519.png
+479 405 553 403 
+4 5 2
+1
+ea5ef7f131bf911243fe361a59af2307e6a0526b  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4521.png
+468 339 539 335 
+2
+b0de88d5481d233b4ac553ff747b08fc5d82c544  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4522.png
+473 339 548 336 
+3
+fc6da6ac6114cfb8db4ca643f1ebac15a0c73694  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4523.png
+477 339 552 335 
+4
+e55983e567e1c54de4d205694e140fda60895892  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4524.png
+472 341 543 337 
+5
+e29d814faa05ad607afa55d84ec1ae2f43dc240e  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4525.png
+477 341 551 338 
+6
+8ddeb4314f7416a3815c092c379a35d126702cf2  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4526.png
+480 340 553 337 
+7
+e1b7d6dee85fffe5ef60485bb4d725e05dc1e597  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4527.png
+470 343 546 340 
+8
+1a73dedf101455f8330ca50c0727049376176771  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4528.png
+476 342 548 339 
+9
+3d307ecbbd3bc8a697a0cb1c457e8b6f04b7604d  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4529.png
+481 341 552 339 
+4 5 3
+1
+f365d73bf277286dd8bf38c94afe3bc1febc5211  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4531.png
+471 268 544 265 
+2
+a3f4bd3e262f52ae8040035ee06274d9cc36b7dc  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4532.png
+476 267 550 264 
+3
+321a03bf018f1df1fa90b84795627bc243f20202  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4533.png
+480 265 556 264 
+4
+370b96a1147215d3aebf46ba2a3bb51b10bcfa91  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4534.png
+473 270 547 267 
+5
+17ecab19da147518261b6746bdd27bda4ce5f486  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4535.png
+478 269 552 267 
+6
+7efc9c0e8967c81d9701546f47703bd4f85741d2  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4536.png
+483 268 556 267 
+7
+605295b6185a35c5f1d86eb4bcb822e603a2f6d9  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4537.png
+475 272 549 270 
+8
+273ff4f6f14505e4e540db3969224d815eb40ca1  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4538.png
+479 271 553 270 
+9
+427b7c7a29cc6dac8b93be72b179a80a663ee2e9  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/4539.png
+483 269 559 269 
+5 1 1
+1
+1a7a28b73c353bbb7a9b0c0c252809d875f42ff8  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5111.png
+422 378 499 380 
+2
+73e04ae9405a4beaf2a9a6b22582e92dbdfd2cc5  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5112.png
+430 379 504 381 
+3
+cfe69376a706a680e92900093386fec508594135  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5113.png
+436 378 510 382 
+4
+d730ecec6363d770240435ac0063e0d087a18b63  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5114.png
+425 382 501 383 
+5
+b2ae47f568317c3f04659341946eadaa66e6dcea  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5115.png
+431 381 505 383 
+6
+adb6e6c073cb844ac54a5fd2965a2545b711c404  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5116.png
+436 383 510 383 
+7
+ac636c7087540f9653bce127ee407e8a7af3bc87  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5117.png
+427 383 501 385 
+8
+88062be68149e0dc8cf1551f14cf25babf2c7a8b  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5118.png
+434 384 506 387 
+9
+84fda61e3543fce1c3cf384eb77f919f58b19678  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5119.png
+439 383 512 386 
+5 1 2
+1
+49923f2becce922435e4f5d4e31bd4cd03a76a10  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5121.png
+425 303 499 305 
+2
+5472364ea5e052a73fb1bf8770da94e86e00655f  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5122.png
+431 304 505 305 
+3
+b6fa3e082374a2b7d27987a1274a3830f6934db2  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5123.png
+436 305 511 305 
+4
+6eace3ac210935c1713c560f7b94d0d5062cb59a  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5124.png
+425 308 501 307 
+5
+5fa3e0ec27cb3434f8ec262c619e1e5836f415a0  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5125.png
+431 306 506 307 
+6
+73fbab15210a1dbac0bff977a8c6e43d73737987  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5126.png
+438 306 510 308 
+7
+51aa4fef2814289febacf3fce7b8cca974c9dcb9  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5127.png
+426 309 502 310 
+8
+2f85ff600106784f697b9645c0e2eb9a2640ffc6  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5128.png
+432 310 506 310 
+9
+1432d2672df4d03e3a7df49575de4bb682c206cb  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5129.png
+437 308 509 310 
+5 1 3
+1
+f6d054934207f14d5ea12171db8435b0bc2fa195  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5131.png
+422 229 497 231 
+2
+81dbd14be51188f37769ddc42904a07063fdcf05  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5132.png
+429 230 502 231 
+3
+579b4ba82d50b8cfa5ca9c3a0cb1eb8795c9bf17  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5133.png
+434 229 506 232 
+4
+7b412d530b1f797c2e3f51b93624839b90b66e1f  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5134.png
+421 232 498 235 
+5
+a3759e73c2d7aa9a18b0745942c925abaae80dfd  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5135.png
+428 232 501 234 
+6
+2011e8b31caedd50f7d2a11e569b4160a7279b31  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5136.png
+433 232 506 234 
+7
+055a63504096259d6c78881fe67c151ad328be22  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5137.png
+423 233 497 236 
+8
+7fd23750545f5bdaec8ad27a175f555872fa4dd8  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5138.png
+430 235 502 238 
+9
+40a01ca271975ace0902e3e0928262b87ee043a3  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5139.png
+434 234 507 238 
+5 2 1
+1
+dd548e52ced8fa3bf83f57ef4ce3c21af9697786  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5211.png
+345 373 420 375 
+2
+8e8432520d750166417c0cdbcf912fb8405ffcee  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5212.png
+350 373 422 374 
+3
+d61dfaaf1a265aa4f5cefd506db0cef1f2e7e998  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5213.png
+356 373 427 375 
+4
+4171998ea4605cbae4e71f639c2446ab0b327d30  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5214.png
+346 376 418 377 
+5
+53dbbc00d2d85a7dc945f9a3394fe1016a2b37a7  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5215.png
+351 376 424 377 
+6
+68ae36bd636b74e93ab0f359044b8224ee8c11c6  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5216.png
+356 376 426 377 
+7
+6adbeec7f0ec6f3aa1fec9f8e6ecde0fdc8cd1f5  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5217.png
+345 378 418 379 
+8
+e007a7439504db7644c56ea6a0a6bdf5be184467  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5218.png
+351 379 424 380 
+9
+52011e8219d5bb7f96416d543895b002a1fd5964  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5219.png
+357 379 427 379 
+5 2 2
+1
+502c3184de18d6dc5bab50b80548baeb7d23e04c  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5221.png
+342 301 416 302 
+2
+25571a4357a2469f046e5c93cdf97bad98f7b86e  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5222.png
+348 302 419 303 
+3
+863423b34c465af9893dd1a5a5942051af791c1f  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5223.png
+353 302 424 301 
+4
+c2eef6fc760271843ad27d2e56fe4f97263b6c7b  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5224.png
+344 306 418 304 
+5
+70303cf6434b328315df37399c9d2787a60548f1  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5225.png
+350 304 423 304 
+6
+74d358040e44e6e9c94c13c698cf61602f82cb19  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5226.png
+354 304 425 305 
+7
+dafb666e803e16c248248378b6e1a063771f0a30  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5227.png
+344 307 417 307 
+8
+5e252ccdd9fab54208543de0c477c66b99314c11  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5228.png
+350 307 420 306 
+9
+953837b84f6c1d053021a868341f327561eef389  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5229.png
+356 307 427 306 
+5 2 3
+1
+601d0c9f3fc3a95a19c0a4c0e5c20113bbe2088c  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5231.png
+346 232 420 233 
+2
+1959456b12a5d0138459703b664cd4d558bb1f7f  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5232.png
+352 231 426 231 
+3
+eb9566e59d5af41f6f02786a3debc6aa12a27224  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5233.png
+358 231 430 231 
+4
+acf3053ec2d51ea042676b58ca418a1b0b1cdd87  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5234.png
+347 232 423 234 
+5
+020b63ea564bee5858dbbcf9cb04a1cfc83fea19  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5235.png
+354 234 428 235 
+6
+3a58eb87122639b9de2049d5f3e2c4c634000da8  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5236.png
+360 233 432 234 
+7
+6a57875a8cc668e2474e18e113c153e092dd4d27  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5237.png
+351 235 425 236 
+8
+381a373596412184bd83d8393eef800996ee2081  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5238.png
+355 234 427 237 
+9
+1d4481d9befe49147bfd7950c0b2099a2d69aac1  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5239.png
+361 233 431 236 
+5 3 1
+1
+92d8c158ccb3adc181dd3f431dd185a15b18f5ee  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5311.png
+282 371 357 370 
+2
+9707005aa2beb72a671c9e9924d4faf803a6df3f  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5312.png
+287 372 359 371 
+3
+d8b4d9d748cf8c524857fb10ba2829caaf682ffb  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5313.png
+294 370 364 369 
+4
+060309fff2deeb727cb5a3044ef372441695a21c  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5314.png
+283 372 357 373 
+5
+def27e18f9915c1e2d6488e88d4fdfd6e96fc0c2  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5315.png
+291 374 366 373 
+6
+197943a245b494af13b8ce02afffd242968ce15f  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5316.png
+297 373 369 373 
+7
+7babd1a10df209ac91932f5f715cb613b8431223  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5317.png
+284 376 358 377 
+8
+9158b4b4c5333b8ceedc631ee4cd073df7799ce0  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5318.png
+289 377 361 377 
+9
+f32c56a6b140cf2914850e5153445b1b44a35e69  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5319.png
+292 377 363 376 
+5 3 2
+1
+dc216cae30125cd488a73021c16d667770f2102d  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5321.png
+280 300 354 300 
+2
+2be026c94a4b8dccb382ce79241fbf321c492963  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5322.png
+286 301 359 301 
+3
+67c3b4843854c34b97a91543e2aa7b4c1afb78e0  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5323.png
+293 300 363 302 
+4
+e36c45a0f342ac7f685747ff39db2d8d90ef4217  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5324.png
+282 303 354 304 
+5
+d846e8d670a85d44256e019f3aecc6840d99cd04  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5325.png
+287 303 358 303 
+6
+fc2ab82e6790fd2938587a66fd80f69ef5bfa71b  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5326.png
+292 302 362 304 
+7
+900ee98c61f63182598f40d95f4c8d076a0ec420  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5327.png
+280 306 352 305 
+8
+e8a6f76021715260512f86879ace0f022b87154d  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5328.png
+286 306 357 305 
+9
+0eaeb0a1a914a5a1fb0200ca75ea8dea43ecadec  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5329.png
+291 306 362 306 
+5 3 3
+1
+3abe37d882b81381626f5fbd1208dcc6d754397f  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5331.png
+280 227 354 227 
+2
+eb5315af1a089032e418bae8c9fa68729dd54a61  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5332.png
+286 227 358 227 
+3
+ddb1a79441ca71fb3bfb4ff74e2f2b3f385724da  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5333.png
+291 227 362 226 
+4
+3f838acaf811de0ab6903c73b545a1c52432e7de  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5334.png
+281 230 352 229 
+5
+94d230409d06367ca9525334d7d925ea76430661  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5335.png
+285 230 356 231 
+6
+ef1521d4102dcf60a730bfee46fc39f9a72dde8e  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5336.png
+289 230 360 229 
+7
+6c1e42de1a940e72a468ac614bc4c035b62ea9da  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5337.png
+279 232 350 231 
+8
+0ba88f687fcd7588530894066747c3728c86edb1  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5338.png
+284 233 355 232 
+9
+7a239df317485c119c955e7c26a774d4c1bd0516  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5339.png
+289 232 358 232 
+5 4 1
+1
+18d25dbc9ff862545b63baa140d28469c8b9be57  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5411.png
+207 371 281 370 
+2
+303b7861b39d2d50d034d47f1bcbe887e19c5422  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5412.png
+211 371 285 371 
+3
+9fda2972d76712bd14b3e011e0d84d606838be82  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5413.png
+217 370 289 371 
+4
+1ac1d4db3f9ec03be97fc31fa89c7b90498e676a  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5414.png
+206 373 280 374 
+5
+9b8024e7d940d34bd8001862eae1e65878d07979  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5415.png
+212 374 286 374 
+6
+1acc5901bcbb4241e4b965cf66458b51ec3956a1  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5416.png
+217 372 289 372 
+7
+17127d0f7a144bf53f39798b735eaaaf24432026  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5417.png
+207 375 280 374 
+8
+722ed8d17070015af4849d0024f15a5815dc5a04  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5418.png
+212 375 285 375 
+9
+72563a7c18e4db516c8f1155ae6f68a7cc677bce  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5419.png
+217 373 288 375 
+5 4 2
+1
+968d03d19383317197065c8faa140426c2c3be9c  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5421.png
+210 296 286 295 
+2
+8bcdd4a9f8ecaef14d3aa951f986a9a2ff318b59  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5422.png
+215 295 287 295 
+3
+79f96369898155008b8832c16d35c8dcd5ba66ad  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5423.png
+219 294 293 295 
+4
+5f720959befee8083eb6ab7b8f649d6601420bee  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5424.png
+209 297 284 297 
+5
+af2afbd72ce7bc8de87da56522d6028d8b883fcf  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5425.png
+213 298 287 297 
+6
+f976a554a2ed46ef4c8950932eb23a40f960b3cc  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5426.png
+219 297 290 296 
+7
+1902ebc33478a942e93d301697afb0c6a06de7f9  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5427.png
+208 298 283 297 
+8
+87e33b8ad552767e9af4d3ed1e18fa2bf740f679  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5428.png
+214 298 289 298 
+9
+901a40de2d36544280b6831cee7d50e14d14a964  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5429.png
+219 298 291 297 
+5 4 3
+1
+5eec02b663704ebdecbe73ccac0cc19aea15f03b  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5431.png
+213 224 290 226 
+2
+6c6539db7f9284268cdabaeaff422f8fb3dea001  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5432.png
+221 226 296 227 
+3
+301f8dca600ab81471497edbdff1e086debfd1ce  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5433.png
+227 225 300 228 
+4
+3ea26420d761536e85fbbbdb42b4da0991bfc557  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5434.png
+214 227 291 229 
+5
+d5a7f7c144d0d7984e68770a091d2c9e6bcb5c85  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5435.png
+221 226 295 227 
+6
+fd5f9161bfd365bf87b046774d9389956c4b573a  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5436.png
+226 226 299 228 
+7
+93eda2172684b28dd84aa6426f9b1a4c00ea9696  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5437.png
+216 228 291 230 
+8
+810d5d4c43f9e2c04368fba49304a0fcaba45943  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5438.png
+222 229 294 230 
+9
+b67a7e389a7af8c42779c2b841da879cbc18d0b6  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5439.png
+224 229 297 230 
+5 5 1
+1
+7625239771f1d8571846bfe2a48c508279a6b0ca  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5511.png
+135 369 212 368 
+2
+8668fb65581b70eb0e40ecdb411b1ed452711324  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5512.png
+140 369 215 368 
+3
+72df9e746d934c29526f17a59654cc0fcfa7cc94  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5513.png
+135 368 210 369 
+4
+0831f2465701c54466d51d4d9bcbc30a071ff164  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5514.png
+134 370 210 370 
+5
+0ba8da4677ab80f8dbde2e4af925969ba70c28c4  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5515.png
+142 370 216 371 
+6
+909422093dfb926b5fce1bc3c0a245ac8a4ab5b0  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5516.png
+145 370 219 370 
+7
+88e935c9023590f78b892707b7e36b80431839b4  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5517.png
+134 372 211 371 
+8
+9e65689096d0ca23a121cfcfceef910c84440be9  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5518.png
+140 373 214 372 
+9
+cb21cdbbd6938fdd84ce04eebec3769c0589e23e  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5519.png
+144 371 218 373 
+5 5 2
+1
+9f104fa9446a520b0d11401c66e56d372f141de4  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5521.png
+137 300 214 299 
+2
+dc631dc02f9244bd843b00e817a32fbeffffccc0  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5522.png
+146 299 220 298 
+3
+835f31d9a3f67d6c23fd14bb458f2f6257eb27b9  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5523.png
+150 298 224 297 
+4
+4f795a949d9794bb0a8d965db5f27f6b502de487  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5524.png
+138 301 214 299 
+5
+cb56135fe834ba10e4c515af6bacfc5bd74dd6b0  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5525.png
+143 301 217 300 
+6
+2bd94cabcb727639b84a84db07000cfdc4021bb0  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5526.png
+150 299 222 299 
+7
+f903d0da9cceb5bd300c2e6b5715232ec44984b6  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5527.png
+139 303 214 301 
+8
+01e6ed409e0dde186e9fe9d1ea15be100d832f55  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5528.png
+145 303 220 303 
+9
+7878a047f080e0a634d7e0e4011e350fa7cc6b62  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5529.png
+150 303 222 302 
+5 5 3
+1
+5dba6241ee5092a60cf6e5fc7dab78fda4ec9874  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5531.png
+138 227 216 225 
+2
+11e38affaea9c25cec9f2da3e8b64ae0dd15611a  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5532.png
+145 226 221 225 
+3
+6568e6ad8c2626619ee5211cdb23ff0c4d72a1e6  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5533.png
+152 226 226 224 
+4
+2051c1304ec173faab9d6164be01fa19a9949143  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5534.png
+138 229 217 227 
+5
+fe7555ba38dad05650edf1c71e39affa66adee04  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5535.png
+146 228 221 226 
+6
+ab33a9ec8ba6ebb2bdd93e96c9592662e0043c7a  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5536.png
+152 228 225 228 
+7
+c18b281a385c0e37856ee8a09c1b915d00fa9d24  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5537.png
+140 228 217 227 
+8
+0299a5a194e30ec260734ff2a23dd304b2675bf9  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5538.png
+147 229 223 228 
+9
+3339fe9ec8cec1e0e0dbd2cee64d198fc85f71aa  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/5539.png
+152 230 225 229 
+6 1 1
+1
+44107363599c218ac505e6c3f121c8906395861d  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6111.png
+169 385 264 388 
+2
+723b4b61223588d47e93dcbfdbc92d5cbd8ea7f8  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6112.png
+178 384 271 389 
+3
+4736dfc75f47700ce800250cc93d557c1ac2bcdf  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6113.png
+185 384 280 388 
+4
+e6950e4dd0762f34e29e8995802a9991575bed4f  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6114.png
+170 388 264 391 
+5
+3bd6be197ebae253c39de5287d1dbf103ae77159  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6115.png
+179 388 272 392 
+6
+3449c5a838736b5b34e7405f830ea7abbff91de9  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6116.png
+186 387 279 391 
+7
+8042ade9784b99a9977a630faa8795f59be224b9  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6117.png
+171 390 265 392 
+8
+ca7274dd443aa410a5cf283bad800b8b10b4d04b  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6118.png
+179 388 271 392 
+9
+3665920bc2dd34101615dfe4122abadb1a8d71a8  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6119.png
+184 390 278 394 
+6 1 2
+1
+0bf0e2b44b665efa8e8a5a218b0171a8d8310ee1  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6121.png
+176 321 269 323 
+2
+4ecfae5190a1ab2c956dda29020a8aa5b373bb2c  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6122.png
+176 321 269 324 
+3
+2f6ef672cb053b5d98342ec1f85026c6e52525ab  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6123.png
+183 321 277 323 
+4
+ca83854004b86399208498923909a9f2e17b36e2  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6124.png
+170 324 263 325 
+5
+53baf4bd91150a5bb1cf6caa47a5ebd4e6eb4aca  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6125.png
+175 324 267 326 
+6
+5e9cf42f79f1758ee8711a6c625283f3d0043637  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6126.png
+184 323 275 325 
+7
+791d716dfa2077940310a3f7cb9895643fac84e3  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6127.png
+170 326 262 327 
+8
+61373032c3fb542444ec094688a3e1cc76df95f5  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6128.png
+176 326 268 328 
+9
+528c224e36ae5a8b1fe2de7b7b88c590b8dbe060  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6129.png
+182 325 275 327 
+6 1 3
+1
+229ae34b27e506a8455fd6ed2ec85fdc1a377ee5  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6131.png
+170 243 263 246 
+2
+69353943aca95846c9c609990cd8fa8a37aeabb4  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6132.png
+176 243 268 247 
+3
+d498e1a0bb7745dc3c4dfac60cb3bf81b46c8812  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6133.png
+182 244 275 247 
+4
+b21cbeb778a9baa1d634d85641cdb20e27f93ad3  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6134.png
+170 247 266 250 
+5
+f5a155b5febadd1509aa6a26cc5b698d33a4d09b  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6135.png
+178 247 271 250 
+6
+c0eed1b5af0102e3c8e30f2aeb443a8e967e3c63  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6136.png
+183 245 276 250 
+7
+971020cdff19066c1e47902d0259d2ba0eb5f6de  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6137.png
+171 248 264 252 
+8
+02f001ba0b172a9d5835ca3a97ed5da9c548ecd4  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6138.png
+177 250 270 252 
+9
+ff09a36de697fad314ffee43125200ec03a58926  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6139.png
+183 249 275 252 
+6 2 1
+1
+1a655c1fad1dd1b5582a04d51b2d4f9ffd78efe3  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6211.png
+244 386 337 392 
+2
+f30c7c3ed8e37164f964dac16097e76de6d7930e  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6212.png
+248 387 339 391 
+3
+d0153469052a075dfbc898896f10b3c98c7482b3  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6213.png
+254 387 347 390 
+4
+ea8917efe4f17d86ddca3562a94c60a5b0508640  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6214.png
+240 390 333 391 
+5
+51e4a6533dbbb761508d3a1d17da32998aa4ce97  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6215.png
+247 389 339 393 
+6
+7d632e74cb4b66dbc62af01b22c6fb0e1a0a58dc  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6216.png
+255 389 346 393 
+7
+b8fa9fb6baf3df2654151d6fa064a6f1a26d57ae  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6217.png
+241 391 332 394 
+8
+c202d8cb03650d50a88c6b3af01f78a896a3e98c  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6218.png
+247 391 339 394 
+9
+fd11dd87d92c1ca34f6b12436578b898e18d9b84  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6219.png
+255 391 346 395 
+6 2 2
+1
+fd5c9873bfc1ede7aac7095d3a305bc92f495d67  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6221.png
+249 315 342 318 
+2
+0c6044675fc8aaec4ab1cbbf9997986949f05c98  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6222.png
+258 316 349 319 
+3
+3e30b6f9624a74675214daee4a0f136da8a1ae40  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6223.png
+265 316 357 319 
+4
+d4d3d2d35544b814b27d39b18d0cf47d25892b90  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6224.png
+251 317 343 321 
+5
+89f35f67f45901734171494d389a4c11b9295bcc  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6225.png
+258 317 350 322 
+6
+b238e3caa103b04e79541fd9bccc69e4c437e897  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6226.png
+265 316 355 320 
+7
+32305a69e1d2d9fe3b94afe9147059658c6a2b8d  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6227.png
+255 321 345 323 
+8
+a73271074e7f54e22e3aaf32794620289d884ee2  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6228.png
+261 319 352 324 
+9
+ac4ff0b345db80fc07ab66710548a54601e2b974  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6229.png
+267 320 358 324 
+6 2 3
+1
+d87a40765c306dbe68da425b76bff71efadd0b87  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6231.png
+243 245 337 246 
+2
+411b6d48e7c0e960a5fc03c23e042260329b645b  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6232.png
+250 244 342 246 
+3
+73f8ad504fa551de286c22a57a3eac5f0120dc73  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6233.png
+258 245 349 248 
+4
+f5d9e49447a21e913936a756e0a9830358963481  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6234.png
+242 248 335 249 
+5
+3fff9f4c01225457feb2a7aae268ba9cc954cc42  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6235.png
+251 248 342 250 
+6
+ec0796eae97824d9516ae08e7d9eab6b18428eff  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6236.png
+255 247 346 249 
+7
+ba3e3b65cc65586ab2a223fd03b1307b3cc68b9d  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6237.png
+245 249 336 251 
+8
+d672e739413c64b83306c7cc1fa757296126667d  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6238.png
+250 248 342 251 
+9
+811c01da13666665594588469c4797ee4d87cec7  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6239.png
+255 248 348 253 
+6 3 1
+1
+d7d0b5fa3956d35c118e600deabba3efb32b3e78  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6311.png
+305 384 398 387 
+2
+87a7d7e37f215e2d3e04394f10d2ddcd9ec2e5c3  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6312.png
+316 385 408 389 
+3
+60deffc0bd7a6a466e8acaa331ac855da37bb934  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6313.png
+324 385 415 389 
+4
+a14f427175d9b4ebd88c76b5762df711b387ec62  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6314.png
+310 388 402 391 
+5
+5c86eadc9a277f15dd83dcc838c10c9686376ebc  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6315.png
+316 387 408 392 
+6
+b00d35191d17586e8fda0eb5204a48e6cc2da69b  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6316.png
+324 387 415 392 
+7
+7c89ab1abb54e049692dd2c18e174cde040e0520  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6317.png
+312 389 403 391 
+8
+ae6596507761cb6523c4efa82372df21c28dd9a8  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6318.png
+318 389 410 394 
+9
+f1633853a4996b69a979d841bc364b6cd40eddc4  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6319.png
+324 388 415 394 
+6 3 2
+1
+053cdf4c643984b2e45675c9d53a1a57e3599fdc  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6321.png
+307 315 398 319 
+2
+8c74c064bdf5446c5b855157cf21e7e480cb7443  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6322.png
+314 316 404 319 
+3
+f5b449f14585667f983ab0c4e54e6033f4cb56ef  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6323.png
+320 317 411 319 
+4
+b9a2e0f9101d9dcac4b64ec2fed93d367b305910  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6324.png
+307 319 400 321 
+5
+46a176a8c3285072b4335fa231fff35f64ead872  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6325.png
+315 318 406 321 
+6
+052fa68cce38de9d331a8c3f5bfb8f5e353e4a53  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6326.png
+322 317 412 319 
+7
+6be7ee251706c13d0b02020a59b4d606463fefbb  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6327.png
+309 320 402 323 
+8
+9e7199c8882810855e6c36d550e9ecf1ef05e6d7  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6328.png
+317 320 408 323 
+9
+af351218916af093105a080658af0455d864136c  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6329.png
+324 319 413 323 
+6 3 3
+1
+ab9e4a847d171ce91daee0d993f54f50405f882e  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6331.png
+315 244 406 248 
+2
+fe79686974e2807dda7e0229cb60b153c1762a59  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6332.png
+321 243 414 248 
+3
+1964cd9704a3954a20eaf16d00c99b5533f6ce77  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6333.png
+331 243 422 249 
+4
+c7f861ce78dca8a7ac4ea6d7274c0f06905275d6  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6334.png
+314 246 407 250 
+5
+cb5c75fd41caa9df83310faf2463c2978f9a67b6  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6335.png
+321 246 413 251 
+6
+d9725e690113563892ed8c69db568681be25e6df  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6336.png
+329 246 421 252 
+7
+5a0d90e30f40c2cdeab4e295d21c2b42856ddc25  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6337.png
+316 248 408 253 
+8
+da33f7e51023636370c7d210f409d2ac2b154fc2  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6338.png
+323 247 414 254 
+9
+72e26dc87d59ed0c2ba66fb586b4009e92ab9091  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6339.png
+329 247 419 253 
+6 4 1
+1
+82b73c2f6422e82b817fdb8f93a4532cf94a0984  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6411.png
+386 388 478 393 
+2
+4b7fae64c6a20a1377b35141d694d106ed93d4e2  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6412.png
+392 388 485 394 
+3
+fb012196a5f33a93d1f593b3cc71138ec0a16b38  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6413.png
+401 389 492 394 
+4
+e24ff95ffc5fc62849feffbcec20b78934b22263  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6414.png
+385 392 477 394 
+5
+599018a2c0e8e3733ffab14bae9fa81044872fc8  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6415.png
+391 391 483 396 
+6
+0fa2bd63f7ca079e294f10535770ca9539b1d231  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6416.png
+399 392 490 397 
+7
+e1c5a8f59b0cacbd54788de6a918618dcd3882ba  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6417.png
+388 394 479 397 
+8
+66bcc4fef97a64154d80f35fd8e5a046bd4c923b  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6418.png
+392 393 484 398 
+9
+e7d80472b786c21258d0a43eea29f01e070b6025  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6419.png
+397 392 489 399 
+6 4 2
+1
+fec46ac74d0ddde9c8adc909e9b5493d06d68568  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6421.png
+379 325 471 326 
+2
+df9f8d0759e52b0ba554dfd985d8716d1dbb0865  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6422.png
+390 325 481 328 
+3
+6c6cddf7e50c75019c0004f3bc47dcec552bccf1  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6423.png
+398 326 490 329 
+4
+dc9aef0291face52dec7664975e302a8ab5c83d7  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6424.png
+386 327 478 331 
+5
+29ee0906c62084f1bf3b66b3093498d599d89606  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6425.png
+392 326 485 331 
+6
+93ff12bf6d818d2bddc0c3314bc18a6aeda8dcb2  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6426.png
+399 327 493 332 
+7
+7ed19e08f7c7e81dcb7c7b093ad83dbc45d73e70  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6427.png
+389 329 482 331 
+8
+ddf5d3fdbd9b0b9b60811af4cb0fa7f71f5f05dc  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6428.png
+396 328 487 334 
+9
+23d5f637faff25ab884d4e9ff57bc15a8da39e7f  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6429.png
+403 329 494 334 
+6 4 3
+1
+abacaf9f61ceaf58d6249e989dd126e3a43a3141  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6431.png
+393 247 487 252 
+2
+8661e12155c1499fe5b567c1fec89e9f5c6e8a41  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6432.png
+399 246 493 252 
+3
+299fb8833950dfadf1666352a7353a67c76738ec  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6433.png
+410 245 503 252 
+4
+62c08cba2f743203da760dd3fba76eb38ef1f93a  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6434.png
+395 249 488 255 
+5
+73676251672ebbb3881a37d669c6c97dfce6fa55  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6435.png
+400 249 495 255 
+6
+cb144369acda05e3887125e2af78aeb5969dad18  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6436.png
+406 248 502 255 
+7
+504b0c0d66a268aca49230de28ac6e3cb0896744  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6437.png
+397 250 489 256 
+8
+f3e7720b4b11ed20e53a29cfc316e734404c317b  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6438.png
+400 252 494 258 
+9
+b7cc3a4a96d45164aefe6be6faca8540c311c4cc  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6439.png
+407 250 499 256 
+6 5 1
+1
+e255710dccd766b6fa0623f9ddd69817ee8cf7a1  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6511.png
+451 394 547 400 
+2
+0e62c6ca05049264c10a1fd29a0fbf4ff0840f3f  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6512.png
+459 394 555 402 
+3
+e641b01afb09e590e1b374c2d4d154d6ae9afeae  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6513.png
+466 394 564 401 
+4
+db08e0d58700f17515eeb37887a87aab5b9c5a66  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6514.png
+455 397 548 402 
+5
+c91ce6866a28b72a15d39967d93c913553292bf6  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6515.png
+460 397 554 404 
+6
+d4e1c3f412cb1da9b651d76da1c4d03d2ad288c2  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6516.png
+474 398 569 404 
+7
+865ddb2097f61b2f42d0eef6eabe528e7d3682b7  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6517.png
+463 399 556 405 
+8
+3f2815709010c16f8db1ebd89b6a9c867cc25478  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6518.png
+468 401 563 407 
+9
+9c096f5f309a1c970f5d1a97ee1e344da9dc4f4a  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6519.png
+475 399 569 406 
+6 5 2
+1
+dbcd268c5ed4a72129b66967aa4dc15235d7c7f2  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6521.png
+451 322 547 327 
+2
+75e7c2772489c394809827c02fa287734f85405b  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6522.png
+457 323 553 327 
+3
+24af1a2a980707943f5f20fabdb7ee45529f37a9  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6523.png
+476 321 571 328 
+4
+26d8d6def18532cbce397c30ab811832441e4a2d  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6524.png
+464 322 559 330 
+5
+f6e2d2ec688e35f7b235e43769f2d59d3158191c  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6525.png
+469 323 564 331 
+6
+d2395d06fbd3b49ec77d6d61b5cf3e32dadaab4c  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6526.png
+477 323 571 332 
+7
+38d27ad3785c5d764ca75c7d5290d19317649d4b  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6527.png
+462 325 558 334 
+8
+6d4ec248efa1575a51655ef2eb1c8ed888c8f9b6  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6528.png
+471 326 565 334 
+9
+6c6e5af36541835c37d7879ef822b0306e60316a  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6529.png
+477 324 570 334 
+6 5 3
+1
+afb549ca0b6c8d4c9d71390704048431003c7248  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6531.png
+459 248 554 255 
+2
+d27fe8b3d42a95a3c7bc1cf804c0a9ff5d6c82fd  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6532.png
+466 249 561 255 
+3
+2c5c7650259fff2250d581df5e20a09133318d6b  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6533.png
+473 248 566 255 
+4
+f104ec6bff8bfffd752fd3cd70f5000edadd0399  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6534.png
+461 250 554 258 
+5
+9c35dc78b54fe44989ed354d33d0f464ae21cf1c  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6535.png
+466 251 560 257 
+6
+f16a786a2dbef19674c07591f2ac23f33e41fc18  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6536.png
+474 249 569 257 
+7
+63a99b3b55420160e99a891ad21a6a3f5d84136d  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6537.png
+462 253 556 259 
+8
+f6932af7ee868c0aa60fa0b3c593c7b0ac9bebb6  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6538.png
+469 253 563 259 
+9
+5617d16dd5f7036b59ee8bc604871cdaf2a179a3  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/6539.png
+476 253 570 260 
+7 1 1
+1
+4cf06e892ec9955fee23cc1b4d2f6315b6ee5953  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7111.png
+190 373 265 380 
+2
+4213aef36f1ef0de1dc88b07099fb695306607e4  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7112.png
+195 374 271 381 
+3
+9a9d3cefdc6d6513499e008333a634940d77e96e  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7113.png
+201 373 278 380 
+4
+9d7c7ba5232ab7f9212bc9a3d3ee50c13350fddb  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7114.png
+191 374 265 382 
+5
+509735e4daa3b11e5a068d2c06ab8b5ec275ad2c  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7115.png
+196 375 271 384 
+6
+5b35e465aa89c196dd7fd9f605e1a552cee926ae  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7116.png
+202 374 278 382 
+7
+f933209ff8879a8414560d2c7738c7f14745932b  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7117.png
+193 378 268 385 
+8
+1698880911e89b69e2dc0e3becd7535712049b79  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7118.png
+199 377 273 385 
+9
+6d057c54dbd7a5848a2623c036649c22d93e856c  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7119.png
+202 377 279 385 
+7 1 2
+1
+bcb6d9393f8f0c61f37461858333eb8f9015608a  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7121.png
+188 304 261 310 
+2
+fb159866ad809029228590d53657fabd90fba8c5  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7122.png
+194 306 267 312 
+3
+2307d5aefcaff63f23f4b4fbcaba6446f4f3ff16  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7123.png
+198 306 275 312 
+4
+85915f13437dabed86821352ba9af74ecceb6ab1  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7124.png
+189 307 263 314 
+5
+c6aa5be53862f1823275393dd046264e1748a734  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7125.png
+195 308 268 315 
+6
+4884403a2aadf3e8f7c77cc9407613462888da93  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7126.png
+200 307 276 313 
+7
+79838147708c719518bac413ee9db0e4b9fdfb6a  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7127.png
+190 308 266 315 
+8
+6a0f69044a05be4eb393973e500ab37ca2ec1212  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7128.png
+196 309 271 315 
+9
+87edae7a1106c3af019593dc28242491b9886fa0  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7129.png
+201 310 276 315 
+7 1 3
+1
+0502ead2cb0d12fea7947002a875f6ff32397e3d  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7131.png
+188 238 263 243 
+2
+1635795e7ceff81a5042cd52767f5bc43ce2bcf3  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7132.png
+193 237 268 242 
+3
+58530f7373923578217e8d0826ce0eeb77efef65  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7133.png
+200 238 276 244 
+4
+a47107fc10db2a839d9e17dc1237864353dcb907  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7134.png
+189 239 264 244 
+5
+7a2e0b935f9a370164dfed68432fe0d3e7bc4e39  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7135.png
+194 239 270 246 
+6
+902a85a0c68c6e230f957496b7e2759f845c1221  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7136.png
+200 237 276 243 
+7
+49c597a80d67fa184887450b8d2538ce00bd9fc5  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7137.png
+190 240 267 247 
+8
+609ebc4b3434a70290ff14d8066231dcb983830b  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7138.png
+196 242 271 248 
+9
+3080bdfaab0c6399a45af0347f5f8ad17ba55b4b  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7139.png
+201 242 275 249 
+7 2 1
+1
+9ece63c7408914bf19f789547b7cdbc56ac42198  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7211.png
+263 370 334 377 
+2
+32caf26ff9ead3612af746b886acd84a7821756f  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7212.png
+268 371 341 377 
+3
+a40b2f23ce740db8f4819a9f6332513a0f86f30d  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7213.png
+274 370 346 377 
+4
+0ac5339477c0c75144bc958d9e91be5acfaf8891  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7214.png
+263 373 337 380 
+5
+1d37a4a355976011e3ae48a5fbe55061d6f6e570  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7215.png
+267 373 340 380 
+6
+24ea8054c2b04ed2a9c8798d9bead4313e38748c  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7216.png
+272 372 347 378 
+7
+745ccee54a3c5d0d5d51478d93863f12ae4e018b  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7217.png
+263 375 338 381 
+8
+691cc42b20c3d3665645f5845ce8cd5010236303  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7218.png
+267 375 343 383 
+9
+c4d7a06e2435e6df4119a096b62fdcecea72b8a9  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7219.png
+273 375 347 382 
+7 2 2
+1
+bee00de1042a778e13fd34f17ae986380878a46e  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7221.png
+263 312 334 321 
+2
+89102a77d5d19f229152e4e26e0bc1b2dfd0ae51  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7222.png
+268 312 342 319 
+3
+82f6735170953db56d06f9113713786bc3a22bad  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7223.png
+274 312 348 320 
+4
+818cc306e33b77afe1aba865147dd7d44966d8eb  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7224.png
+265 314 338 322 
+5
+5f5e9533f8c3aa3ca98942d5dacd38435e2b59ed  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7225.png
+269 315 343 322 
+6
+da82683f07e7a63bba6bc8977829e52b606c0dc4  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7226.png
+275 314 348 321 
+7
+ec5a97a791d273f3b25a8dc3ea4195261d80fc1e  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7227.png
+264 317 337 324 
+8
+8a73382f08a26dadca2d1f168d363e5c7fd60368  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7228.png
+271 316 344 325 
+9
+418a513055118720316e0f3af0cce674d9e12140  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7229.png
+275 316 349 324 
+7 2 3
+1
+13417a07f11f67d10a6e59a1f2772e6f14dd8739  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7231.png
+264 241 338 247 
+2
+9d9892e1053369cf912f74767efdd9418ab5d83d  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7232.png
+269 242 343 247 
+3
+71142f95e3699eb4b74cc6ed08f2c13ae10294ca  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7233.png
+276 241 350 246 
+4
+e23541ed0f9ed2754b0287177cfbdf159805fa2b  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7234.png
+264 243 340 249 
+5
+be8d39aa6ff5c406ed0bea3a5b5f3bcaf96b1933  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7235.png
+269 243 344 248 
+6
+58481f2f9de075765b975ab9a767260bd93c31b2  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7236.png
+275 242 349 249 
+7
+a6e2585c9cd7d028978eaa2db1e35a53e11d6220  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7237.png
+265 245 339 249 
+8
+f4a428926f063c3c63e2785ca893a1fad5ddead0  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7238.png
+270 245 344 250 
+9
+a238f2f26644b5323fd6d59249db223836d7c793  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7239.png
+276 245 350 251 
+7 3 1
+1
+e192765278e97cd65ed06f597c183acf94e9e243  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7311.png
+336 378 410 385 
+2
+d98ba02098ba008951e16565f06cb5e5557df60b  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7312.png
+338 379 414 385 
+3
+f7385bba96a01b4a5eff2f11d6a44f697d57a4be  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7313.png
+344 380 422 386 
+4
+cdb93be79c8c2951648b8ccd3c2038c92ee79a7a  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7314.png
+337 382 411 388 
+5
+011b2e25222eeb963159e0c881033bb215863107  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7315.png
+341 382 417 388 
+6
+64596adda5516dd5e8c7ad905b11325d56f2667d  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7316.png
+347 381 420 388 
+7
+2d83b2c78a4652b2af1bdd189ebb3e22977bbcf3  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7317.png
+336 383 411 390 
+8
+27ade9296b288aaa02f1660002fd637101d92542  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7318.png
+342 384 415 391 
+9
+2d17b9773d919846d1d09e80b6860ba9bd274be3  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7319.png
+347 383 423 391 
+7 3 2
+1
+e79893e6a09fd5eeea78aa892b94f5d0c02d5137  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7321.png
+341 314 414 320 
+2
+da2c5aa918c0e51a93672a5dd669cd05863f8b4d  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7322.png
+347 314 420 320 
+3
+32cbdad27e196b8a74189154a10a3103a77683ad  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7323.png
+352 314 427 320 
+4
+f3555c46dad01edd73806aea9cf36c39c07ad308  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7324.png
+343 315 416 322 
+5
+d8410b62feeacbdbcc2e5fa03f452954414933d8  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7325.png
+347 314 422 323 
+6
+d91487767715e11f3c4f7cadbe11ce32e20a08b8  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7326.png
+352 315 426 322 
+7
+4a5867dac111939535b6d41f2645c218bada1392  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7327.png
+343 316 416 323 
+8
+98cea7a0271c3b837fe63808d982cc396796ed51  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7328.png
+345 317 421 324 
+9
+31c2a7b1f2d6f991b549098668619635ce6a1a19  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7329.png
+353 316 428 323 
+7 3 3
+1
+6271b898d78e7620d0e2595ecc623822ad19daee  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7331.png
+336 238 407 243 
+2
+284be8b1094c79d70ddfaaac4de86e25603d695e  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7332.png
+339 238 414 242 
+3
+7df55e91e89c415b55c6e67f8597203d843fc0e1  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7333.png
+346 237 423 243 
+4
+fa9f76289797016ef74e7022cd487e7729d7e0db  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7334.png
+337 241 410 244 
+5
+8f474ec5dc120ec0a6ecd72a412418d096cc4500  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7335.png
+341 239 414 244 
+6
+97ea166dbbcfe5bca2a3408a84de7d3207d7b330  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7336.png
+345 240 419 244 
+7
+7389fd8f0dee88b568600abf3a6367d00499b928  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7337.png
+338 242 411 247 
+8
+7b61b20a8145fcfb774142a724785fd65eec4428  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7338.png
+341 242 415 247 
+9
+73b2ff45e5ad955124eb12dcefc550a227257e0a  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7339.png
+345 242 419 247 
+7 4 1
+1
+6d2b2dbfa0ae6f6038e1a3c4bbbd5f9a9602db9c  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7411.png
+372 380 445 383 
+2
+857ce9ef429345d7dde09084d5630c8544516997  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7412.png
+385 379 458 384 
+3
+f2454b8a9bb763b15958308944f872d8a4d737ba  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7413.png
+395 380 473 386 
+4
+2c82f6f4945d9e72c7937e7fba73095869312a2a  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7414.png
+383 382 459 387 
+5
+db4627fc3dc276052bbda37716f4ca3a18ee16a8  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7415.png
+386 382 462 388 
+6
+4b4d5bdeb60bedfe6da4ad66700b8aea5093cc76  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7416.png
+396 382 473 387 
+7
+864cc28f2eb8a7dad29e39e9a4c1a83df99e4d1c  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7417.png
+386 385 462 389 
+8
+65a96c246fbd5401406b8a8b1e51e8ec3acdd866  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7418.png
+390 385 466 389 
+9
+6a4fcdb41723a98139e5be847704b5c5514cf402  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7419.png
+395 384 471 389 
+7 4 2
+1
+650e8277245900855bf5ca50b0019a1b2615636c  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7421.png
+379 312 451 318 
+2
+3f603b7573b7c99b4ee0d4bf976ad9cc871c3f93  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7422.png
+384 312 458 318 
+3
+e86c886007789f45cd4a71d39cd4fb63c5e1b369  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7423.png
+389 314 464 319 
+4
+a77b165403f369fde5ba67b10eb7781908020d9b  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7424.png
+380 314 452 319 
+5
+55a5c007ea388d7c6569c16410c80912d960e835  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7425.png
+384 315 457 321 
+6
+9136c106604543c8c9ef3aec5dd8fbdd1591f48b  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7426.png
+389 313 461 320 
+7
+f869ed0a6d715fdcfbbbfc6433edfe5aca8adbc8  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7427.png
+379 316 452 323 
+8
+fb122469a5fda19f775c1bb1874ce724b8f1d72b  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7428.png
+381 316 456 321 
+9
+d553007cec684c60dae055035b46f5a3906faccd  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7429.png
+388 316 462 322 
+7 4 3
+1
+2ba6a7a380c90c0699c9c0e37abf186ccf0ac599  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7431.png
+377 245 450 252 
+2
+c30fec5c3be8fc24b6535ac38057ad26ce9d230e  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7432.png
+381 246 456 253 
+3
+bdef8f06e4757de392c2363a209bfd6d3248b7e2  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7433.png
+389 246 463 251 
+4
+fd0a9d2c2f16d89c4e7dc4c900ffcef1952a4eb6  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7434.png
+377 246 450 253 
+5
+8a5e6059d9768f9f17297d07817bfd0415b148ea  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7435.png
+382 249 456 254 
+6
+b4ee8b4e4a7dabd3fea8209a6840a5690af0481c  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7436.png
+386 248 462 254 
+7
+06987a73d26be0f1d3c60a3439e008ff48ed2201  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7437.png
+376 246 450 254 
+8
+cd29a23b01ceb7ce26a417f7a16906d056896219  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7438.png
+382 246 457 253 
+9
+c2c810800ed7562c7fc39211c4ca6e1435b50437  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7439.png
+388 246 464 254 
+7 5 1
+1
+44466b9f0d84ae6b4a837ba4a12269e00c5768cb  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7511.png
+449 386 520 392 
+2
+5eae0dfd5c502e23140ee807064be5097f05ed6a  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7512.png
+452 386 526 392 
+3
+4e346b3acabfde7d92e2511dd70042c6969c8571  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7513.png
+458 386 533 390 
+4
+dbb0296288d5e31e3723d6bafec9e1e96428f6ff  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7514.png
+447 387 521 392 
+5
+312727bedbb1b2ce8c8f506a2f918c9bd8d2e6a5  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7515.png
+452 387 526 394 
+6
+07083cb91752d1e726e13b8101a427f9620894ca  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7516.png
+458 388 532 393 
+7
+fa575c5edd66e2d842a1acfee5e1ae45e2daf742  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7517.png
+448 389 523 397 
+8
+4d7674f74c6a5de37496c672d353ba5486466dd7  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7518.png
+452 389 527 395 
+9
+368a87f4c0c609e597003d416e8c8e3390fc0176  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7519.png
+457 389 532 395 
+7 5 2
+1
+52f1a4c279153b9c7af85795e4504d508e38ed86  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7521.png
+453 315 528 324 
+2
+67de80f49f4cc2c832cf2ed280dc060ea4d6d150  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7522.png
+458 315 534 323 
+3
+93f639a2437e245547694ba75846197d27411061  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7523.png
+463 316 540 323 
+4
+a76bb722de0af7757a5623b73763cb69336564de  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7524.png
+452 318 528 324 
+5
+a07ebee41ef56df2576ac06edb0da626b1bd03c8  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7525.png
+458 317 534 326 
+6
+2e6c471ca0827202fc35014796330b38ea51ae7e  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7526.png
+464 319 542 325 
+7
+a38dae001da5d5a3b5a1b56fc7bdab234278c501  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7527.png
+453 320 530 327 
+8
+7efe04be0146b62275e3c62efa4b2d4114009f44  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7528.png
+459 319 535 326 
+9
+0d38740667ac39fc13cdabaff9e9ae882ad642e6  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7529.png
+462 320 540 328 
+7 5 3
+1
+d22976c0465e91756410da56f07068118b8ea9d8  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7531.png
+451 245 525 252 
+2
+3af626290e822f9431ee9af004d20a18e8eac212  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7532.png
+457 246 532 252 
+3
+a32a75f5cc3a337f8a8023e61e2051dd16e12838  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7533.png
+461 246 538 251 
+4
+adea2f248451acbca583da80de2dfda244089003  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7534.png
+451 248 526 255 
+5
+ed541ee1134a8f3ad323d613e820f271253399ad  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7535.png
+457 245 533 253 
+6
+01da344eeb58d3264c2f5bee6a26894b0c0711c2  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7536.png
+464 245 541 252 
+7
+e200a6fbcaf3eef380665685b587975e90a02e48  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7537.png
+455 245 531 255 
+8
+bcd8f4367ad7061d8605fee742cbeb04b48bd908  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7538.png
+457 247 535 255 
+9
+1b3f26f8c55b8b3c3bfa8fe98a64c44568613f6d  /home/chris/Téléchargements/OSS117EyeOrigin-master/images/christian/7539.png
+465 246 542 253 
