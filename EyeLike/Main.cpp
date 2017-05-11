@@ -116,7 +116,7 @@ void findeyesandwrite(){
         for (int l=1 ; l<=point ; l++){
           file << l << std::endl ;
           std::string name = transform_name(dir,i,j,k,l) ;
-	  frame = cv::imread(name, CV_LOAD_IMAGE_COLOR) ;
+          frame = cv::imread(name, CV_LOAD_IMAGE_COLOR) ;
         
           // Apply the classifier to the frame
           if( !frame.empty() ) {
@@ -212,7 +212,6 @@ void detectAndDisplay(cv::Mat frame, std::string name, const char* save) {
     write_eyes_pos(save, name, 0, 0, 0, 0) ;
   }
 }
-
 
 /**
  * @function main
