@@ -1,0 +1,39 @@
+\select@language {english}
+\contentsline {chapter}{Contexte}{1}
+\contentsline {chapter}{\numberline {1}Fonctionnement g\IeC {\'e}n\IeC {\'e}ral du logiciel}{2}
+\contentsline {section}{\numberline {1.1}Capturer les images}{2}
+\contentsline {section}{\numberline {1.2}Suivre les yeux}{4}
+\contentsline {subsection}{\numberline {1.2.1}D\IeC {\'e}finir un cadre \IeC {\`a} d\IeC {\'e}tecter autour de l'oeil}{4}
+\contentsline {subsubsection}{\numberline {1.2.1.1}Stocker les coordonn\IeC {\'e}es du cadre de r\IeC {\'e}f\IeC {\'e}rence}{4}
+\contentsline {subsection}{\numberline {1.2.2}D\IeC {\'e}tecter le coin de l'oeil}{4}
+\contentsline {subsubsection}{\numberline {1.2.2.1}Stocker les coordonn\IeC {\'e}es du coin de l'oeil}{4}
+\contentsline {section}{\numberline {1.3}Calculer la coordonn\IeC {\'e}e du centre de l'iris dans un nouveau rep\IeC {\`e}re}{4}
+\contentsline {subsection}{\numberline {1.3.1}Stocker les coordonn\IeC {\'e}es de l'iris}{4}
+\contentsline {section}{\numberline {1.4}Obtenir la g\IeC {\'e}om\IeC {\'e}trie de l'\IeC {\'e}cran}{5}
+\contentsline {section}{\numberline {1.5}Produire une triangulation de l'\IeC {\'e}cran}{5}
+\contentsline {section}{\numberline {1.6}Calibrer la d\IeC {\'e}tection de l'iris}{6}
+\contentsline {section}{\numberline {1.7}Identifier le triangle contenant le point}{7}
+\contentsline {section}{\numberline {1.8}Transposer la position d'un point dans un triangle vers un second triangle}{7}
+\contentsline {subsection}{\numberline {1.8.1}Application lin\IeC {\'e}aire}{7}
+\contentsline {subsection}{\numberline {1.8.2}Application affine}{9}
+\contentsline {section}{\numberline {1.9}Afficher le curseur}{10}
+\contentsline {subsection}{\numberline {1.9.1}Principe et d\IeC {\'e}finitions}{10}
+\contentsline {subsection}{\numberline {1.9.2}Quand relever la position de l'iris ?}{10}
+\contentsline {chapter}{\numberline {2}Validation du mod\IeC {\`e}le}{12}
+\contentsline {section}{\numberline {2.1}D\IeC {\'e}terminer l'erreur maximale tol\IeC {\'e}r\IeC {\'e}e pour l'utilisation du logiciel}{14}
+\contentsline {section}{\numberline {2.2}Transposition d'un point d'un triangle vers un autre par application affine}{16}
+\contentsline {subsection}{\numberline {2.2.1}Test de l'application affine}{16}
+\contentsline {subsection}{\numberline {2.2.2}Erreur de transposition}{16}
+\contentsline {subsection}{\numberline {2.2.3}Calcul de l'application affine de l'erreur de transposition}{16}
+\contentsline {subsection}{\numberline {2.2.4}Cas particulier}{18}
+\contentsline {section}{\numberline {2.3}D\IeC {\'e}tection du cadre de r\IeC {\'e}f\IeC {\'e}rence}{19}
+\contentsline {subsection}{\numberline {2.3.1}Principe}{19}
+\contentsline {subsection}{\numberline {2.3.2}Erreur tag de l'utilisateur}{19}
+\contentsline {subsection}{\numberline {2.3.3}Calcul de l'erreur et interpr\IeC {\'e}tation}{20}
+\contentsline {section}{\numberline {2.4}D\IeC {\'e}tection du centre de l'iris}{20}
+\contentsline {subsection}{\numberline {2.4.1}Principe}{20}
+\contentsline {subsection}{\numberline {2.4.2}Algorithme de d\IeC {\'e}tection de l'iris}{20}
+\contentsline {subsection}{\numberline {2.4.3}Tag manuel de l'iris}{20}
+\contentsline {subsection}{\numberline {2.4.4}Calcul de l'erreur r\IeC {\'e}elle et interpr\IeC {\'e}tation}{21}
+\contentsline {section}{\numberline {2.5}Gui (Graphic user interface)}{25}
+\contentsline {chapter}{References}{28}
